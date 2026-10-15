@@ -1,0 +1,468 @@
+{
+  "run_mode": "FULL",
+  "counts": {
+    "view_comparison_rows": 7680,
+    "diagnostic_units": 640,
+    "association_rows": 150,
+    "remedy_units": 640
+  },
+  "checks": {
+    "parent_and_event_cell_rows": 3840,
+    "commit_replay_score_max_abs_delta": 8.881784197001252e-16,
+    "periodic_event_commit_score_max_abs_delta": 0.0,
+    "event_commit_retained_events_identical": true,
+    "event_commit_final_export_max_abs_delta": 0.0,
+    "max_grid_time_minus_origin": 0,
+    "max_commit_source_minus_origin": 0,
+    "event_commit_task_checks": 96,
+    "periodic_event_commit_feature_max_abs_delta": 0.0
+  },
+  "geometry_by_region_operator": [
+    {
+      "region": "CSTR_OUTPUT_Q1",
+      "operator": "PERIODIC",
+      "n_units": 32,
+      "median_grid_pit_miss_share": 0.7344398340248963,
+      "median_active_grid_pit_miss_share": 0.7344398340248963,
+      "median_horizon_erosion_minutes": 0.14999999999999997,
+      "median_final_native_feature_sd_nrmse": 0.30278365652235734,
+      "median_event_commit_feature_sd_nrmse": 0.0
+    },
+    {
+      "region": "CSTR_OUTPUT_Q1",
+      "operator": "SWINGING_DOOR",
+      "n_units": 32,
+      "median_grid_pit_miss_share": 1.0,
+      "median_active_grid_pit_miss_share": 1.0,
+      "median_horizon_erosion_minutes": 0.3999999999999999,
+      "median_final_native_feature_sd_nrmse": 0.22632242281525233,
+      "median_event_commit_feature_sd_nrmse": 0.20053976212442848
+    },
+    {
+      "region": "PRESSURE_Q16",
+      "operator": "PERIODIC",
+      "n_units": 72,
+      "median_grid_pit_miss_share": 0.7334564998320456,
+      "median_active_grid_pit_miss_share": 0.7334564998320456,
+      "median_horizon_erosion_minutes": 1.5,
+      "median_final_native_feature_sd_nrmse": 0.723527831557649,
+      "median_event_commit_feature_sd_nrmse": 0.0
+    },
+    {
+      "region": "PRESSURE_Q16",
+      "operator": "SWINGING_DOOR",
+      "n_units": 72,
+      "median_grid_pit_miss_share": 1.0,
+      "median_active_grid_pit_miss_share": 1.0,
+      "median_horizon_erosion_minutes": 14.5,
+      "median_final_native_feature_sd_nrmse": 0.50930515053042,
+      "median_event_commit_feature_sd_nrmse": 0.3755022102343879
+    },
+    {
+      "region": "PRESSURE_Q6",
+      "operator": "PERIODIC",
+      "n_units": 72,
+      "median_grid_pit_miss_share": 0.7333444928021426,
+      "median_active_grid_pit_miss_share": 0.7333444928021426,
+      "median_horizon_erosion_minutes": 1.5,
+      "median_final_native_feature_sd_nrmse": 0.7235534893213993,
+      "median_event_commit_feature_sd_nrmse": 0.0
+    },
+    {
+      "region": "PRESSURE_Q6",
+      "operator": "SWINGING_DOOR",
+      "n_units": 72,
+      "median_grid_pit_miss_share": 1.0,
+      "median_active_grid_pit_miss_share": 1.0,
+      "median_horizon_erosion_minutes": 14.5,
+      "median_final_native_feature_sd_nrmse": 0.5094457346155025,
+      "median_event_commit_feature_sd_nrmse": 0.37551311671928156
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "PERIODIC",
+      "n_units": 72,
+      "median_grid_pit_miss_share": 0.7334564998320456,
+      "median_active_grid_pit_miss_share": 0.7334564998320456,
+      "median_horizon_erosion_minutes": 1.5,
+      "median_final_native_feature_sd_nrmse": 0.723527831557649,
+      "median_event_commit_feature_sd_nrmse": 0.0
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "SWINGING_DOOR",
+      "n_units": 72,
+      "median_grid_pit_miss_share": 1.0,
+      "median_active_grid_pit_miss_share": 1.0,
+      "median_horizon_erosion_minutes": 14.5,
+      "median_final_native_feature_sd_nrmse": 0.50930515053042,
+      "median_event_commit_feature_sd_nrmse": 0.3755022102343879
+    },
+    {
+      "region": "TEMPERATURE_Q6",
+      "operator": "PERIODIC",
+      "n_units": 72,
+      "median_grid_pit_miss_share": 0.7333444928021426,
+      "median_active_grid_pit_miss_share": 0.7333444928021426,
+      "median_horizon_erosion_minutes": 1.5,
+      "median_final_native_feature_sd_nrmse": 0.7235534893213993,
+      "median_event_commit_feature_sd_nrmse": 0.0
+    },
+    {
+      "region": "TEMPERATURE_Q6",
+      "operator": "SWINGING_DOOR",
+      "n_units": 72,
+      "median_grid_pit_miss_share": 1.0,
+      "median_active_grid_pit_miss_share": 1.0,
+      "median_horizon_erosion_minutes": 14.5,
+      "median_final_native_feature_sd_nrmse": 0.5094457346155025,
+      "median_event_commit_feature_sd_nrmse": 0.37551311671928156
+    }
+  ],
+  "event_vs_commit_by_region_operator": [
+    {
+      "region": "CSTR_OUTPUT_Q1",
+      "operator": "PERIODIC",
+      "n_units": 32,
+      "median_evaluation_gap": 0.0,
+      "max_absolute_evaluation_gap": 0.0,
+      "practical_winner_changes": 0
+    },
+    {
+      "region": "CSTR_OUTPUT_Q1",
+      "operator": "SWINGING_DOOR",
+      "n_units": 32,
+      "median_evaluation_gap": 0.003234291842007758,
+      "max_absolute_evaluation_gap": 0.0331605741840528,
+      "practical_winner_changes": 0
+    },
+    {
+      "region": "PRESSURE_Q16",
+      "operator": "PERIODIC",
+      "n_units": 72,
+      "median_evaluation_gap": 0.0,
+      "max_absolute_evaluation_gap": 0.0,
+      "practical_winner_changes": 0
+    },
+    {
+      "region": "PRESSURE_Q16",
+      "operator": "SWINGING_DOOR",
+      "n_units": 72,
+      "median_evaluation_gap": 0.024779195417445526,
+      "max_absolute_evaluation_gap": 0.04646250856651569,
+      "practical_winner_changes": 9
+    },
+    {
+      "region": "PRESSURE_Q6",
+      "operator": "PERIODIC",
+      "n_units": 72,
+      "median_evaluation_gap": 0.0,
+      "max_absolute_evaluation_gap": 0.0,
+      "practical_winner_changes": 0
+    },
+    {
+      "region": "PRESSURE_Q6",
+      "operator": "SWINGING_DOOR",
+      "n_units": 72,
+      "median_evaluation_gap": 0.05599485837169357,
+      "max_absolute_evaluation_gap": 0.6477606122289898,
+      "practical_winner_changes": 9
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "PERIODIC",
+      "n_units": 72,
+      "median_evaluation_gap": 0.0,
+      "max_absolute_evaluation_gap": 0.0,
+      "practical_winner_changes": 0
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "SWINGING_DOOR",
+      "n_units": 72,
+      "median_evaluation_gap": 0.0012820630447438074,
+      "max_absolute_evaluation_gap": 0.14488159345129709,
+      "practical_winner_changes": 8
+    },
+    {
+      "region": "TEMPERATURE_Q6",
+      "operator": "PERIODIC",
+      "n_units": 72,
+      "median_evaluation_gap": 0.0,
+      "max_absolute_evaluation_gap": 0.0,
+      "practical_winner_changes": 0
+    },
+    {
+      "region": "TEMPERATURE_Q6",
+      "operator": "SWINGING_DOOR",
+      "n_units": 72,
+      "median_evaluation_gap": 0.008708171539935975,
+      "max_absolute_evaluation_gap": 1.100247060071631,
+      "practical_winner_changes": 2
+    }
+  ],
+  "remedy_counts": [
+    {
+      "region": "CSTR_OUTPUT_Q1",
+      "operator": "PERIODIC",
+      "remedy_class": "EVALUATION_AND_RETRAINING_REPAIR",
+      "n_units": 19
+    },
+    {
+      "region": "CSTR_OUTPUT_Q1",
+      "operator": "PERIODIC",
+      "remedy_class": "EVALUATION_CORRECTION_DOMINANT",
+      "n_units": 8
+    },
+    {
+      "region": "CSTR_OUTPUT_Q1",
+      "operator": "PERIODIC",
+      "remedy_class": "MIXED_SMALL_COMPONENTS",
+      "n_units": 1
+    },
+    {
+      "region": "CSTR_OUTPUT_Q1",
+      "operator": "PERIODIC",
+      "remedy_class": "RETRAINING_ADVERSE_OR_HETEROGENEOUS",
+      "n_units": 4
+    },
+    {
+      "region": "CSTR_OUTPUT_Q1",
+      "operator": "SWINGING_DOOR",
+      "remedy_class": "EVALUATION_AND_RETRAINING_REPAIR",
+      "n_units": 26
+    },
+    {
+      "region": "CSTR_OUTPUT_Q1",
+      "operator": "SWINGING_DOOR",
+      "remedy_class": "EVALUATION_CORRECTION_DOMINANT",
+      "n_units": 3
+    },
+    {
+      "region": "CSTR_OUTPUT_Q1",
+      "operator": "SWINGING_DOOR",
+      "remedy_class": "RETRAINING_ADVERSE_OR_HETEROGENEOUS",
+      "n_units": 3
+    },
+    {
+      "region": "PRESSURE_Q16",
+      "operator": "PERIODIC",
+      "remedy_class": "EVALUATION_AND_RETRAINING_REPAIR",
+      "n_units": 69
+    },
+    {
+      "region": "PRESSURE_Q16",
+      "operator": "PERIODIC",
+      "remedy_class": "EVALUATION_CORRECTION_DOMINANT",
+      "n_units": 1
+    },
+    {
+      "region": "PRESSURE_Q16",
+      "operator": "PERIODIC",
+      "remedy_class": "RETRAINING_ADVERSE_OR_HETEROGENEOUS",
+      "n_units": 2
+    },
+    {
+      "region": "PRESSURE_Q16",
+      "operator": "SWINGING_DOOR",
+      "remedy_class": "EVALUATION_AND_RETRAINING_REPAIR",
+      "n_units": 72
+    },
+    {
+      "region": "PRESSURE_Q6",
+      "operator": "PERIODIC",
+      "remedy_class": "EVALUATION_AND_RETRAINING_REPAIR",
+      "n_units": 45
+    },
+    {
+      "region": "PRESSURE_Q6",
+      "operator": "PERIODIC",
+      "remedy_class": "EVALUATION_CORRECTION_DOMINANT",
+      "n_units": 21
+    },
+    {
+      "region": "PRESSURE_Q6",
+      "operator": "PERIODIC",
+      "remedy_class": "RETRAINING_ADVERSE_OR_HETEROGENEOUS",
+      "n_units": 6
+    },
+    {
+      "region": "PRESSURE_Q6",
+      "operator": "SWINGING_DOOR",
+      "remedy_class": "EVALUATION_AND_RETRAINING_REPAIR",
+      "n_units": 72
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "PERIODIC",
+      "remedy_class": "EVALUATION_AND_RETRAINING_REPAIR",
+      "n_units": 17
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "PERIODIC",
+      "remedy_class": "EVALUATION_CORRECTION_DOMINANT",
+      "n_units": 2
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "PERIODIC",
+      "remedy_class": "MIXED_SMALL_COMPONENTS",
+      "n_units": 25
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "PERIODIC",
+      "remedy_class": "ORIGIN_VIEW_IMPROVES_OR_HETEROGENEOUS",
+      "n_units": 5
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "PERIODIC",
+      "remedy_class": "PRACTICALLY_UNCHANGED",
+      "n_units": 15
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "PERIODIC",
+      "remedy_class": "RETRAINING_ADVERSE_OR_HETEROGENEOUS",
+      "n_units": 8
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "SWINGING_DOOR",
+      "remedy_class": "EVALUATION_AND_RETRAINING_REPAIR",
+      "n_units": 56
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "SWINGING_DOOR",
+      "remedy_class": "EVALUATION_CORRECTION_DOMINANT",
+      "n_units": 1
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "SWINGING_DOOR",
+      "remedy_class": "MIXED_SMALL_COMPONENTS",
+      "n_units": 14
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "SWINGING_DOOR",
+      "remedy_class": "ORIGIN_VIEW_IMPROVES_OR_HETEROGENEOUS",
+      "n_units": 1
+    },
+    {
+      "region": "TEMPERATURE_Q6",
+      "operator": "PERIODIC",
+      "remedy_class": "EVALUATION_AND_RETRAINING_REPAIR",
+      "n_units": 20
+    },
+    {
+      "region": "TEMPERATURE_Q6",
+      "operator": "PERIODIC",
+      "remedy_class": "EVALUATION_CORRECTION_DOMINANT",
+      "n_units": 2
+    },
+    {
+      "region": "TEMPERATURE_Q6",
+      "operator": "PERIODIC",
+      "remedy_class": "MIXED_SMALL_COMPONENTS",
+      "n_units": 6
+    },
+    {
+      "region": "TEMPERATURE_Q6",
+      "operator": "PERIODIC",
+      "remedy_class": "ORIGIN_VIEW_IMPROVES_OR_HETEROGENEOUS",
+      "n_units": 25
+    },
+    {
+      "region": "TEMPERATURE_Q6",
+      "operator": "PERIODIC",
+      "remedy_class": "RETRAINING_ADVERSE_OR_HETEROGENEOUS",
+      "n_units": 19
+    },
+    {
+      "region": "TEMPERATURE_Q6",
+      "operator": "SWINGING_DOOR",
+      "remedy_class": "EVALUATION_AND_RETRAINING_REPAIR",
+      "n_units": 54
+    },
+    {
+      "region": "TEMPERATURE_Q6",
+      "operator": "SWINGING_DOOR",
+      "remedy_class": "EVALUATION_CORRECTION_DOMINANT",
+      "n_units": 1
+    },
+    {
+      "region": "TEMPERATURE_Q6",
+      "operator": "SWINGING_DOOR",
+      "remedy_class": "RETRAINING_ADVERSE_OR_HETEROGENEOUS",
+      "n_units": 17
+    }
+  ],
+  "association_highlights": [
+    {
+      "region": "CSTR_OUTPUT_Q1",
+      "operator": "PERIODIC",
+      "diagnostic_with_largest_absolute_rho": "compression_fraction",
+      "spearman_absolute_deployment_gap": 0.8415745959726387
+    },
+    {
+      "region": "CSTR_OUTPUT_Q1",
+      "operator": "SWINGING_DOOR",
+      "diagnostic_with_largest_absolute_rho": "active_future_cell_share",
+      "spearman_absolute_deployment_gap": 0.3988269794721407
+    },
+    {
+      "region": "PRESSURE_Q16",
+      "operator": "PERIODIC",
+      "diagnostic_with_largest_absolute_rho": "compression_fraction",
+      "spearman_absolute_deployment_gap": 0.8810691585019296
+    },
+    {
+      "region": "PRESSURE_Q16",
+      "operator": "SWINGING_DOOR",
+      "diagnostic_with_largest_absolute_rho": "event_commit_feature_sd_nrmse",
+      "spearman_absolute_deployment_gap": -0.8655218985143741
+    },
+    {
+      "region": "PRESSURE_Q6",
+      "operator": "PERIODIC",
+      "diagnostic_with_largest_absolute_rho": "compression_fraction",
+      "spearman_absolute_deployment_gap": 0.732231831183761
+    },
+    {
+      "region": "PRESSURE_Q6",
+      "operator": "SWINGING_DOOR",
+      "diagnostic_with_largest_absolute_rho": "event_commit_origin_difference_share",
+      "spearman_absolute_deployment_gap": -0.5050700316341175
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "PERIODIC",
+      "diagnostic_with_largest_absolute_rho": "compression_fraction",
+      "spearman_absolute_deployment_gap": 0.31202042112483525
+    },
+    {
+      "region": "TEMPERATURE_Q16",
+      "operator": "SWINGING_DOOR",
+      "diagnostic_with_largest_absolute_rho": "event_commit_feature_sd_nrmse",
+      "spearman_absolute_deployment_gap": -0.19776191394945014
+    },
+    {
+      "region": "TEMPERATURE_Q6",
+      "operator": "PERIODIC",
+      "diagnostic_with_largest_absolute_rho": "final_commit_feature_sd_nrmse",
+      "spearman_absolute_deployment_gap": 0.14997749051385945
+    },
+    {
+      "region": "TEMPERATURE_Q6",
+      "operator": "SWINGING_DOOR",
+      "diagnostic_with_largest_absolute_rho": "final_native_feature_sd_nrmse",
+      "spearman_absolute_deployment_gap": -0.1722618817930414
+    }
+  ],
+  "contribution_state": "PENDING_MANAGER_INTERPRETATION",
+  "tep_target_panel": "full2x2"
+}

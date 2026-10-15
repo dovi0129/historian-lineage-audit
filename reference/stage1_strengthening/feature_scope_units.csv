@@ -1,0 +1,1153 @@
+region,severity_k,fold,fault,feature_scope,n_origins,strict_failure_share,active_failure_share,median_strict_erosion_minutes,median_active_erosion_minutes
+PRESSURE_Q6,2,1,1,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,1,1,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,1,1,all-channel current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,2,1,1,full lag window,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,1,1,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,1,1,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,1,1,all-channel current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,1,1,full lag window,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,1,1,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,1,1,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,1,1,all-channel current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,1,1,full lag window,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,1,1,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,1,1,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,1,1,all-channel current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,1,1,full lag window,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q6,3,1,1,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,1,1,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,1,1,all-channel current,5974,1.0,1.0,11.0,11.0
+PRESSURE_Q6,3,1,1,full lag window,5974,1.0,1.0,11.0,11.0
+TEMPERATURE_Q6,3,1,1,target current,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,1,1,target history,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,1,1,all-channel current,5974,1.0,1.0,11.0,11.0
+TEMPERATURE_Q6,3,1,1,full lag window,5974,1.0,1.0,11.0,11.0
+PRESSURE_Q16,3,1,1,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,1,1,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,1,1,all-channel current,5954,1.0,1.0,11.0,11.0
+PRESSURE_Q16,3,1,1,full lag window,5954,1.0,1.0,11.0,11.0
+TEMPERATURE_Q16,3,1,1,target current,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,1,1,target history,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,1,1,all-channel current,5954,1.0,1.0,11.0,11.0
+TEMPERATURE_Q16,3,1,1,full lag window,5954,1.0,1.0,11.0,11.0
+PRESSURE_Q6,5,1,1,target current,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,1,1,target history,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,1,1,all-channel current,5974,1.0,1.0,25.0,25.0
+PRESSURE_Q6,5,1,1,full lag window,5974,1.0,1.0,25.0,25.0
+TEMPERATURE_Q6,5,1,1,target current,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,5,1,1,target history,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,5,1,1,all-channel current,5974,1.0,1.0,25.0,25.0
+TEMPERATURE_Q6,5,1,1,full lag window,5974,1.0,1.0,25.0,25.0
+PRESSURE_Q16,5,1,1,target current,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,1,1,target history,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,1,1,all-channel current,5954,1.0,1.0,25.0,25.0
+PRESSURE_Q16,5,1,1,full lag window,5954,1.0,1.0,25.0,25.0
+TEMPERATURE_Q16,5,1,1,target current,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,5,1,1,target history,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,5,1,1,all-channel current,5954,1.0,1.0,25.0,25.0
+TEMPERATURE_Q16,5,1,1,full lag window,5954,1.0,1.0,25.0,25.0
+PRESSURE_Q6,8,1,1,target current,5974,1.0,1.0,7.0,7.0
+PRESSURE_Q6,8,1,1,target history,5974,1.0,1.0,7.0,7.0
+PRESSURE_Q6,8,1,1,all-channel current,5974,1.0,1.0,182.0,182.0
+PRESSURE_Q6,8,1,1,full lag window,5974,1.0,1.0,182.0,182.0
+TEMPERATURE_Q6,8,1,1,target current,5974,1.0,1.0,92.0,92.0
+TEMPERATURE_Q6,8,1,1,target history,5974,1.0,1.0,92.0,92.0
+TEMPERATURE_Q6,8,1,1,all-channel current,5974,1.0,1.0,182.0,182.0
+TEMPERATURE_Q6,8,1,1,full lag window,5974,1.0,1.0,182.0,182.0
+PRESSURE_Q16,8,1,1,target current,5954,1.0,1.0,7.0,7.0
+PRESSURE_Q16,8,1,1,target history,5954,1.0,1.0,7.0,7.0
+PRESSURE_Q16,8,1,1,all-channel current,5954,1.0,1.0,182.0,182.0
+PRESSURE_Q16,8,1,1,full lag window,5954,1.0,1.0,182.0,182.0
+TEMPERATURE_Q16,8,1,1,target current,5954,1.0,1.0,93.0,93.0
+TEMPERATURE_Q16,8,1,1,target history,5954,1.0,1.0,93.0,93.0
+TEMPERATURE_Q16,8,1,1,all-channel current,5954,1.0,1.0,182.0,182.0
+TEMPERATURE_Q16,8,1,1,full lag window,5954,1.0,1.0,182.0,182.0
+PRESSURE_Q6,2,2,1,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,2,1,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,2,1,all-channel current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,2,2,1,full lag window,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,2,1,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,2,1,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,2,1,all-channel current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,2,1,full lag window,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,2,1,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,2,1,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,2,1,all-channel current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,2,1,full lag window,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,2,1,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,2,1,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,2,1,all-channel current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,2,1,full lag window,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q6,3,2,1,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,2,1,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,2,1,all-channel current,5974,1.0,1.0,11.0,11.0
+PRESSURE_Q6,3,2,1,full lag window,5974,1.0,1.0,11.0,11.0
+TEMPERATURE_Q6,3,2,1,target current,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,2,1,target history,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,2,1,all-channel current,5974,1.0,1.0,11.0,11.0
+TEMPERATURE_Q6,3,2,1,full lag window,5974,1.0,1.0,11.0,11.0
+PRESSURE_Q16,3,2,1,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,2,1,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,2,1,all-channel current,5954,1.0,1.0,11.0,11.0
+PRESSURE_Q16,3,2,1,full lag window,5954,1.0,1.0,11.0,11.0
+TEMPERATURE_Q16,3,2,1,target current,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,2,1,target history,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,2,1,all-channel current,5954,1.0,1.0,11.0,11.0
+TEMPERATURE_Q16,3,2,1,full lag window,5954,1.0,1.0,11.0,11.0
+PRESSURE_Q6,5,2,1,target current,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,2,1,target history,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,2,1,all-channel current,5974,1.0,1.0,25.0,25.0
+PRESSURE_Q6,5,2,1,full lag window,5974,1.0,1.0,25.0,25.0
+TEMPERATURE_Q6,5,2,1,target current,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,5,2,1,target history,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,5,2,1,all-channel current,5974,1.0,1.0,25.0,25.0
+TEMPERATURE_Q6,5,2,1,full lag window,5974,1.0,1.0,25.0,25.0
+PRESSURE_Q16,5,2,1,target current,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,2,1,target history,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,2,1,all-channel current,5954,1.0,1.0,25.0,25.0
+PRESSURE_Q16,5,2,1,full lag window,5954,1.0,1.0,25.0,25.0
+TEMPERATURE_Q16,5,2,1,target current,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,5,2,1,target history,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,5,2,1,all-channel current,5954,1.0,1.0,25.0,25.0
+TEMPERATURE_Q16,5,2,1,full lag window,5954,1.0,1.0,25.0,25.0
+PRESSURE_Q6,8,2,1,target current,5974,1.0,1.0,8.0,8.0
+PRESSURE_Q6,8,2,1,target history,5974,1.0,1.0,8.0,8.0
+PRESSURE_Q6,8,2,1,all-channel current,5974,1.0,1.0,181.0,181.0
+PRESSURE_Q6,8,2,1,full lag window,5974,1.0,1.0,181.0,181.0
+TEMPERATURE_Q6,8,2,1,target current,5974,1.0,1.0,103.0,103.0
+TEMPERATURE_Q6,8,2,1,target history,5974,1.0,1.0,103.0,103.0
+TEMPERATURE_Q6,8,2,1,all-channel current,5974,1.0,1.0,181.0,181.0
+TEMPERATURE_Q6,8,2,1,full lag window,5974,1.0,1.0,181.0,181.0
+PRESSURE_Q16,8,2,1,target current,5954,1.0,1.0,8.0,8.0
+PRESSURE_Q16,8,2,1,target history,5954,1.0,1.0,8.0,8.0
+PRESSURE_Q16,8,2,1,all-channel current,5954,1.0,1.0,182.0,182.0
+PRESSURE_Q16,8,2,1,full lag window,5954,1.0,1.0,182.0,182.0
+TEMPERATURE_Q16,8,2,1,target current,5954,1.0,1.0,103.0,103.0
+TEMPERATURE_Q16,8,2,1,target history,5954,1.0,1.0,103.0,103.0
+TEMPERATURE_Q16,8,2,1,all-channel current,5954,1.0,1.0,182.0,182.0
+TEMPERATURE_Q16,8,2,1,full lag window,5954,1.0,1.0,182.0,182.0
+PRESSURE_Q6,2,3,1,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,3,1,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,3,1,all-channel current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,2,3,1,full lag window,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,3,1,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,3,1,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,3,1,all-channel current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,3,1,full lag window,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,3,1,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,3,1,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,3,1,all-channel current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,3,1,full lag window,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,3,1,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,3,1,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,3,1,all-channel current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,3,1,full lag window,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q6,3,3,1,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,3,1,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,3,1,all-channel current,5974,1.0,1.0,11.0,11.0
+PRESSURE_Q6,3,3,1,full lag window,5974,1.0,1.0,11.0,11.0
+TEMPERATURE_Q6,3,3,1,target current,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,3,1,target history,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,3,1,all-channel current,5974,1.0,1.0,11.0,11.0
+TEMPERATURE_Q6,3,3,1,full lag window,5974,1.0,1.0,11.0,11.0
+PRESSURE_Q16,3,3,1,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,3,1,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,3,1,all-channel current,5954,1.0,1.0,11.0,11.0
+PRESSURE_Q16,3,3,1,full lag window,5954,1.0,1.0,11.0,11.0
+TEMPERATURE_Q16,3,3,1,target current,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,3,1,target history,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,3,1,all-channel current,5954,1.0,1.0,11.0,11.0
+TEMPERATURE_Q16,3,3,1,full lag window,5954,1.0,1.0,11.0,11.0
+PRESSURE_Q6,5,3,1,target current,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,3,1,target history,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,3,1,all-channel current,5974,1.0,1.0,25.0,25.0
+PRESSURE_Q6,5,3,1,full lag window,5974,1.0,1.0,25.0,25.0
+TEMPERATURE_Q6,5,3,1,target current,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,5,3,1,target history,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,5,3,1,all-channel current,5974,1.0,1.0,25.0,25.0
+TEMPERATURE_Q6,5,3,1,full lag window,5974,1.0,1.0,25.0,25.0
+PRESSURE_Q16,5,3,1,target current,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,3,1,target history,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,3,1,all-channel current,5954,1.0,1.0,25.0,25.0
+PRESSURE_Q16,5,3,1,full lag window,5954,1.0,1.0,25.0,25.0
+TEMPERATURE_Q16,5,3,1,target current,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,5,3,1,target history,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,5,3,1,all-channel current,5954,1.0,1.0,25.0,25.0
+TEMPERATURE_Q16,5,3,1,full lag window,5954,1.0,1.0,25.0,25.0
+PRESSURE_Q6,8,3,1,target current,5974,1.0,1.0,7.0,7.0
+PRESSURE_Q6,8,3,1,target history,5974,1.0,1.0,7.0,7.0
+PRESSURE_Q6,8,3,1,all-channel current,5974,1.0,1.0,183.0,183.0
+PRESSURE_Q6,8,3,1,full lag window,5974,1.0,1.0,183.0,183.0
+TEMPERATURE_Q6,8,3,1,target current,5974,1.0,1.0,86.0,86.0
+TEMPERATURE_Q6,8,3,1,target history,5974,1.0,1.0,86.0,86.0
+TEMPERATURE_Q6,8,3,1,all-channel current,5974,1.0,1.0,183.0,183.0
+TEMPERATURE_Q6,8,3,1,full lag window,5974,1.0,1.0,183.0,183.0
+PRESSURE_Q16,8,3,1,target current,5954,1.0,1.0,7.0,7.0
+PRESSURE_Q16,8,3,1,target history,5954,1.0,1.0,7.0,7.0
+PRESSURE_Q16,8,3,1,all-channel current,5954,1.0,1.0,184.0,184.0
+PRESSURE_Q16,8,3,1,full lag window,5954,1.0,1.0,184.0,184.0
+TEMPERATURE_Q16,8,3,1,target current,5954,1.0,1.0,87.0,87.0
+TEMPERATURE_Q16,8,3,1,target history,5954,1.0,1.0,87.0,87.0
+TEMPERATURE_Q16,8,3,1,all-channel current,5954,1.0,1.0,184.0,184.0
+TEMPERATURE_Q16,8,3,1,full lag window,5954,1.0,1.0,184.0,184.0
+PRESSURE_Q6,2,1,4,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,1,4,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,1,4,all-channel current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,2,1,4,full lag window,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,1,4,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,1,4,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,1,4,all-channel current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,1,4,full lag window,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,1,4,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,1,4,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,1,4,all-channel current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,1,4,full lag window,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,1,4,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,1,4,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,1,4,all-channel current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,1,4,full lag window,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q6,3,1,4,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,1,4,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,1,4,all-channel current,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q6,3,1,4,full lag window,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,1,4,target current,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,1,4,target history,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,1,4,all-channel current,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,1,4,full lag window,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,1,4,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,1,4,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,1,4,all-channel current,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,1,4,full lag window,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,1,4,target current,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,1,4,target history,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,1,4,all-channel current,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,1,4,full lag window,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q6,5,1,4,target current,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,1,4,target history,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,1,4,all-channel current,5974,1.0,1.0,24.0,24.0
+PRESSURE_Q6,5,1,4,full lag window,5974,1.0,1.0,24.0,24.0
+TEMPERATURE_Q6,5,1,4,target current,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,5,1,4,target history,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,5,1,4,all-channel current,5974,1.0,1.0,24.0,24.0
+TEMPERATURE_Q6,5,1,4,full lag window,5974,1.0,1.0,24.0,24.0
+PRESSURE_Q16,5,1,4,target current,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,1,4,target history,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,1,4,all-channel current,5954,1.0,1.0,24.0,24.0
+PRESSURE_Q16,5,1,4,full lag window,5954,1.0,1.0,24.0,24.0
+TEMPERATURE_Q16,5,1,4,target current,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,5,1,4,target history,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,5,1,4,all-channel current,5954,1.0,1.0,24.0,24.0
+TEMPERATURE_Q16,5,1,4,full lag window,5954,1.0,1.0,24.0,24.0
+PRESSURE_Q6,8,1,4,target current,5974,1.0,1.0,8.0,8.0
+PRESSURE_Q6,8,1,4,target history,5974,1.0,1.0,8.0,8.0
+PRESSURE_Q6,8,1,4,all-channel current,5974,1.0,1.0,182.0,182.0
+PRESSURE_Q6,8,1,4,full lag window,5974,1.0,1.0,182.0,182.0
+TEMPERATURE_Q6,8,1,4,target current,5974,1.0,1.0,101.0,101.0
+TEMPERATURE_Q6,8,1,4,target history,5974,1.0,1.0,101.0,101.0
+TEMPERATURE_Q6,8,1,4,all-channel current,5974,1.0,1.0,182.0,182.0
+TEMPERATURE_Q6,8,1,4,full lag window,5974,1.0,1.0,182.0,182.0
+PRESSURE_Q16,8,1,4,target current,5954,1.0,1.0,8.0,8.0
+PRESSURE_Q16,8,1,4,target history,5954,1.0,1.0,8.0,8.0
+PRESSURE_Q16,8,1,4,all-channel current,5954,1.0,1.0,183.0,183.0
+PRESSURE_Q16,8,1,4,full lag window,5954,1.0,1.0,183.0,183.0
+TEMPERATURE_Q16,8,1,4,target current,5954,1.0,1.0,102.0,102.0
+TEMPERATURE_Q16,8,1,4,target history,5954,1.0,1.0,102.0,102.0
+TEMPERATURE_Q16,8,1,4,all-channel current,5954,1.0,1.0,183.0,183.0
+TEMPERATURE_Q16,8,1,4,full lag window,5954,1.0,1.0,183.0,183.0
+PRESSURE_Q6,2,2,4,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,2,4,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,2,4,all-channel current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,2,2,4,full lag window,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,2,4,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,2,4,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,2,4,all-channel current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,2,4,full lag window,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,2,4,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,2,4,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,2,4,all-channel current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,2,4,full lag window,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,2,4,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,2,4,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,2,4,all-channel current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,2,4,full lag window,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q6,3,2,4,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,2,4,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,2,4,all-channel current,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q6,3,2,4,full lag window,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,2,4,target current,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,2,4,target history,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,2,4,all-channel current,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,2,4,full lag window,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,2,4,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,2,4,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,2,4,all-channel current,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,2,4,full lag window,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,2,4,target current,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,2,4,target history,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,2,4,all-channel current,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,2,4,full lag window,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q6,5,2,4,target current,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,2,4,target history,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,2,4,all-channel current,5974,1.0,1.0,24.0,24.0
+PRESSURE_Q6,5,2,4,full lag window,5974,1.0,1.0,24.0,24.0
+TEMPERATURE_Q6,5,2,4,target current,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,5,2,4,target history,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,5,2,4,all-channel current,5974,1.0,1.0,24.0,24.0
+TEMPERATURE_Q6,5,2,4,full lag window,5974,1.0,1.0,24.0,24.0
+PRESSURE_Q16,5,2,4,target current,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,2,4,target history,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,2,4,all-channel current,5954,1.0,1.0,24.0,24.0
+PRESSURE_Q16,5,2,4,full lag window,5954,1.0,1.0,24.0,24.0
+TEMPERATURE_Q16,5,2,4,target current,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,5,2,4,target history,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,5,2,4,all-channel current,5954,1.0,1.0,24.0,24.0
+TEMPERATURE_Q16,5,2,4,full lag window,5954,1.0,1.0,24.0,24.0
+PRESSURE_Q6,8,2,4,target current,5974,1.0,1.0,7.0,7.0
+PRESSURE_Q6,8,2,4,target history,5974,1.0,1.0,7.0,7.0
+PRESSURE_Q6,8,2,4,all-channel current,5974,1.0,1.0,191.0,191.0
+PRESSURE_Q6,8,2,4,full lag window,5974,1.0,1.0,191.0,191.0
+TEMPERATURE_Q6,8,2,4,target current,5974,1.0,1.0,102.0,102.0
+TEMPERATURE_Q6,8,2,4,target history,5974,1.0,1.0,102.0,102.0
+TEMPERATURE_Q6,8,2,4,all-channel current,5974,1.0,1.0,191.0,191.0
+TEMPERATURE_Q6,8,2,4,full lag window,5974,1.0,1.0,191.0,191.0
+PRESSURE_Q16,8,2,4,target current,5954,1.0,1.0,7.0,7.0
+PRESSURE_Q16,8,2,4,target history,5954,1.0,1.0,7.0,7.0
+PRESSURE_Q16,8,2,4,all-channel current,5954,1.0,1.0,191.0,191.0
+PRESSURE_Q16,8,2,4,full lag window,5954,1.0,1.0,191.0,191.0
+TEMPERATURE_Q16,8,2,4,target current,5954,1.0,1.0,103.0,103.0
+TEMPERATURE_Q16,8,2,4,target history,5954,1.0,1.0,103.0,103.0
+TEMPERATURE_Q16,8,2,4,all-channel current,5954,1.0,1.0,191.0,191.0
+TEMPERATURE_Q16,8,2,4,full lag window,5954,1.0,1.0,191.0,191.0
+PRESSURE_Q6,2,3,4,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,3,4,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,3,4,all-channel current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,2,3,4,full lag window,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,3,4,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,3,4,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,3,4,all-channel current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,3,4,full lag window,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,3,4,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,3,4,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,3,4,all-channel current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,3,4,full lag window,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,3,4,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,3,4,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,3,4,all-channel current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,3,4,full lag window,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q6,3,3,4,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,3,4,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,3,4,all-channel current,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q6,3,3,4,full lag window,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,3,4,target current,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,3,4,target history,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,3,4,all-channel current,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,3,4,full lag window,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,3,4,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,3,4,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,3,4,all-channel current,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,3,4,full lag window,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,3,4,target current,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,3,4,target history,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,3,4,all-channel current,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,3,4,full lag window,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q6,5,3,4,target current,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,3,4,target history,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,3,4,all-channel current,5974,1.0,1.0,23.0,23.0
+PRESSURE_Q6,5,3,4,full lag window,5974,1.0,1.0,23.0,23.0
+TEMPERATURE_Q6,5,3,4,target current,5974,1.0,1.0,8.0,8.0
+TEMPERATURE_Q6,5,3,4,target history,5974,1.0,1.0,8.0,8.0
+TEMPERATURE_Q6,5,3,4,all-channel current,5974,1.0,1.0,23.0,23.0
+TEMPERATURE_Q6,5,3,4,full lag window,5974,1.0,1.0,23.0,23.0
+PRESSURE_Q16,5,3,4,target current,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,3,4,target history,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,3,4,all-channel current,5954,1.0,1.0,23.0,23.0
+PRESSURE_Q16,5,3,4,full lag window,5954,1.0,1.0,23.0,23.0
+TEMPERATURE_Q16,5,3,4,target current,5954,1.0,1.0,8.0,8.0
+TEMPERATURE_Q16,5,3,4,target history,5954,1.0,1.0,8.0,8.0
+TEMPERATURE_Q16,5,3,4,all-channel current,5954,1.0,1.0,23.0,23.0
+TEMPERATURE_Q16,5,3,4,full lag window,5954,1.0,1.0,23.0,23.0
+PRESSURE_Q6,8,3,4,target current,5974,1.0,1.0,8.0,8.0
+PRESSURE_Q6,8,3,4,target history,5974,1.0,1.0,8.0,8.0
+PRESSURE_Q6,8,3,4,all-channel current,5974,1.0,1.0,182.0,182.0
+PRESSURE_Q6,8,3,4,full lag window,5974,1.0,1.0,182.0,182.0
+TEMPERATURE_Q6,8,3,4,target current,5974,1.0,1.0,108.0,108.0
+TEMPERATURE_Q6,8,3,4,target history,5974,1.0,1.0,108.0,108.0
+TEMPERATURE_Q6,8,3,4,all-channel current,5974,1.0,1.0,182.0,182.0
+TEMPERATURE_Q6,8,3,4,full lag window,5974,1.0,1.0,182.0,182.0
+PRESSURE_Q16,8,3,4,target current,5954,1.0,1.0,8.0,8.0
+PRESSURE_Q16,8,3,4,target history,5954,1.0,1.0,8.0,8.0
+PRESSURE_Q16,8,3,4,all-channel current,5954,1.0,1.0,183.0,183.0
+PRESSURE_Q16,8,3,4,full lag window,5954,1.0,1.0,183.0,183.0
+TEMPERATURE_Q16,8,3,4,target current,5954,1.0,1.0,109.0,109.0
+TEMPERATURE_Q16,8,3,4,target history,5954,1.0,1.0,109.0,109.0
+TEMPERATURE_Q16,8,3,4,all-channel current,5954,1.0,1.0,183.0,183.0
+TEMPERATURE_Q16,8,3,4,full lag window,5954,1.0,1.0,183.0,183.0
+PRESSURE_Q6,2,1,5,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,1,5,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,1,5,all-channel current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,2,1,5,full lag window,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,1,5,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,1,5,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,1,5,all-channel current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,1,5,full lag window,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,1,5,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,1,5,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,1,5,all-channel current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,1,5,full lag window,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,1,5,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,1,5,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,1,5,all-channel current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,1,5,full lag window,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q6,3,1,5,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,1,5,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,1,5,all-channel current,5974,1.0,1.0,11.0,11.0
+PRESSURE_Q6,3,1,5,full lag window,5974,1.0,1.0,11.0,11.0
+TEMPERATURE_Q6,3,1,5,target current,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,1,5,target history,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,1,5,all-channel current,5974,1.0,1.0,11.0,11.0
+TEMPERATURE_Q6,3,1,5,full lag window,5974,1.0,1.0,11.0,11.0
+PRESSURE_Q16,3,1,5,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,1,5,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,1,5,all-channel current,5954,1.0,1.0,11.0,11.0
+PRESSURE_Q16,3,1,5,full lag window,5954,1.0,1.0,11.0,11.0
+TEMPERATURE_Q16,3,1,5,target current,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,1,5,target history,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,1,5,all-channel current,5954,1.0,1.0,11.0,11.0
+TEMPERATURE_Q16,3,1,5,full lag window,5954,1.0,1.0,11.0,11.0
+PRESSURE_Q6,5,1,5,target current,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,1,5,target history,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,1,5,all-channel current,5974,1.0,1.0,25.0,25.0
+PRESSURE_Q6,5,1,5,full lag window,5974,1.0,1.0,25.0,25.0
+TEMPERATURE_Q6,5,1,5,target current,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,5,1,5,target history,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,5,1,5,all-channel current,5974,1.0,1.0,25.0,25.0
+TEMPERATURE_Q6,5,1,5,full lag window,5974,1.0,1.0,25.0,25.0
+PRESSURE_Q16,5,1,5,target current,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,1,5,target history,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,1,5,all-channel current,5954,1.0,1.0,25.0,25.0
+PRESSURE_Q16,5,1,5,full lag window,5954,1.0,1.0,25.0,25.0
+TEMPERATURE_Q16,5,1,5,target current,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,5,1,5,target history,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,5,1,5,all-channel current,5954,1.0,1.0,25.0,25.0
+TEMPERATURE_Q16,5,1,5,full lag window,5954,1.0,1.0,25.0,25.0
+PRESSURE_Q6,8,1,5,target current,5974,1.0,1.0,8.0,8.0
+PRESSURE_Q6,8,1,5,target history,5974,1.0,1.0,8.0,8.0
+PRESSURE_Q6,8,1,5,all-channel current,5974,1.0,1.0,186.0,186.0
+PRESSURE_Q6,8,1,5,full lag window,5974,1.0,1.0,186.0,186.0
+TEMPERATURE_Q6,8,1,5,target current,5974,1.0,1.0,90.0,90.0
+TEMPERATURE_Q6,8,1,5,target history,5974,1.0,1.0,90.0,90.0
+TEMPERATURE_Q6,8,1,5,all-channel current,5974,1.0,1.0,186.0,186.0
+TEMPERATURE_Q6,8,1,5,full lag window,5974,1.0,1.0,186.0,186.0
+PRESSURE_Q16,8,1,5,target current,5954,1.0,1.0,8.0,8.0
+PRESSURE_Q16,8,1,5,target history,5954,1.0,1.0,8.0,8.0
+PRESSURE_Q16,8,1,5,all-channel current,5954,1.0,1.0,187.0,187.0
+PRESSURE_Q16,8,1,5,full lag window,5954,1.0,1.0,187.0,187.0
+TEMPERATURE_Q16,8,1,5,target current,5954,1.0,1.0,91.0,91.0
+TEMPERATURE_Q16,8,1,5,target history,5954,1.0,1.0,91.0,91.0
+TEMPERATURE_Q16,8,1,5,all-channel current,5954,1.0,1.0,187.0,187.0
+TEMPERATURE_Q16,8,1,5,full lag window,5954,1.0,1.0,187.0,187.0
+PRESSURE_Q6,2,2,5,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,2,5,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,2,5,all-channel current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,2,2,5,full lag window,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,2,5,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,2,5,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,2,5,all-channel current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,2,5,full lag window,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,2,5,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,2,5,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,2,5,all-channel current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,2,5,full lag window,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,2,5,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,2,5,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,2,5,all-channel current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,2,5,full lag window,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q6,3,2,5,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,2,5,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,2,5,all-channel current,5974,1.0,1.0,11.0,11.0
+PRESSURE_Q6,3,2,5,full lag window,5974,1.0,1.0,11.0,11.0
+TEMPERATURE_Q6,3,2,5,target current,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,2,5,target history,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,2,5,all-channel current,5974,1.0,1.0,11.0,11.0
+TEMPERATURE_Q6,3,2,5,full lag window,5974,1.0,1.0,11.0,11.0
+PRESSURE_Q16,3,2,5,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,2,5,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,2,5,all-channel current,5954,1.0,1.0,11.0,11.0
+PRESSURE_Q16,3,2,5,full lag window,5954,1.0,1.0,11.0,11.0
+TEMPERATURE_Q16,3,2,5,target current,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,2,5,target history,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,2,5,all-channel current,5954,1.0,1.0,11.0,11.0
+TEMPERATURE_Q16,3,2,5,full lag window,5954,1.0,1.0,11.0,11.0
+PRESSURE_Q6,5,2,5,target current,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,2,5,target history,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,2,5,all-channel current,5974,1.0,1.0,25.0,25.0
+PRESSURE_Q6,5,2,5,full lag window,5974,1.0,1.0,25.0,25.0
+TEMPERATURE_Q6,5,2,5,target current,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,5,2,5,target history,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,5,2,5,all-channel current,5974,1.0,1.0,25.0,25.0
+TEMPERATURE_Q6,5,2,5,full lag window,5974,1.0,1.0,25.0,25.0
+PRESSURE_Q16,5,2,5,target current,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,2,5,target history,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,2,5,all-channel current,5954,1.0,1.0,25.0,25.0
+PRESSURE_Q16,5,2,5,full lag window,5954,1.0,1.0,25.0,25.0
+TEMPERATURE_Q16,5,2,5,target current,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,5,2,5,target history,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,5,2,5,all-channel current,5954,1.0,1.0,25.0,25.0
+TEMPERATURE_Q16,5,2,5,full lag window,5954,1.0,1.0,25.0,25.0
+PRESSURE_Q6,8,2,5,target current,5974,1.0,1.0,8.0,8.0
+PRESSURE_Q6,8,2,5,target history,5974,1.0,1.0,8.0,8.0
+PRESSURE_Q6,8,2,5,all-channel current,5974,1.0,1.0,216.0,216.0
+PRESSURE_Q6,8,2,5,full lag window,5974,1.0,1.0,216.0,216.0
+TEMPERATURE_Q6,8,2,5,target current,5974,1.0,1.0,115.0,115.0
+TEMPERATURE_Q6,8,2,5,target history,5974,1.0,1.0,115.0,115.0
+TEMPERATURE_Q6,8,2,5,all-channel current,5974,1.0,1.0,216.0,216.0
+TEMPERATURE_Q6,8,2,5,full lag window,5974,1.0,1.0,216.0,216.0
+PRESSURE_Q16,8,2,5,target current,5954,1.0,1.0,8.0,8.0
+PRESSURE_Q16,8,2,5,target history,5954,1.0,1.0,8.0,8.0
+PRESSURE_Q16,8,2,5,all-channel current,5954,1.0,1.0,216.5,216.5
+PRESSURE_Q16,8,2,5,full lag window,5954,1.0,1.0,216.5,216.5
+TEMPERATURE_Q16,8,2,5,target current,5954,1.0,1.0,115.0,115.0
+TEMPERATURE_Q16,8,2,5,target history,5954,1.0,1.0,115.0,115.0
+TEMPERATURE_Q16,8,2,5,all-channel current,5954,1.0,1.0,216.5,216.5
+TEMPERATURE_Q16,8,2,5,full lag window,5954,1.0,1.0,216.5,216.5
+PRESSURE_Q6,2,3,5,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,3,5,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,3,5,all-channel current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,2,3,5,full lag window,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,3,5,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,3,5,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,3,5,all-channel current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,3,5,full lag window,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,3,5,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,3,5,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,3,5,all-channel current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,3,5,full lag window,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,3,5,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,3,5,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,3,5,all-channel current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,3,5,full lag window,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q6,3,3,5,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,3,5,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,3,5,all-channel current,5974,1.0,1.0,11.0,11.0
+PRESSURE_Q6,3,3,5,full lag window,5974,1.0,1.0,11.0,11.0
+TEMPERATURE_Q6,3,3,5,target current,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,3,5,target history,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,3,5,all-channel current,5974,1.0,1.0,11.0,11.0
+TEMPERATURE_Q6,3,3,5,full lag window,5974,1.0,1.0,11.0,11.0
+PRESSURE_Q16,3,3,5,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,3,5,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,3,5,all-channel current,5954,1.0,1.0,11.0,11.0
+PRESSURE_Q16,3,3,5,full lag window,5954,1.0,1.0,11.0,11.0
+TEMPERATURE_Q16,3,3,5,target current,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,3,5,target history,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,3,5,all-channel current,5954,1.0,1.0,11.0,11.0
+TEMPERATURE_Q16,3,3,5,full lag window,5954,1.0,1.0,11.0,11.0
+PRESSURE_Q6,5,3,5,target current,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,3,5,target history,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,3,5,all-channel current,5974,1.0,1.0,25.0,25.0
+PRESSURE_Q6,5,3,5,full lag window,5974,1.0,1.0,25.0,25.0
+TEMPERATURE_Q6,5,3,5,target current,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,5,3,5,target history,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,5,3,5,all-channel current,5974,1.0,1.0,25.0,25.0
+TEMPERATURE_Q6,5,3,5,full lag window,5974,1.0,1.0,25.0,25.0
+PRESSURE_Q16,5,3,5,target current,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,3,5,target history,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,3,5,all-channel current,5954,1.0,1.0,26.0,26.0
+PRESSURE_Q16,5,3,5,full lag window,5954,1.0,1.0,26.0,26.0
+TEMPERATURE_Q16,5,3,5,target current,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,5,3,5,target history,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,5,3,5,all-channel current,5954,1.0,1.0,26.0,26.0
+TEMPERATURE_Q16,5,3,5,full lag window,5954,1.0,1.0,26.0,26.0
+PRESSURE_Q6,8,3,5,target current,5974,1.0,1.0,8.0,8.0
+PRESSURE_Q6,8,3,5,target history,5974,1.0,1.0,8.0,8.0
+PRESSURE_Q6,8,3,5,all-channel current,5974,1.0,1.0,210.0,210.0
+PRESSURE_Q6,8,3,5,full lag window,5974,1.0,1.0,210.0,210.0
+TEMPERATURE_Q6,8,3,5,target current,5974,1.0,1.0,93.0,93.0
+TEMPERATURE_Q6,8,3,5,target history,5974,1.0,1.0,93.0,93.0
+TEMPERATURE_Q6,8,3,5,all-channel current,5974,1.0,1.0,210.0,210.0
+TEMPERATURE_Q6,8,3,5,full lag window,5974,1.0,1.0,210.0,210.0
+PRESSURE_Q16,8,3,5,target current,5954,1.0,1.0,8.0,8.0
+PRESSURE_Q16,8,3,5,target history,5954,1.0,1.0,8.0,8.0
+PRESSURE_Q16,8,3,5,all-channel current,5954,1.0,1.0,210.0,210.0
+PRESSURE_Q16,8,3,5,full lag window,5954,1.0,1.0,210.0,210.0
+TEMPERATURE_Q16,8,3,5,target current,5954,1.0,1.0,94.0,94.0
+TEMPERATURE_Q16,8,3,5,target history,5954,1.0,1.0,94.0,94.0
+TEMPERATURE_Q16,8,3,5,all-channel current,5954,1.0,1.0,210.0,210.0
+TEMPERATURE_Q16,8,3,5,full lag window,5954,1.0,1.0,210.0,210.0
+PRESSURE_Q6,2,1,11,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,1,11,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,1,11,all-channel current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,2,1,11,full lag window,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,1,11,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,1,11,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,1,11,all-channel current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,1,11,full lag window,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,1,11,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,1,11,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,1,11,all-channel current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,1,11,full lag window,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,1,11,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,1,11,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,1,11,all-channel current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,1,11,full lag window,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q6,3,1,11,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,1,11,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,1,11,all-channel current,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q6,3,1,11,full lag window,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,1,11,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,3,1,11,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,3,1,11,all-channel current,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,1,11,full lag window,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,1,11,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,1,11,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,1,11,all-channel current,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,1,11,full lag window,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,1,11,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,3,1,11,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,3,1,11,all-channel current,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,1,11,full lag window,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q6,5,1,11,target current,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,1,11,target history,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,1,11,all-channel current,5974,1.0,1.0,19.0,19.0
+PRESSURE_Q6,5,1,11,full lag window,5974,1.0,1.0,19.0,19.0
+TEMPERATURE_Q6,5,1,11,target current,5974,1.0,1.0,4.0,4.0
+TEMPERATURE_Q6,5,1,11,target history,5974,1.0,1.0,4.0,4.0
+TEMPERATURE_Q6,5,1,11,all-channel current,5974,1.0,1.0,19.0,19.0
+TEMPERATURE_Q6,5,1,11,full lag window,5974,1.0,1.0,19.0,19.0
+PRESSURE_Q16,5,1,11,target current,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,1,11,target history,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,1,11,all-channel current,5954,1.0,1.0,19.0,19.0
+PRESSURE_Q16,5,1,11,full lag window,5954,1.0,1.0,19.0,19.0
+TEMPERATURE_Q16,5,1,11,target current,5954,1.0,1.0,4.0,4.0
+TEMPERATURE_Q16,5,1,11,target history,5954,1.0,1.0,4.0,4.0
+TEMPERATURE_Q16,5,1,11,all-channel current,5954,1.0,1.0,19.0,19.0
+TEMPERATURE_Q16,5,1,11,full lag window,5954,1.0,1.0,19.0,19.0
+PRESSURE_Q6,8,1,11,target current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,8,1,11,target history,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,8,1,11,all-channel current,5974,1.0,1.0,33.0,33.0
+PRESSURE_Q6,8,1,11,full lag window,5974,1.0,1.0,33.0,33.0
+TEMPERATURE_Q6,8,1,11,target current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,8,1,11,target history,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,8,1,11,all-channel current,5974,1.0,1.0,33.0,33.0
+TEMPERATURE_Q6,8,1,11,full lag window,5974,1.0,1.0,33.0,33.0
+PRESSURE_Q16,8,1,11,target current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,8,1,11,target history,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,8,1,11,all-channel current,5954,1.0,1.0,33.0,33.0
+PRESSURE_Q16,8,1,11,full lag window,5954,1.0,1.0,33.0,33.0
+TEMPERATURE_Q16,8,1,11,target current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,8,1,11,target history,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,8,1,11,all-channel current,5954,1.0,1.0,33.0,33.0
+TEMPERATURE_Q16,8,1,11,full lag window,5954,1.0,1.0,33.0,33.0
+PRESSURE_Q6,2,2,11,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,2,11,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,2,11,all-channel current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,2,2,11,full lag window,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,2,11,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,2,11,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,2,11,all-channel current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,2,11,full lag window,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,2,11,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,2,11,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,2,11,all-channel current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,2,11,full lag window,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,2,11,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,2,11,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,2,11,all-channel current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,2,11,full lag window,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q6,3,2,11,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,2,11,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,2,11,all-channel current,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q6,3,2,11,full lag window,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,2,11,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,3,2,11,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,3,2,11,all-channel current,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,2,11,full lag window,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,2,11,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,2,11,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,2,11,all-channel current,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,2,11,full lag window,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,2,11,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,3,2,11,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,3,2,11,all-channel current,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,2,11,full lag window,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q6,5,2,11,target current,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,2,11,target history,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,2,11,all-channel current,5974,1.0,1.0,19.0,19.0
+PRESSURE_Q6,5,2,11,full lag window,5974,1.0,1.0,19.0,19.0
+TEMPERATURE_Q6,5,2,11,target current,5974,1.0,1.0,4.0,4.0
+TEMPERATURE_Q6,5,2,11,target history,5974,1.0,1.0,4.0,4.0
+TEMPERATURE_Q6,5,2,11,all-channel current,5974,1.0,1.0,19.0,19.0
+TEMPERATURE_Q6,5,2,11,full lag window,5974,1.0,1.0,19.0,19.0
+PRESSURE_Q16,5,2,11,target current,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,2,11,target history,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,2,11,all-channel current,5954,1.0,1.0,19.0,19.0
+PRESSURE_Q16,5,2,11,full lag window,5954,1.0,1.0,19.0,19.0
+TEMPERATURE_Q16,5,2,11,target current,5954,1.0,1.0,4.0,4.0
+TEMPERATURE_Q16,5,2,11,target history,5954,1.0,1.0,4.0,4.0
+TEMPERATURE_Q16,5,2,11,all-channel current,5954,1.0,1.0,19.0,19.0
+TEMPERATURE_Q16,5,2,11,full lag window,5954,1.0,1.0,19.0,19.0
+PRESSURE_Q6,8,2,11,target current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,8,2,11,target history,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,8,2,11,all-channel current,5974,1.0,1.0,32.0,32.0
+PRESSURE_Q6,8,2,11,full lag window,5974,1.0,1.0,32.0,32.0
+TEMPERATURE_Q6,8,2,11,target current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,8,2,11,target history,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,8,2,11,all-channel current,5974,1.0,1.0,32.0,32.0
+TEMPERATURE_Q6,8,2,11,full lag window,5974,1.0,1.0,32.0,32.0
+PRESSURE_Q16,8,2,11,target current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,8,2,11,target history,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,8,2,11,all-channel current,5954,1.0,1.0,32.0,32.0
+PRESSURE_Q16,8,2,11,full lag window,5954,1.0,1.0,32.0,32.0
+TEMPERATURE_Q16,8,2,11,target current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,8,2,11,target history,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,8,2,11,all-channel current,5954,1.0,1.0,32.0,32.0
+TEMPERATURE_Q16,8,2,11,full lag window,5954,1.0,1.0,32.0,32.0
+PRESSURE_Q6,2,3,11,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,3,11,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,3,11,all-channel current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,2,3,11,full lag window,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,3,11,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,3,11,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,3,11,all-channel current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,3,11,full lag window,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,3,11,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,3,11,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,3,11,all-channel current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,3,11,full lag window,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,3,11,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,3,11,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,3,11,all-channel current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,3,11,full lag window,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q6,3,3,11,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,3,11,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,3,11,all-channel current,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q6,3,3,11,full lag window,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,3,11,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,3,3,11,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,3,3,11,all-channel current,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,3,11,full lag window,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,3,11,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,3,11,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,3,11,all-channel current,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,3,11,full lag window,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,3,11,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,3,3,11,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,3,3,11,all-channel current,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,3,11,full lag window,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q6,5,3,11,target current,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,3,11,target history,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,3,11,all-channel current,5974,1.0,1.0,18.0,18.0
+PRESSURE_Q6,5,3,11,full lag window,5974,1.0,1.0,18.0,18.0
+TEMPERATURE_Q6,5,3,11,target current,5974,1.0,1.0,4.0,4.0
+TEMPERATURE_Q6,5,3,11,target history,5974,1.0,1.0,4.0,4.0
+TEMPERATURE_Q6,5,3,11,all-channel current,5974,1.0,1.0,18.0,18.0
+TEMPERATURE_Q6,5,3,11,full lag window,5974,1.0,1.0,18.0,18.0
+PRESSURE_Q16,5,3,11,target current,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,3,11,target history,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,3,11,all-channel current,5954,1.0,1.0,18.0,18.0
+PRESSURE_Q16,5,3,11,full lag window,5954,1.0,1.0,18.0,18.0
+TEMPERATURE_Q16,5,3,11,target current,5954,1.0,1.0,4.0,4.0
+TEMPERATURE_Q16,5,3,11,target history,5954,1.0,1.0,4.0,4.0
+TEMPERATURE_Q16,5,3,11,all-channel current,5954,1.0,1.0,18.0,18.0
+TEMPERATURE_Q16,5,3,11,full lag window,5954,1.0,1.0,18.0,18.0
+PRESSURE_Q6,8,3,11,target current,5974,1.0,1.0,5.0,5.0
+PRESSURE_Q6,8,3,11,target history,5974,1.0,1.0,5.0,5.0
+PRESSURE_Q6,8,3,11,all-channel current,5974,1.0,1.0,30.5,30.5
+PRESSURE_Q6,8,3,11,full lag window,5974,1.0,1.0,30.5,30.5
+TEMPERATURE_Q6,8,3,11,target current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,8,3,11,target history,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,8,3,11,all-channel current,5974,1.0,1.0,30.5,30.5
+TEMPERATURE_Q6,8,3,11,full lag window,5974,1.0,1.0,30.5,30.5
+PRESSURE_Q16,8,3,11,target current,5954,1.0,1.0,5.0,5.0
+PRESSURE_Q16,8,3,11,target history,5954,1.0,1.0,5.0,5.0
+PRESSURE_Q16,8,3,11,all-channel current,5954,1.0,1.0,31.0,31.0
+PRESSURE_Q16,8,3,11,full lag window,5954,1.0,1.0,31.0,31.0
+TEMPERATURE_Q16,8,3,11,target current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,8,3,11,target history,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,8,3,11,all-channel current,5954,1.0,1.0,31.0,31.0
+TEMPERATURE_Q16,8,3,11,full lag window,5954,1.0,1.0,31.0,31.0
+PRESSURE_Q6,2,1,14,target current,5974,1.0,1.0,1.0,1.0
+PRESSURE_Q6,2,1,14,target history,5974,1.0,1.0,1.0,1.0
+PRESSURE_Q6,2,1,14,all-channel current,5974,1.0,1.0,5.0,5.0
+PRESSURE_Q6,2,1,14,full lag window,5974,1.0,1.0,5.0,5.0
+TEMPERATURE_Q6,2,1,14,target current,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,2,1,14,target history,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,2,1,14,all-channel current,5974,1.0,1.0,5.0,5.0
+TEMPERATURE_Q6,2,1,14,full lag window,5974,1.0,1.0,5.0,5.0
+PRESSURE_Q16,2,1,14,target current,5954,1.0,1.0,1.0,1.0
+PRESSURE_Q16,2,1,14,target history,5954,1.0,1.0,1.0,1.0
+PRESSURE_Q16,2,1,14,all-channel current,5954,1.0,1.0,5.0,5.0
+PRESSURE_Q16,2,1,14,full lag window,5954,1.0,1.0,5.0,5.0
+TEMPERATURE_Q16,2,1,14,target current,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,2,1,14,target history,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,2,1,14,all-channel current,5954,1.0,1.0,5.0,5.0
+TEMPERATURE_Q16,2,1,14,full lag window,5954,1.0,1.0,5.0,5.0
+PRESSURE_Q6,3,1,14,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,1,14,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,1,14,all-channel current,5974,1.0,1.0,9.0,9.0
+PRESSURE_Q6,3,1,14,full lag window,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,3,1,14,target current,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,3,1,14,target history,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,3,1,14,all-channel current,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,3,1,14,full lag window,5974,1.0,1.0,9.0,9.0
+PRESSURE_Q16,3,1,14,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,1,14,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,1,14,all-channel current,5954,1.0,1.0,9.0,9.0
+PRESSURE_Q16,3,1,14,full lag window,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,3,1,14,target current,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,3,1,14,target history,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,3,1,14,all-channel current,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,3,1,14,full lag window,5954,1.0,1.0,9.0,9.0
+PRESSURE_Q6,5,1,14,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,5,1,14,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,5,1,14,all-channel current,5974,1.0,1.0,18.0,18.0
+PRESSURE_Q6,5,1,14,full lag window,5974,1.0,1.0,18.0,18.0
+TEMPERATURE_Q6,5,1,14,target current,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,5,1,14,target history,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,5,1,14,all-channel current,5974,1.0,1.0,18.0,18.0
+TEMPERATURE_Q6,5,1,14,full lag window,5974,1.0,1.0,18.0,18.0
+PRESSURE_Q16,5,1,14,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,5,1,14,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,5,1,14,all-channel current,5954,1.0,1.0,18.0,18.0
+PRESSURE_Q16,5,1,14,full lag window,5954,1.0,1.0,18.0,18.0
+TEMPERATURE_Q16,5,1,14,target current,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,5,1,14,target history,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,5,1,14,all-channel current,5954,1.0,1.0,18.0,18.0
+TEMPERATURE_Q16,5,1,14,full lag window,5954,1.0,1.0,18.0,18.0
+PRESSURE_Q6,8,1,14,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,8,1,14,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,8,1,14,all-channel current,5974,1.0,1.0,32.0,32.0
+PRESSURE_Q6,8,1,14,full lag window,5974,1.0,1.0,32.0,32.0
+TEMPERATURE_Q6,8,1,14,target current,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,8,1,14,target history,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,8,1,14,all-channel current,5974,1.0,1.0,32.0,32.0
+TEMPERATURE_Q6,8,1,14,full lag window,5974,1.0,1.0,32.0,32.0
+PRESSURE_Q16,8,1,14,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,8,1,14,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,8,1,14,all-channel current,5954,1.0,1.0,32.0,32.0
+PRESSURE_Q16,8,1,14,full lag window,5954,1.0,1.0,32.0,32.0
+TEMPERATURE_Q16,8,1,14,target current,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,8,1,14,target history,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,8,1,14,all-channel current,5954,1.0,1.0,32.0,32.0
+TEMPERATURE_Q16,8,1,14,full lag window,5954,1.0,1.0,32.0,32.0
+PRESSURE_Q6,2,2,14,target current,5974,1.0,1.0,1.0,1.0
+PRESSURE_Q6,2,2,14,target history,5974,1.0,1.0,1.0,1.0
+PRESSURE_Q6,2,2,14,all-channel current,5974,1.0,1.0,5.0,5.0
+PRESSURE_Q6,2,2,14,full lag window,5974,1.0,1.0,5.0,5.0
+TEMPERATURE_Q6,2,2,14,target current,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,2,2,14,target history,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,2,2,14,all-channel current,5974,1.0,1.0,5.0,5.0
+TEMPERATURE_Q6,2,2,14,full lag window,5974,1.0,1.0,5.0,5.0
+PRESSURE_Q16,2,2,14,target current,5954,1.0,1.0,1.0,1.0
+PRESSURE_Q16,2,2,14,target history,5954,1.0,1.0,1.0,1.0
+PRESSURE_Q16,2,2,14,all-channel current,5954,1.0,1.0,5.0,5.0
+PRESSURE_Q16,2,2,14,full lag window,5954,1.0,1.0,5.0,5.0
+TEMPERATURE_Q16,2,2,14,target current,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,2,2,14,target history,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,2,2,14,all-channel current,5954,1.0,1.0,5.0,5.0
+TEMPERATURE_Q16,2,2,14,full lag window,5954,1.0,1.0,5.0,5.0
+PRESSURE_Q6,3,2,14,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,2,14,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,2,14,all-channel current,5974,1.0,1.0,9.0,9.0
+PRESSURE_Q6,3,2,14,full lag window,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,3,2,14,target current,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,3,2,14,target history,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,3,2,14,all-channel current,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,3,2,14,full lag window,5974,1.0,1.0,9.0,9.0
+PRESSURE_Q16,3,2,14,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,2,14,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,2,14,all-channel current,5954,1.0,1.0,9.0,9.0
+PRESSURE_Q16,3,2,14,full lag window,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,3,2,14,target current,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,3,2,14,target history,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,3,2,14,all-channel current,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,3,2,14,full lag window,5954,1.0,1.0,9.0,9.0
+PRESSURE_Q6,5,2,14,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,5,2,14,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,5,2,14,all-channel current,5974,1.0,1.0,18.0,18.0
+PRESSURE_Q6,5,2,14,full lag window,5974,1.0,1.0,18.0,18.0
+TEMPERATURE_Q6,5,2,14,target current,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,5,2,14,target history,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,5,2,14,all-channel current,5974,1.0,1.0,18.0,18.0
+TEMPERATURE_Q6,5,2,14,full lag window,5974,1.0,1.0,18.0,18.0
+PRESSURE_Q16,5,2,14,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,5,2,14,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,5,2,14,all-channel current,5954,1.0,1.0,18.0,18.0
+PRESSURE_Q16,5,2,14,full lag window,5954,1.0,1.0,18.0,18.0
+TEMPERATURE_Q16,5,2,14,target current,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,5,2,14,target history,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,5,2,14,all-channel current,5954,1.0,1.0,18.0,18.0
+TEMPERATURE_Q16,5,2,14,full lag window,5954,1.0,1.0,18.0,18.0
+PRESSURE_Q6,8,2,14,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,8,2,14,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,8,2,14,all-channel current,5974,1.0,1.0,33.0,33.0
+PRESSURE_Q6,8,2,14,full lag window,5974,1.0,1.0,33.0,33.0
+TEMPERATURE_Q6,8,2,14,target current,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,8,2,14,target history,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,8,2,14,all-channel current,5974,1.0,1.0,33.0,33.0
+TEMPERATURE_Q6,8,2,14,full lag window,5974,1.0,1.0,33.0,33.0
+PRESSURE_Q16,8,2,14,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,8,2,14,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,8,2,14,all-channel current,5954,1.0,1.0,33.0,33.0
+PRESSURE_Q16,8,2,14,full lag window,5954,1.0,1.0,33.0,33.0
+TEMPERATURE_Q16,8,2,14,target current,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,8,2,14,target history,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,8,2,14,all-channel current,5954,1.0,1.0,33.0,33.0
+TEMPERATURE_Q16,8,2,14,full lag window,5954,1.0,1.0,33.0,33.0
+PRESSURE_Q6,2,3,14,target current,5974,1.0,1.0,1.0,1.0
+PRESSURE_Q6,2,3,14,target history,5974,1.0,1.0,1.0,1.0
+PRESSURE_Q6,2,3,14,all-channel current,5974,1.0,1.0,5.0,5.0
+PRESSURE_Q6,2,3,14,full lag window,5974,1.0,1.0,5.0,5.0
+TEMPERATURE_Q6,2,3,14,target current,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,2,3,14,target history,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,2,3,14,all-channel current,5974,1.0,1.0,5.0,5.0
+TEMPERATURE_Q6,2,3,14,full lag window,5974,1.0,1.0,5.0,5.0
+PRESSURE_Q16,2,3,14,target current,5954,1.0,1.0,1.0,1.0
+PRESSURE_Q16,2,3,14,target history,5954,1.0,1.0,1.0,1.0
+PRESSURE_Q16,2,3,14,all-channel current,5954,1.0,1.0,5.0,5.0
+PRESSURE_Q16,2,3,14,full lag window,5954,1.0,1.0,5.0,5.0
+TEMPERATURE_Q16,2,3,14,target current,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,2,3,14,target history,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,2,3,14,all-channel current,5954,1.0,1.0,5.0,5.0
+TEMPERATURE_Q16,2,3,14,full lag window,5954,1.0,1.0,5.0,5.0
+PRESSURE_Q6,3,3,14,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,3,14,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,3,14,all-channel current,5974,1.0,1.0,9.0,9.0
+PRESSURE_Q6,3,3,14,full lag window,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,3,3,14,target current,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,3,3,14,target history,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,3,3,14,all-channel current,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,3,3,14,full lag window,5974,1.0,1.0,9.0,9.0
+PRESSURE_Q16,3,3,14,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,3,14,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,3,14,all-channel current,5954,1.0,1.0,9.0,9.0
+PRESSURE_Q16,3,3,14,full lag window,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,3,3,14,target current,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,3,3,14,target history,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,3,3,14,all-channel current,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,3,3,14,full lag window,5954,1.0,1.0,9.0,9.0
+PRESSURE_Q6,5,3,14,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,5,3,14,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,5,3,14,all-channel current,5974,1.0,1.0,18.0,18.0
+PRESSURE_Q6,5,3,14,full lag window,5974,1.0,1.0,18.0,18.0
+TEMPERATURE_Q6,5,3,14,target current,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,5,3,14,target history,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,5,3,14,all-channel current,5974,1.0,1.0,18.0,18.0
+TEMPERATURE_Q6,5,3,14,full lag window,5974,1.0,1.0,18.0,18.0
+PRESSURE_Q16,5,3,14,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,5,3,14,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,5,3,14,all-channel current,5954,1.0,1.0,18.0,18.0
+PRESSURE_Q16,5,3,14,full lag window,5954,1.0,1.0,18.0,18.0
+TEMPERATURE_Q16,5,3,14,target current,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,5,3,14,target history,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,5,3,14,all-channel current,5954,1.0,1.0,18.0,18.0
+TEMPERATURE_Q16,5,3,14,full lag window,5954,1.0,1.0,18.0,18.0
+PRESSURE_Q6,8,3,14,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,8,3,14,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,8,3,14,all-channel current,5974,1.0,1.0,32.0,32.0
+PRESSURE_Q6,8,3,14,full lag window,5974,1.0,1.0,32.0,32.0
+TEMPERATURE_Q6,8,3,14,target current,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,8,3,14,target history,5974,1.0,1.0,1.0,1.0
+TEMPERATURE_Q6,8,3,14,all-channel current,5974,1.0,1.0,32.0,32.0
+TEMPERATURE_Q6,8,3,14,full lag window,5974,1.0,1.0,32.0,32.0
+PRESSURE_Q16,8,3,14,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,8,3,14,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,8,3,14,all-channel current,5954,1.0,1.0,32.0,32.0
+PRESSURE_Q16,8,3,14,full lag window,5954,1.0,1.0,32.0,32.0
+TEMPERATURE_Q16,8,3,14,target current,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,8,3,14,target history,5954,1.0,1.0,1.0,1.0
+TEMPERATURE_Q16,8,3,14,all-channel current,5954,1.0,1.0,32.0,32.0
+TEMPERATURE_Q16,8,3,14,full lag window,5954,1.0,1.0,32.0,32.0
+PRESSURE_Q6,2,1,15,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,1,15,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,1,15,all-channel current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,2,1,15,full lag window,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,1,15,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,1,15,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,1,15,all-channel current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,1,15,full lag window,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,1,15,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,1,15,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,1,15,all-channel current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,1,15,full lag window,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,1,15,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,1,15,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,1,15,all-channel current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,1,15,full lag window,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q6,3,1,15,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,1,15,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,1,15,all-channel current,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q6,3,1,15,full lag window,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,1,15,target current,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,1,15,target history,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,1,15,all-channel current,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,1,15,full lag window,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,1,15,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,1,15,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,1,15,all-channel current,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,1,15,full lag window,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,1,15,target current,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,1,15,target history,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,1,15,all-channel current,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,1,15,full lag window,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q6,5,1,15,target current,5974,1.0,1.0,3.0,3.0
+PRESSURE_Q6,5,1,15,target history,5974,1.0,1.0,3.0,3.0
+PRESSURE_Q6,5,1,15,all-channel current,5974,1.0,1.0,24.0,24.0
+PRESSURE_Q6,5,1,15,full lag window,5974,1.0,1.0,24.0,24.0
+TEMPERATURE_Q6,5,1,15,target current,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,5,1,15,target history,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,5,1,15,all-channel current,5974,1.0,1.0,24.0,24.0
+TEMPERATURE_Q6,5,1,15,full lag window,5974,1.0,1.0,24.0,24.0
+PRESSURE_Q16,5,1,15,target current,5954,1.0,1.0,3.0,3.0
+PRESSURE_Q16,5,1,15,target history,5954,1.0,1.0,3.0,3.0
+PRESSURE_Q16,5,1,15,all-channel current,5954,1.0,1.0,24.0,24.0
+PRESSURE_Q16,5,1,15,full lag window,5954,1.0,1.0,24.0,24.0
+TEMPERATURE_Q16,5,1,15,target current,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,5,1,15,target history,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,5,1,15,all-channel current,5954,1.0,1.0,24.0,24.0
+TEMPERATURE_Q16,5,1,15,full lag window,5954,1.0,1.0,24.0,24.0
+PRESSURE_Q6,8,1,15,target current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,8,1,15,target history,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,8,1,15,all-channel current,5974,1.0,1.0,208.0,208.0
+PRESSURE_Q6,8,1,15,full lag window,5974,1.0,1.0,208.0,208.0
+TEMPERATURE_Q6,8,1,15,target current,5974,1.0,1.0,97.0,97.0
+TEMPERATURE_Q6,8,1,15,target history,5974,1.0,1.0,97.0,97.0
+TEMPERATURE_Q6,8,1,15,all-channel current,5974,1.0,1.0,208.0,208.0
+TEMPERATURE_Q6,8,1,15,full lag window,5974,1.0,1.0,208.0,208.0
+PRESSURE_Q16,8,1,15,target current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,8,1,15,target history,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,8,1,15,all-channel current,5954,1.0,1.0,208.0,208.0
+PRESSURE_Q16,8,1,15,full lag window,5954,1.0,1.0,208.0,208.0
+TEMPERATURE_Q16,8,1,15,target current,5954,1.0,1.0,97.5,97.5
+TEMPERATURE_Q16,8,1,15,target history,5954,1.0,1.0,97.5,97.5
+TEMPERATURE_Q16,8,1,15,all-channel current,5954,1.0,1.0,208.0,208.0
+TEMPERATURE_Q16,8,1,15,full lag window,5954,1.0,1.0,208.0,208.0
+PRESSURE_Q6,2,2,15,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,2,15,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,2,15,all-channel current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,2,2,15,full lag window,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,2,15,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,2,15,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,2,15,all-channel current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,2,15,full lag window,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,2,15,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,2,15,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,2,15,all-channel current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,2,15,full lag window,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,2,15,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,2,15,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,2,15,all-channel current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,2,15,full lag window,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q6,3,2,15,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,2,15,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,2,15,all-channel current,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q6,3,2,15,full lag window,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,2,15,target current,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,2,15,target history,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,2,15,all-channel current,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,2,15,full lag window,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,2,15,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,2,15,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,2,15,all-channel current,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,2,15,full lag window,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,2,15,target current,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,2,15,target history,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,2,15,all-channel current,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,2,15,full lag window,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q6,5,2,15,target current,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,2,15,target history,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,2,15,all-channel current,5974,1.0,1.0,23.0,23.0
+PRESSURE_Q6,5,2,15,full lag window,5974,1.0,1.0,23.0,23.0
+TEMPERATURE_Q6,5,2,15,target current,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,5,2,15,target history,5974,1.0,1.0,9.0,9.0
+TEMPERATURE_Q6,5,2,15,all-channel current,5974,1.0,1.0,23.0,23.0
+TEMPERATURE_Q6,5,2,15,full lag window,5974,1.0,1.0,23.0,23.0
+PRESSURE_Q16,5,2,15,target current,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,2,15,target history,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,2,15,all-channel current,5954,1.0,1.0,23.0,23.0
+PRESSURE_Q16,5,2,15,full lag window,5954,1.0,1.0,23.0,23.0
+TEMPERATURE_Q16,5,2,15,target current,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,5,2,15,target history,5954,1.0,1.0,9.0,9.0
+TEMPERATURE_Q16,5,2,15,all-channel current,5954,1.0,1.0,23.0,23.0
+TEMPERATURE_Q16,5,2,15,full lag window,5954,1.0,1.0,23.0,23.0
+PRESSURE_Q6,8,2,15,target current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,8,2,15,target history,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,8,2,15,all-channel current,5974,1.0,1.0,226.0,226.0
+PRESSURE_Q6,8,2,15,full lag window,5974,1.0,1.0,226.0,226.0
+TEMPERATURE_Q6,8,2,15,target current,5974,1.0,1.0,98.0,98.0
+TEMPERATURE_Q6,8,2,15,target history,5974,1.0,1.0,98.0,98.0
+TEMPERATURE_Q6,8,2,15,all-channel current,5974,1.0,1.0,226.0,226.0
+TEMPERATURE_Q6,8,2,15,full lag window,5974,1.0,1.0,226.0,226.0
+PRESSURE_Q16,8,2,15,target current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,8,2,15,target history,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,8,2,15,all-channel current,5954,1.0,1.0,227.0,227.0
+PRESSURE_Q16,8,2,15,full lag window,5954,1.0,1.0,227.0,227.0
+TEMPERATURE_Q16,8,2,15,target current,5954,1.0,1.0,98.0,98.0
+TEMPERATURE_Q16,8,2,15,target history,5954,1.0,1.0,98.0,98.0
+TEMPERATURE_Q16,8,2,15,all-channel current,5954,1.0,1.0,227.0,227.0
+TEMPERATURE_Q16,8,2,15,full lag window,5954,1.0,1.0,227.0,227.0
+PRESSURE_Q6,2,3,15,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,3,15,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,2,3,15,all-channel current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,2,3,15,full lag window,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,3,15,target current,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,3,15,target history,5974,1.0,1.0,2.0,2.0
+TEMPERATURE_Q6,2,3,15,all-channel current,5974,1.0,1.0,6.0,6.0
+TEMPERATURE_Q6,2,3,15,full lag window,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,3,15,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,3,15,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,2,3,15,all-channel current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,2,3,15,full lag window,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,3,15,target current,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,3,15,target history,5954,1.0,1.0,2.0,2.0
+TEMPERATURE_Q16,2,3,15,all-channel current,5954,1.0,1.0,6.0,6.0
+TEMPERATURE_Q16,2,3,15,full lag window,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q6,3,3,15,target current,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,3,15,target history,5974,1.0,1.0,2.0,2.0
+PRESSURE_Q6,3,3,15,all-channel current,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q6,3,3,15,full lag window,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,3,15,target current,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,3,15,target history,5974,1.0,1.0,3.0,3.0
+TEMPERATURE_Q6,3,3,15,all-channel current,5974,1.0,1.0,10.0,10.0
+TEMPERATURE_Q6,3,3,15,full lag window,5974,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,3,15,target current,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,3,15,target history,5954,1.0,1.0,2.0,2.0
+PRESSURE_Q16,3,3,15,all-channel current,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q16,3,3,15,full lag window,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,3,15,target current,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,3,15,target history,5954,1.0,1.0,3.0,3.0
+TEMPERATURE_Q16,3,3,15,all-channel current,5954,1.0,1.0,10.0,10.0
+TEMPERATURE_Q16,3,3,15,full lag window,5954,1.0,1.0,10.0,10.0
+PRESSURE_Q6,5,3,15,target current,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,3,15,target history,5974,1.0,1.0,4.0,4.0
+PRESSURE_Q6,5,3,15,all-channel current,5974,1.0,1.0,24.0,24.0
+PRESSURE_Q6,5,3,15,full lag window,5974,1.0,1.0,24.0,24.0
+TEMPERATURE_Q6,5,3,15,target current,5974,1.0,1.0,8.0,8.0
+TEMPERATURE_Q6,5,3,15,target history,5974,1.0,1.0,8.0,8.0
+TEMPERATURE_Q6,5,3,15,all-channel current,5974,1.0,1.0,24.0,24.0
+TEMPERATURE_Q6,5,3,15,full lag window,5974,1.0,1.0,24.0,24.0
+PRESSURE_Q16,5,3,15,target current,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,3,15,target history,5954,1.0,1.0,4.0,4.0
+PRESSURE_Q16,5,3,15,all-channel current,5954,1.0,1.0,24.0,24.0
+PRESSURE_Q16,5,3,15,full lag window,5954,1.0,1.0,24.0,24.0
+TEMPERATURE_Q16,5,3,15,target current,5954,1.0,1.0,8.0,8.0
+TEMPERATURE_Q16,5,3,15,target history,5954,1.0,1.0,8.0,8.0
+TEMPERATURE_Q16,5,3,15,all-channel current,5954,1.0,1.0,24.0,24.0
+TEMPERATURE_Q16,5,3,15,full lag window,5954,1.0,1.0,24.0,24.0
+PRESSURE_Q6,8,3,15,target current,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,8,3,15,target history,5974,1.0,1.0,6.0,6.0
+PRESSURE_Q6,8,3,15,all-channel current,5974,1.0,1.0,236.0,236.0
+PRESSURE_Q6,8,3,15,full lag window,5974,1.0,1.0,236.0,236.0
+TEMPERATURE_Q6,8,3,15,target current,5974,1.0,1.0,109.0,109.0
+TEMPERATURE_Q6,8,3,15,target history,5974,1.0,1.0,109.0,109.0
+TEMPERATURE_Q6,8,3,15,all-channel current,5974,1.0,1.0,236.0,236.0
+TEMPERATURE_Q6,8,3,15,full lag window,5974,1.0,1.0,236.0,236.0
+PRESSURE_Q16,8,3,15,target current,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,8,3,15,target history,5954,1.0,1.0,6.0,6.0
+PRESSURE_Q16,8,3,15,all-channel current,5954,1.0,1.0,236.0,236.0
+PRESSURE_Q16,8,3,15,full lag window,5954,1.0,1.0,236.0,236.0
+TEMPERATURE_Q16,8,3,15,target current,5954,1.0,1.0,109.5,109.5
+TEMPERATURE_Q16,8,3,15,target history,5954,1.0,1.0,109.5,109.5
+TEMPERATURE_Q16,8,3,15,all-channel current,5954,1.0,1.0,236.0,236.0
+TEMPERATURE_Q16,8,3,15,full lag window,5954,1.0,1.0,236.0,236.0

@@ -1,0 +1,12 @@
+\begin{tabular}{@{}cll@{}}
+\toprule
+Priority & Response pattern & First satisfied condition \\
+\midrule
+1 & Practically unchanged & $\max(|g_E|,|g_D|)<m$ \\
+2 & Evaluation + retraining & $g_E\geq m$ and $g_R\geq m$ \\
+3 & Evaluation correction & $g_E\geq m$ and $|g_R|<m$ \\
+4 & Origin view improves / heterogeneous & $g_E\leq-m$ \\
+5 & Retraining adverse / heterogeneous & $g_R\leq-m$ \\
+6 & Mixed, small & Otherwise \\
+\bottomrule
+\end{tabular}

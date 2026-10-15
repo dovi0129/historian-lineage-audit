@@ -1,0 +1,125 @@
+{
+  "status": "AUDITED",
+  "clock_provenance": "reconstructed local Swinging Door decision",
+  "channel": "XMEAS-7",
+  "origin": 1498,
+  "nominal_horizon": 6,
+  "target_vintage": "native target assumed; no scoring in this example",
+  "input_availability": 1499,
+  "effective_horizon": 5,
+  "feasible": false,
+  "witnesses": [
+    {
+      "feature_time": 1498,
+      "source_event_times": [
+        1498
+      ],
+      "source_ids": [
+        "XMEAS-7:1498"
+      ],
+      "source_availability_times": [
+        1499
+      ],
+      "availability_time": 1499,
+      "feasible": false,
+      "final_value": 2799.36138630559,
+      "replay_value": 2799.328221565883,
+      "replay_source_event_times": [
+        1485
+      ],
+      "replay_availability_time": 1486
+    },
+    {
+      "feature_time": 1496,
+      "source_event_times": [
+        1485,
+        1498
+      ],
+      "source_ids": [
+        "XMEAS-7:1485",
+        "XMEAS-7:1498"
+      ],
+      "source_availability_times": [
+        1486,
+        1499
+      ],
+      "availability_time": 1499,
+      "feasible": false,
+      "final_value": 2799.3562840379427,
+      "replay_value": 2799.328221565883,
+      "replay_source_event_times": [
+        1485
+      ],
+      "replay_availability_time": 1486
+    },
+    {
+      "feature_time": 1494,
+      "source_event_times": [
+        1485,
+        1498
+      ],
+      "source_ids": [
+        "XMEAS-7:1485",
+        "XMEAS-7:1498"
+      ],
+      "source_availability_times": [
+        1486,
+        1499
+      ],
+      "availability_time": 1499,
+      "feasible": false,
+      "final_value": 2799.351181770295,
+      "replay_value": 2799.328221565883,
+      "replay_source_event_times": [
+        1485
+      ],
+      "replay_availability_time": 1486
+    },
+    {
+      "feature_time": 1492,
+      "source_event_times": [
+        1485,
+        1498
+      ],
+      "source_ids": [
+        "XMEAS-7:1485",
+        "XMEAS-7:1498"
+      ],
+      "source_availability_times": [
+        1486,
+        1499
+      ],
+      "availability_time": 1499,
+      "feasible": false,
+      "final_value": 2799.346079502648,
+      "replay_value": 2799.328221565883,
+      "replay_source_event_times": [
+        1485
+      ],
+      "replay_availability_time": 1486
+    },
+    {
+      "feature_time": 1490,
+      "source_event_times": [
+        1485,
+        1498
+      ],
+      "source_ids": [
+        "XMEAS-7:1485",
+        "XMEAS-7:1498"
+      ],
+      "source_availability_times": [
+        1486,
+        1499
+      ],
+      "availability_time": 1499,
+      "feasible": false,
+      "final_value": 2799.340977235001,
+      "replay_value": 2799.328221565883,
+      "replay_source_event_times": [
+        1485
+      ],
+      "replay_availability_time": 1486
+    }
+  ]
+}
