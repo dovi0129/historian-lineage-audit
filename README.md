@@ -7,7 +7,7 @@ git clone https://github.com/dovi0129/historian-lineage-audit.git
 cd historian-lineage-audit
 ```
 
-Accompanying manuscript (under review): M. Baek and S. Lee, "When Does a Reconstructed Historian Feature Become
+Accompanying manuscript (under review): M. Baek, G. Gil, Y. Jang, and S. Lee, "When Does a Reconstructed Historian Feature Become
 Reproducible? A Lineage-Aware Availability Audit for Process Forecasting."
 
 ## Repository map
