@@ -1,0 +1,19 @@
+{
+  "label": "code-release-full-repro",
+  "outcome": "DONE",
+  "reason": "status=done",
+  "suspicion_only": false,
+  "pid": 2084808,
+  "pid_alive": false,
+  "status_file": "artifacts/full_run_status.json",
+  "status_document": {
+    "status": "done",
+    "exit_code": 0
+  },
+  "evidence": {},
+  "waited_seconds": 1380.019,
+  "finished_at": "2026-10-15 17:01:48+0900",
+  "action_taken": "none: this watcher never kills, restarts or retries",
+  "completion_file": "artifacts/full_run_watch.json",
+  "notifications": []
+}
