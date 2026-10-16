@@ -3,3 +3,8 @@ artifacts/
 __pycache__/
 .pytest_cache/
 *.pyc
+observed_testbed/testbed/vendor/
+observed_testbed/testbed/.venv/
+observed_testbed/testbed/instances/
+observed_testbed/runs/
+observed_testbed/results_new/

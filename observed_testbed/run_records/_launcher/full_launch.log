@@ -1,0 +1,51 @@
+2026-10-16T07:44:49Z start mode=full parallel=16 runs=44 list=<observed_testbed>/runs/_launcher/full_runs_20261016T074449Z.txt
+2026-10-16T07:46:44Z f01_b09_k5_F05 exit=0 done=yes
+2026-10-16T07:47:01Z f01_b09_k2_F05 exit=0 done=yes
+2026-10-16T07:47:02Z f01_b10_k2_F05 exit=0 done=yes
+2026-10-16T07:48:39Z f01_b10_k5_F05 exit=0 done=yes
+2026-10-16T07:48:56Z f14_b09_k5_F05 exit=0 done=yes
+2026-10-16T07:49:06Z f14_b09_k2_F05 exit=0 done=yes
+2026-10-16T07:50:44Z f14_b10_k2_F05 exit=0 done=yes
+2026-10-16T07:50:51Z f14_b10_k5_F05 exit=0 done=yes
+2026-10-16T07:51:00Z f14_b10_k5_F05_rep1 exit=0 done=yes
+2026-10-16T07:52:09Z f01_b09_k2_F15 exit=0 done=yes
+2026-10-16T07:52:11Z f01_b09_k5_F15 exit=0 done=yes
+2026-10-16T07:52:35Z f01_b09_none_F15 exit=0 done=yes
+2026-10-16T07:53:27Z f01_b10_k5_F15 exit=0 done=yes
+2026-10-16T07:53:31Z f01_b10_k2_F15 exit=0 done=yes
+2026-10-16T07:54:09Z f01_b10_none_F15 exit=0 done=yes
+2026-10-16T07:54:52Z f14_b09_k2_F15 exit=0 done=yes
+2026-10-16T07:55:00Z f01_b10_none_F15_rep1 exit=0 done=yes
+2026-10-16T07:55:23Z f14_b09_k5_F15 exit=0 done=yes
+2026-10-16T07:55:40Z f01_b10_none_F01 exit=0 done=yes
+2026-10-16T07:55:40Z f01_b09_none_F01 exit=0 done=yes
+2026-10-16T07:55:41Z f14_b10_none_F01 exit=0 done=yes
+2026-10-16T07:55:45Z f14_b09_none_F01 exit=0 done=yes
+2026-10-16T07:56:25Z f14_b10_k2_F15 exit=0 done=yes
+2026-10-16T07:56:31Z f14_b09_none_F15 exit=0 done=yes
+2026-10-16T07:56:49Z f14_b10_k5_F15 exit=0 done=yes
+2026-10-16T07:57:04Z f01_b09_k5_F60 exit=0 done=yes
+2026-10-16T07:57:05Z f01_b09_k2_F60 exit=0 done=yes
+2026-10-16T07:57:10Z f01_b10_k2_F60 exit=0 done=yes
+2026-10-16T07:57:23Z f14_b10_none_F15 exit=0 done=yes
+2026-10-16T07:57:47Z f01_b10_k5_F60 exit=0 done=yes
+2026-10-16T07:57:56Z f14_b09_k2_F60 exit=0 done=yes
+2026-10-16T07:58:12Z f14_b09_k2_F60_rep1 exit=0 done=yes
+2026-10-16T07:58:23Z f14_b09_k5_F60 exit=0 done=yes
+2026-10-16T07:58:25Z f14_b10_k2_F60 exit=0 done=yes
+2026-10-16T07:58:27Z f14_b10_k5_F60 exit=0 done=yes
+2026-10-16T08:00:53Z f01_b10_k2_F01 exit=0 done=yes
+2026-10-16T08:00:54Z f14_b09_k2_F01 exit=0 done=yes
+2026-10-16T08:00:54Z f01_b09_k2_F01 exit=0 done=yes
+2026-10-16T08:01:00Z f14_b10_k2_F01 exit=0 done=yes
+2026-10-16T08:01:01Z f01_b09_k2_F01_rep1 exit=0 done=yes
+2026-10-16T08:01:02Z f01_b09_k5_F01 exit=0 done=yes
+2026-10-16T08:01:05Z f01_b10_k5_F01 exit=0 done=yes
+2026-10-16T08:01:07Z f14_b09_k5_F01 exit=0 done=yes
+2026-10-16T08:01:19Z f14_b10_k5_F01 exit=0 done=yes
+determinism f01_b09_k2_F01: identical
+determinism f14_b10_k5_F05: identical
+determinism f01_b10_none_F15: identical
+determinism f14_b09_k2_F60: identical
+gates: run failures=0 check failures=0 determinism failures=0 (of 44 runs)
+2026-10-16T08:04:04Z wrote <observed_testbed>/runs/ALL_DONE

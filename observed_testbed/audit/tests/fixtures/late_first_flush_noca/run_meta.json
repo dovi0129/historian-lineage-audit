@@ -1,0 +1,29 @@
+{
+ "run_id": "late_first_flush_noca",
+ "fault": 0,
+ "batch": 0,
+ "n_ticks": 26,
+ "channels": [
+  "A",
+  "B"
+ ],
+ "deadband": "none",
+ "compdev": {
+  "A": null,
+  "B": null
+ },
+ "flush_every": 12,
+ "flush_ticks": [
+  11,
+  23,
+  26
+ ],
+ "iotdb_version": "fixture",
+ "iotdb_settings": {
+  "auto_flush": "off"
+ },
+ "asyncua_version": "fixture",
+ "tick_wall_ms": 0,
+ "testbed_code_digest": "fixture",
+ "created_wall": "2026-10-16T00:00:00.000000+00:00"
+}

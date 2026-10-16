@@ -1,0 +1,119 @@
+2026-10-16T07:44:49Z start mode=full parallel=16 runs=44 list=<observed_testbed>/runs/_launcher/full_runs_20261016T074449Z.txt
+2026-10-16T07:46:44Z f01_b09_k5_F05 exit=0 done=yes
+2026-10-16T07:47:01Z f01_b09_k2_F05 exit=0 done=yes
+2026-10-16T07:47:02Z f01_b10_k2_F05 exit=0 done=yes
+2026-10-16T07:48:39Z f01_b10_k5_F05 exit=0 done=yes
+2026-10-16T07:48:56Z f14_b09_k5_F05 exit=0 done=yes
+2026-10-16T07:49:06Z f14_b09_k2_F05 exit=0 done=yes
+2026-10-16T07:50:44Z f14_b10_k2_F05 exit=0 done=yes
+2026-10-16T07:50:51Z f14_b10_k5_F05 exit=0 done=yes
+2026-10-16T07:51:00Z f14_b10_k5_F05_rep1 exit=0 done=yes
+2026-10-16T07:52:09Z f01_b09_k2_F15 exit=0 done=yes
+2026-10-16T07:52:11Z f01_b09_k5_F15 exit=0 done=yes
+2026-10-16T07:52:35Z f01_b09_none_F15 exit=0 done=yes
+2026-10-16T07:53:27Z f01_b10_k5_F15 exit=0 done=yes
+2026-10-16T07:53:31Z f01_b10_k2_F15 exit=0 done=yes
+2026-10-16T07:54:09Z f01_b10_none_F15 exit=0 done=yes
+2026-10-16T07:54:52Z f14_b09_k2_F15 exit=0 done=yes
+2026-10-16T07:55:00Z f01_b10_none_F15_rep1 exit=0 done=yes
+2026-10-16T07:55:23Z f14_b09_k5_F15 exit=0 done=yes
+2026-10-16T07:55:40Z f01_b10_none_F01 exit=0 done=yes
+2026-10-16T07:55:40Z f01_b09_none_F01 exit=0 done=yes
+2026-10-16T07:55:41Z f14_b10_none_F01 exit=0 done=yes
+2026-10-16T07:55:45Z f14_b09_none_F01 exit=0 done=yes
+2026-10-16T07:56:25Z f14_b10_k2_F15 exit=0 done=yes
+2026-10-16T07:56:31Z f14_b09_none_F15 exit=0 done=yes
+2026-10-16T07:56:49Z f14_b10_k5_F15 exit=0 done=yes
+2026-10-16T07:57:04Z f01_b09_k5_F60 exit=0 done=yes
+2026-10-16T07:57:05Z f01_b09_k2_F60 exit=0 done=yes
+2026-10-16T07:57:10Z f01_b10_k2_F60 exit=0 done=yes
+2026-10-16T07:57:23Z f14_b10_none_F15 exit=0 done=yes
+2026-10-16T07:57:47Z f01_b10_k5_F60 exit=0 done=yes
+2026-10-16T07:57:56Z f14_b09_k2_F60 exit=0 done=yes
+2026-10-16T07:58:12Z f14_b09_k2_F60_rep1 exit=0 done=yes
+2026-10-16T07:58:23Z f14_b09_k5_F60 exit=0 done=yes
+2026-10-16T07:58:25Z f14_b10_k2_F60 exit=0 done=yes
+2026-10-16T07:58:27Z f14_b10_k5_F60 exit=0 done=yes
+2026-10-16T08:00:53Z f01_b10_k2_F01 exit=0 done=yes
+2026-10-16T08:00:54Z f14_b09_k2_F01 exit=0 done=yes
+2026-10-16T08:00:54Z f01_b09_k2_F01 exit=0 done=yes
+2026-10-16T08:01:00Z f14_b10_k2_F01 exit=0 done=yes
+2026-10-16T08:01:01Z f01_b09_k2_F01_rep1 exit=0 done=yes
+2026-10-16T08:01:02Z f01_b09_k5_F01 exit=0 done=yes
+2026-10-16T08:01:05Z f01_b10_k5_F01 exit=0 done=yes
+2026-10-16T08:01:07Z f14_b09_k5_F01 exit=0 done=yes
+2026-10-16T08:01:19Z f14_b10_k5_F01 exit=0 done=yes
+f01_b09_k2_F01: n_ticks=3001 F=1 flushes=3002 sealed=3001 samples=15005 delta=30010 (removed=0) snapshots=284690 {'window': 269730, 'anchor': 14960} duplicates={'XMEAS-7': 3001, 'XMEAS-9': 3001, 'XMV-10': 3001, 'XMEAS-4': 3001, 'XMEAS-21': 3001} -> OK
+f01_b09_k2_F01_rep1: n_ticks=3001 F=1 flushes=3002 sealed=3001 samples=15005 delta=30010 (removed=0) snapshots=284690 {'window': 269730, 'anchor': 14960} duplicates={'XMEAS-7': 3001, 'XMEAS-9': 3001, 'XMV-10': 3001, 'XMEAS-4': 3001, 'XMEAS-21': 3001} -> OK
+f01_b09_k5_F01: n_ticks=3001 F=1 flushes=3002 sealed=3001 samples=15005 delta=30010 (removed=0) snapshots=284690 {'window': 269730, 'anchor': 14960} duplicates={'XMEAS-7': 3001, 'XMEAS-9': 3001, 'XMV-10': 3001, 'XMEAS-4': 3001, 'XMEAS-21': 3001} -> OK
+f01_b09_none_F01: n_ticks=3001 F=1 flushes=3002 sealed=3001 samples=15005 delta=15005 (removed=0) snapshots=149825 {'window': 134865, 'anchor': 14960} duplicates={'XMEAS-7': 0, 'XMEAS-9': 0, 'XMV-10': 0, 'XMEAS-4': 0, 'XMEAS-21': 0} -> OK
+f01_b10_k2_F01: n_ticks=3001 F=1 flushes=3002 sealed=3001 samples=15005 delta=30010 (removed=0) snapshots=284690 {'window': 269730, 'anchor': 14960} duplicates={'XMEAS-7': 3001, 'XMEAS-9': 3001, 'XMV-10': 3001, 'XMEAS-4': 3001, 'XMEAS-21': 3001} -> OK
+f01_b10_k5_F01: n_ticks=3001 F=1 flushes=3002 sealed=3001 samples=15005 delta=30010 (removed=0) snapshots=284690 {'window': 269730, 'anchor': 14960} duplicates={'XMEAS-7': 3001, 'XMEAS-9': 3001, 'XMV-10': 3001, 'XMEAS-4': 3001, 'XMEAS-21': 3001} -> OK
+f01_b10_none_F01: n_ticks=3001 F=1 flushes=3002 sealed=3001 samples=15005 delta=15005 (removed=0) snapshots=149825 {'window': 134865, 'anchor': 14960} duplicates={'XMEAS-7': 0, 'XMEAS-9': 0, 'XMV-10': 0, 'XMEAS-4': 0, 'XMEAS-21': 0} -> OK
+f14_b09_k2_F01: n_ticks=3001 F=1 flushes=3002 sealed=3001 samples=15005 delta=30010 (removed=0) snapshots=284690 {'window': 269730, 'anchor': 14960} duplicates={'XMEAS-7': 3001, 'XMEAS-9': 3001, 'XMV-10': 3001, 'XMEAS-4': 3001, 'XMEAS-21': 3001} -> OK
+f14_b09_k5_F01: n_ticks=3001 F=1 flushes=3002 sealed=3001 samples=15005 delta=30010 (removed=0) snapshots=284690 {'window': 269730, 'anchor': 14960} duplicates={'XMEAS-7': 3001, 'XMEAS-9': 3001, 'XMV-10': 3001, 'XMEAS-4': 3001, 'XMEAS-21': 3001} -> OK
+f14_b09_none_F01: n_ticks=3001 F=1 flushes=3002 sealed=3001 samples=15005 delta=15005 (removed=0) snapshots=149825 {'window': 134865, 'anchor': 14960} duplicates={'XMEAS-7': 0, 'XMEAS-9': 0, 'XMV-10': 0, 'XMEAS-4': 0, 'XMEAS-21': 0} -> OK
+f14_b10_k2_F01: n_ticks=3001 F=1 flushes=3002 sealed=3001 samples=15005 delta=30010 (removed=0) snapshots=284690 {'window': 269730, 'anchor': 14960} duplicates={'XMEAS-7': 3001, 'XMEAS-9': 3001, 'XMV-10': 3001, 'XMEAS-4': 3001, 'XMEAS-21': 3001} -> OK
+f14_b10_k5_F01: n_ticks=3001 F=1 flushes=3002 sealed=3001 samples=15005 delta=30010 (removed=0) snapshots=284690 {'window': 269730, 'anchor': 14960} duplicates={'XMEAS-7': 3001, 'XMEAS-9': 3001, 'XMV-10': 3001, 'XMEAS-4': 3001, 'XMEAS-21': 3001} -> OK
+f14_b10_none_F01: n_ticks=3001 F=1 flushes=3002 sealed=3001 samples=15005 delta=15005 (removed=0) snapshots=149825 {'window': 134865, 'anchor': 14960} duplicates={'XMEAS-7': 0, 'XMEAS-9': 0, 'XMV-10': 0, 'XMEAS-4': 0, 'XMEAS-21': 0} -> OK
+f01_b09_k2_F05: n_ticks=3001 F=5 flushes=601 sealed=601 samples=15005 delta=9222 (removed=0) snapshots=109763 {'window': 94803, 'anchor': 14960} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f01_b09_k5_F05: n_ticks=3001 F=5 flushes=601 sealed=601 samples=15005 delta=6327 (removed=0) snapshots=89229 {'window': 74269, 'anchor': 14960} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f01_b10_k2_F05: n_ticks=3001 F=5 flushes=601 sealed=601 samples=15005 delta=9362 (removed=0) snapshots=110700 {'window': 95740, 'anchor': 14960} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f01_b10_k5_F05: n_ticks=3001 F=5 flushes=601 sealed=601 samples=15005 delta=6376 (removed=0) snapshots=89601 {'window': 74641, 'anchor': 14960} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f14_b09_k2_F05: n_ticks=3001 F=5 flushes=601 sealed=601 samples=15005 delta=9592 (removed=0) snapshots=112148 {'window': 97188, 'anchor': 14960} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f14_b09_k5_F05: n_ticks=3001 F=5 flushes=601 sealed=601 samples=15005 delta=6570 (removed=0) snapshots=91216 {'window': 76256, 'anchor': 14960} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f14_b10_k2_F05: n_ticks=3001 F=5 flushes=601 sealed=601 samples=15005 delta=9669 (removed=0) snapshots=112596 {'window': 97636, 'anchor': 14960} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f14_b10_k5_F05: n_ticks=3001 F=5 flushes=601 sealed=601 samples=15005 delta=6614 (removed=0) snapshots=91534 {'window': 76574, 'anchor': 14960} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f14_b10_k5_F05_rep1: n_ticks=3001 F=5 flushes=601 sealed=601 samples=15005 delta=6614 (removed=0) snapshots=91534 {'window': 76574, 'anchor': 14960} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f01_b09_k2_F15: n_ticks=3001 F=15 flushes=201 sealed=201 samples=15005 delta=7379 (removed=0) snapshots=134130 {'window': 114195, 'anchor': 14960, 'commit_anchor': 4975} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f01_b09_k5_F15: n_ticks=3001 F=15 flushes=201 sealed=201 samples=15005 delta=2951 (removed=0) snapshots=122147 {'window': 102212, 'anchor': 14960, 'commit_anchor': 4975} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f01_b09_none_F15: n_ticks=3001 F=15 flushes=201 sealed=201 samples=15005 delta=15005 (removed=0) snapshots=154800 {'window': 134865, 'anchor': 14960, 'commit_anchor': 4975} duplicates={'XMEAS-7': 0, 'XMEAS-9': 0, 'XMV-10': 0, 'XMEAS-4': 0, 'XMEAS-21': 0} -> OK
+f01_b10_k2_F15: n_ticks=3001 F=15 flushes=201 sealed=201 samples=15005 delta=7428 (removed=0) snapshots=134402 {'window': 114467, 'anchor': 14960, 'commit_anchor': 4975} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f01_b10_k5_F15: n_ticks=3001 F=15 flushes=201 sealed=201 samples=15005 delta=2987 (removed=0) snapshots=122004 {'window': 102069, 'anchor': 14960, 'commit_anchor': 4975} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f01_b10_none_F15: n_ticks=3001 F=15 flushes=201 sealed=201 samples=15005 delta=15005 (removed=0) snapshots=154800 {'window': 134865, 'anchor': 14960, 'commit_anchor': 4975} duplicates={'XMEAS-7': 0, 'XMEAS-9': 0, 'XMV-10': 0, 'XMEAS-4': 0, 'XMEAS-21': 0} -> OK
+f01_b10_none_F15_rep1: n_ticks=3001 F=15 flushes=201 sealed=201 samples=15005 delta=15005 (removed=0) snapshots=154800 {'window': 134865, 'anchor': 14960, 'commit_anchor': 4975} duplicates={'XMEAS-7': 0, 'XMEAS-9': 0, 'XMV-10': 0, 'XMEAS-4': 0, 'XMEAS-21': 0} -> OK
+f14_b09_k2_F15: n_ticks=3001 F=15 flushes=201 sealed=201 samples=15005 delta=7479 (removed=0) snapshots=134194 {'window': 114259, 'anchor': 14960, 'commit_anchor': 4975} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f14_b09_k5_F15: n_ticks=3001 F=15 flushes=201 sealed=201 samples=15005 delta=3025 (removed=0) snapshots=121680 {'window': 101745, 'anchor': 14960, 'commit_anchor': 4975} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f14_b09_none_F15: n_ticks=3001 F=15 flushes=201 sealed=201 samples=15005 delta=15005 (removed=0) snapshots=154800 {'window': 134865, 'anchor': 14960, 'commit_anchor': 4975} duplicates={'XMEAS-7': 0, 'XMEAS-9': 0, 'XMV-10': 0, 'XMEAS-4': 0, 'XMEAS-21': 0} -> OK
+f14_b10_k2_F15: n_ticks=3001 F=15 flushes=201 sealed=201 samples=15005 delta=7564 (removed=0) snapshots=134437 {'window': 114502, 'anchor': 14960, 'commit_anchor': 4975} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f14_b10_k5_F15: n_ticks=3001 F=15 flushes=201 sealed=201 samples=15005 delta=3165 (removed=0) snapshots=122304 {'window': 102369, 'anchor': 14960, 'commit_anchor': 4975} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f14_b10_none_F15: n_ticks=3001 F=15 flushes=201 sealed=201 samples=15005 delta=15005 (removed=0) snapshots=154800 {'window': 134865, 'anchor': 14960, 'commit_anchor': 4975} duplicates={'XMEAS-7': 0, 'XMEAS-9': 0, 'XMV-10': 0, 'XMEAS-4': 0, 'XMEAS-21': 0} -> OK
+f01_b09_k2_F60: n_ticks=3001 F=60 flushes=51 sealed=51 samples=15005 delta=6701 (removed=0) snapshots=157127 {'window': 129917, 'anchor': 14960, 'commit_anchor': 12250} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f01_b09_k5_F60: n_ticks=3001 F=60 flushes=51 sealed=51 samples=15005 delta=1787 (removed=0) snapshots=153990 {'window': 126780, 'anchor': 14960, 'commit_anchor': 12250} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f01_b10_k2_F60: n_ticks=3001 F=60 flushes=51 sealed=51 samples=15005 delta=6732 (removed=0) snapshots=157094 {'window': 129884, 'anchor': 14960, 'commit_anchor': 12250} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f01_b10_k5_F60: n_ticks=3001 F=60 flushes=51 sealed=51 samples=15005 delta=1867 (removed=0) snapshots=153991 {'window': 126781, 'anchor': 14960, 'commit_anchor': 12250} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f14_b09_k2_F60: n_ticks=3001 F=60 flushes=51 sealed=51 samples=15005 delta=6698 (removed=0) snapshots=156991 {'window': 129781, 'anchor': 14960, 'commit_anchor': 12250} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f14_b09_k2_F60_rep1: n_ticks=3001 F=60 flushes=51 sealed=51 samples=15005 delta=6698 (removed=0) snapshots=156991 {'window': 129781, 'anchor': 14960, 'commit_anchor': 12250} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f14_b09_k5_F60: n_ticks=3001 F=60 flushes=51 sealed=51 samples=15005 delta=1493 (removed=0) snapshots=153701 {'window': 126491, 'anchor': 14960, 'commit_anchor': 12250} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f14_b10_k2_F60: n_ticks=3001 F=60 flushes=51 sealed=51 samples=15005 delta=6778 (removed=0) snapshots=157085 {'window': 129875, 'anchor': 14960, 'commit_anchor': 12250} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+f14_b10_k5_F60: n_ticks=3001 F=60 flushes=51 sealed=51 samples=15005 delta=1724 (removed=0) snapshots=154007 {'window': 126797, 'anchor': 14960, 'commit_anchor': 12250} duplicates={'XMEAS-7': 1, 'XMEAS-9': 1, 'XMV-10': 1, 'XMEAS-4': 1, 'XMEAS-21': 1} -> OK
+compare f01_b09_k2_F01 vs f01_b09_k2_F01_rep1
+samples.csv identical (15005 rows, wall columns dropped)
+flushes.csv identical (3002 rows, wall columns dropped)
+membership_delta.csv identical (30010 rows, wall columns dropped)
+membership_digest.csv identical (15010 rows, wall columns dropped)
+snapshots.csv identical (284690 rows, wall columns dropped)
+determinism f01_b09_k2_F01: identical
+compare f14_b10_k5_F05 vs f14_b10_k5_F05_rep1
+samples.csv identical (15005 rows, wall columns dropped)
+flushes.csv identical (601 rows, wall columns dropped)
+membership_delta.csv identical (6614 rows, wall columns dropped)
+membership_digest.csv identical (3005 rows, wall columns dropped)
+snapshots.csv identical (91534 rows, wall columns dropped)
+determinism f14_b10_k5_F05: identical
+compare f01_b10_none_F15 vs f01_b10_none_F15_rep1
+samples.csv identical (15005 rows, wall columns dropped)
+flushes.csv identical (201 rows, wall columns dropped)
+membership_delta.csv identical (15005 rows, wall columns dropped)
+membership_digest.csv identical (1005 rows, wall columns dropped)
+snapshots.csv identical (154800 rows, wall columns dropped)
+determinism f01_b10_none_F15: identical
+compare f14_b09_k2_F60 vs f14_b09_k2_F60_rep1
+samples.csv identical (15005 rows, wall columns dropped)
+flushes.csv identical (51 rows, wall columns dropped)
+membership_delta.csv identical (6698 rows, wall columns dropped)
+membership_digest.csv identical (255 rows, wall columns dropped)
+snapshots.csv identical (156991 rows, wall columns dropped)
+determinism f14_b09_k2_F60: identical
+gates: run failures=0 check failures=0 determinism failures=0 (of 44 runs)
+2026-10-16T08:04:04Z wrote <observed_testbed>/runs/ALL_DONE

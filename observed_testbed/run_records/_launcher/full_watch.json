@@ -1,0 +1,19 @@
+{
+  "label": "observed-testbed-full",
+  "outcome": "DONE",
+  "reason": "status=done",
+  "suspicion_only": false,
+  "pid": 3357495,
+  "pid_alive": false,
+  "status_file": "runs/_launcher/full_status.json",
+  "status_document": {
+    "status": "done",
+    "exit_code": 0
+  },
+  "evidence": {},
+  "waited_seconds": 1200.008,
+  "finished_at": "2026-10-16 17:04:57+0900",
+  "action_taken": "none: this watcher never kills, restarts or retries",
+  "completion_file": "runs/_launcher/full_watch.json",
+  "notifications": []
+}

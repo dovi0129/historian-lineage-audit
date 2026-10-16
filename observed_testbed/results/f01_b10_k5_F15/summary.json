@@ -1,0 +1,520 @@
+{
+ "run_dir": "runs/f01_b10_k5_F15",
+ "run_id": "f01_b10_k5_F15",
+ "meta": {
+  "run_id": "f01_b10_k5_F15",
+  "fault": 1,
+  "batch": 10,
+  "n_ticks": 3001,
+  "channels": [
+   "XMEAS-7",
+   "XMEAS-9",
+   "XMV-10",
+   "XMEAS-4",
+   "XMEAS-21"
+  ],
+  "deadband": "SDT",
+  "compdev": {
+   "XMEAS-7": 0.8588146462804552,
+   "XMEAS-9": 0.01940559796224953,
+   "XMV-10": 0.15604068426939877,
+   "XMEAS-4": 0.09220108438658026,
+   "XMEAS-21": 0.024704210582827072
+  },
+  "flush_every": 15,
+  "iotdb_version": "1.3.7",
+  "retention_level": "k5"
+ },
+ "definitions": {
+  "window": 8,
+  "lags": [
+   0,
+   2,
+   4,
+   6,
+   8
+  ],
+  "min_origin": 8,
+  "tolerance": 1e-12,
+  "final_flush_tick": 3001
+ },
+ "validation": {
+  "n_errors": 0,
+  "n_warnings": 0,
+  "issues": [],
+  "n_memberships": 201,
+  "n_digests_checked": 1005
+ },
+ "origins": {
+  "first": 8,
+  "last": 3000,
+  "n": 2993,
+  "first_flush_tick": 14,
+  "n_before_first_flush": 6,
+  "n_cells_before_first_flush": 30,
+  "n_cells_truth_undetermined": 0,
+  "n_commit_anchor_rows": 4975
+ },
+ "ledger": {
+  "retention": {
+   "XMEAS-21": {
+    "n_samples": 3001,
+    "n_final_retained": 608,
+    "achieved_retention": 0.20259913362212595,
+    "n_ever_committed": 608,
+    "n_discarded": 2393
+   },
+   "XMEAS-4": {
+    "n_samples": 3001,
+    "n_final_retained": 609,
+    "achieved_retention": 0.20293235588137287,
+    "n_ever_committed": 609,
+    "n_discarded": 2392
+   },
+   "XMEAS-7": {
+    "n_samples": 3001,
+    "n_final_retained": 583,
+    "achieved_retention": 0.19426857714095302,
+    "n_ever_committed": 583,
+    "n_discarded": 2418
+   },
+   "XMEAS-9": {
+    "n_samples": 3001,
+    "n_final_retained": 597,
+    "achieved_retention": 0.19893368877040987,
+    "n_ever_committed": 597,
+    "n_discarded": 2404
+   },
+   "XMV-10": {
+    "n_samples": 3001,
+    "n_final_retained": 585,
+    "achieved_retention": 0.19493502165944684,
+    "n_ever_committed": 585,
+    "n_discarded": 2416
+   }
+  },
+  "mean_achieved_retention": 0.1987337554148617,
+  "commit_lag": {
+   "n_committed_regular": 2977,
+   "n_committed_at_final_flush": 5,
+   "min": 0.0,
+   "p50": 6.0,
+   "p90": 14.0,
+   "p99": 14.0,
+   "max": 14.0,
+   "mean": 6.749076251259657,
+   "histogram": {
+    "0": 1000,
+    "1": 86,
+    "2": 78,
+    "3": 86,
+    "4": 92,
+    "5": 89,
+    "6": 86,
+    "7": 97,
+    "8": 85,
+    "9": 77,
+    "10": 69,
+    "11": 74,
+    "12": 47,
+    "13": 11,
+    "14": 1000
+   }
+  },
+  "n_violations": 0,
+  "n_anomalies": 0,
+  "violations": [],
+  "anomalies": []
+ },
+ "truth": {
+  "n_violations": 0,
+  "violations": []
+ },
+ "comparisons": {
+  "Replay_commit_vs_S_commit": {
+   "n_cells_evaluated": 14935,
+   "n_cells_excluded_before_first_flush": 30,
+   "n_cells_excluded_truth_undetermined": 0,
+   "n_cells_rowset_mismatch": 0,
+   "n_cells_feature_mismatch": 0,
+   "n_cells_any_mismatch": 0,
+   "cell_mismatch_rate": 0.0,
+   "n_origins_evaluated": 2987,
+   "n_origins_any_mismatch": 0,
+   "origin_mismatch_rate": 0.0,
+   "n_features": 74675,
+   "n_feature_mismatch": 0,
+   "feature_mismatch_rate": 0.0,
+   "n_feature_mismatch_one_side_missing": 0,
+   "abs_diff_both_present": {
+    "n": 0
+   },
+   "mismatch_run_lengths_origins": {
+    "n": 0,
+    "n_runs": 0
+   },
+   "cells_any_mismatch_by_channel": {}
+  },
+  "Replay_visible_vs_S_all": {
+   "n_cells_evaluated": 14965,
+   "n_cells_excluded_before_first_flush": 0,
+   "n_cells_excluded_truth_undetermined": 0,
+   "n_cells_rowset_mismatch": 0,
+   "n_cells_feature_mismatch": 0,
+   "n_cells_any_mismatch": 0,
+   "cell_mismatch_rate": 0.0,
+   "n_origins_evaluated": 2993,
+   "n_origins_any_mismatch": 0,
+   "origin_mismatch_rate": 0.0,
+   "n_features": 74825,
+   "n_feature_mismatch": 0,
+   "feature_mismatch_rate": 0.0,
+   "n_feature_mismatch_one_side_missing": 0,
+   "abs_diff_both_present": {
+    "n": 0
+   },
+   "mismatch_run_lengths_origins": {
+    "n": 0,
+    "n_runs": 0
+   },
+   "cells_any_mismatch_by_channel": {}
+  },
+  "V3_vs_S_commit": {
+   "n_cells_evaluated": 14935,
+   "n_cells_excluded_before_first_flush": 30,
+   "n_cells_excluded_truth_undetermined": 0,
+   "n_cells_rowset_mismatch": 13935,
+   "n_cells_feature_mismatch": 13935,
+   "n_cells_any_mismatch": 13935,
+   "cell_mismatch_rate": 0.9330431871442919,
+   "n_origins_evaluated": 2987,
+   "n_origins_any_mismatch": 2787,
+   "origin_mismatch_rate": 0.9330431871442919,
+   "n_features": 74675,
+   "n_feature_mismatch": 49755,
+   "feature_mismatch_rate": 0.666287244727151,
+   "n_feature_mismatch_one_side_missing": 0,
+   "abs_diff_both_present": {
+    "n": 49755,
+    "min": 1.9177425201633014e-05,
+    "p50": 0.03152885955522322,
+    "p90": 0.4725810692410958,
+    "p99": 1.566547518099469,
+    "max": 6.538471826507703,
+    "mean": 0.1580311421107205
+   },
+   "mismatch_run_lengths_origins": {
+    "n": 1000,
+    "min": 1.0,
+    "p50": 14.0,
+    "p90": 14.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 13.935,
+    "n_runs": 1000
+   },
+   "cells_any_mismatch_by_channel": {
+    "XMEAS-21": 2787,
+    "XMEAS-4": 2787,
+    "XMEAS-7": 2787,
+    "XMEAS-9": 2787,
+    "XMV-10": 2787
+   }
+  },
+  "V_server_vs_S_commit": {
+   "n_cells_evaluated": 14935,
+   "n_cells_excluded_before_first_flush": 30,
+   "n_cells_excluded_truth_undetermined": 0,
+   "n_cells_rowset_mismatch": 13935,
+   "n_cells_feature_mismatch": 13935,
+   "n_cells_any_mismatch": 13935,
+   "cell_mismatch_rate": 0.9330431871442919,
+   "n_origins_evaluated": 2987,
+   "n_origins_any_mismatch": 2787,
+   "origin_mismatch_rate": 0.9330431871442919,
+   "n_features": 74675,
+   "n_feature_mismatch": 49755,
+   "feature_mismatch_rate": 0.666287244727151,
+   "n_feature_mismatch_one_side_missing": 0,
+   "abs_diff_both_present": {
+    "n": 49755,
+    "min": 1.9177425201633014e-05,
+    "p50": 0.03152885955522322,
+    "p90": 0.4725810692410958,
+    "p99": 1.566547518099469,
+    "max": 6.538471826507703,
+    "mean": 0.1580311421107205
+   },
+   "mismatch_run_lengths_origins": {
+    "n": 1000,
+    "min": 1.0,
+    "p50": 14.0,
+    "p90": 14.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 13.935,
+    "n_runs": 1000
+   },
+   "cells_any_mismatch_by_channel": {
+    "XMEAS-21": 2787,
+    "XMEAS-4": 2787,
+    "XMEAS-7": 2787,
+    "XMEAS-9": 2787,
+    "XMV-10": 2787
+   }
+  },
+  "V1_vs_S_commit": {
+   "n_cells_evaluated": 14935,
+   "n_cells_excluded_before_first_flush": 30,
+   "n_cells_excluded_truth_undetermined": 0,
+   "n_cells_rowset_mismatch": 13935,
+   "n_cells_feature_mismatch": 13935,
+   "n_cells_any_mismatch": 13935,
+   "cell_mismatch_rate": 0.9330431871442919,
+   "n_origins_evaluated": 2987,
+   "n_origins_any_mismatch": 2787,
+   "origin_mismatch_rate": 0.9330431871442919,
+   "n_features": 74675,
+   "n_feature_mismatch": 49755,
+   "feature_mismatch_rate": 0.666287244727151,
+   "n_feature_mismatch_one_side_missing": 0,
+   "abs_diff_both_present": {
+    "n": 49755,
+    "min": 2.5363717099935457e-06,
+    "p50": 0.03188392381353822,
+    "p90": 0.5340660386127638,
+    "p99": 2.159005584005172,
+    "max": 8.253933819191843,
+    "mean": 0.18142736827079858
+   },
+   "mismatch_run_lengths_origins": {
+    "n": 1000,
+    "min": 1.0,
+    "p50": 14.0,
+    "p90": 14.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 13.935,
+    "n_runs": 1000
+   },
+   "cells_any_mismatch_by_channel": {
+    "XMEAS-21": 2787,
+    "XMEAS-4": 2787,
+    "XMEAS-7": 2787,
+    "XMEAS-9": 2787,
+    "XMV-10": 2787
+   }
+  },
+  "S_all_vs_S_commit": {
+   "n_cells_evaluated": 14935,
+   "n_cells_excluded_before_first_flush": 30,
+   "n_cells_excluded_truth_undetermined": 0,
+   "n_cells_rowset_mismatch": 13935,
+   "n_cells_feature_mismatch": 13935,
+   "n_cells_any_mismatch": 13935,
+   "cell_mismatch_rate": 0.9330431871442919,
+   "n_origins_evaluated": 2987,
+   "n_origins_any_mismatch": 2787,
+   "origin_mismatch_rate": 0.9330431871442919,
+   "n_features": 74675,
+   "n_feature_mismatch": 49755,
+   "feature_mismatch_rate": 0.666287244727151,
+   "n_feature_mismatch_one_side_missing": 0,
+   "abs_diff_both_present": {
+    "n": 49755,
+    "min": 3.574647095661021e-06,
+    "p50": 0.037459186616601414,
+    "p90": 0.6047790679704121,
+    "p99": 2.286123070926351,
+    "max": 8.313396383584859,
+    "mean": 0.2057771212592365
+   },
+   "mismatch_run_lengths_origins": {
+    "n": 1000,
+    "min": 1.0,
+    "p50": 14.0,
+    "p90": 14.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 13.935,
+    "n_runs": 1000
+   },
+   "cells_any_mismatch_by_channel": {
+    "XMEAS-21": 2787,
+    "XMEAS-4": 2787,
+    "XMEAS-7": 2787,
+    "XMEAS-9": 2787,
+    "XMV-10": 2787
+   }
+  }
+ },
+ "v_server_vs_v3": {
+  "n_cells_equal": 14965,
+  "n_cells_different": 0,
+  "equal_everywhere": true,
+  "n_final_rows_server_tick_ne_tick": 0
+ },
+ "negative_checks": {
+  "a_shift_commit_of_used_endpoint": {
+   "status": "detected",
+   "origin": 14,
+   "channel": "XMEAS-7",
+   "lag": 2,
+   "mode": "interpolation",
+   "endpoint_time": 0,
+   "c_obs": 14.0,
+   "shifted_c_obs": 15.0,
+   "rowset_detected": true,
+   "feature_detected": true,
+   "feature_before": 2800.3952367068177,
+   "feature_after": null
+  },
+  "b_insert_row": {
+   "future_time": {
+    "status": "detected",
+    "origin": 14,
+    "channel": "XMEAS-7",
+    "inserted_time": 15,
+    "true_c_obs": 29.0,
+    "rowset_detected": true,
+    "features_changed": false,
+    "unused": true
+   },
+   "future_commit": {
+    "status": "detected",
+    "origin": 15,
+    "channel": "XMEAS-7",
+    "inserted_time": 15,
+    "true_c_obs": 29.0,
+    "rowset_detected": true,
+    "features_changed": true,
+    "unused": false
+   }
+  }
+ },
+ "duplicates": {
+  "ledger_membership": {
+   "n_rows_stored_more_than_once": 5,
+   "max_copies": 2,
+   "by_channel": {
+    "XMEAS-7": 1,
+    "XMEAS-9": 1,
+    "XMV-10": 1,
+    "XMEAS-4": 1,
+    "XMEAS-21": 1
+   }
+  },
+  "snapshot_rows": {},
+  "testbed_reported": {
+   "XMEAS-7": 1,
+   "XMEAS-9": 1,
+   "XMV-10": 1,
+   "XMEAS-4": 1,
+   "XMEAS-21": 1
+  },
+  "window_multiplicity_ledger_vs_snapshot": {
+   "n_cells": 14965,
+   "n_cells_agree": 14965,
+   "n_cells_disagree": 0,
+   "n_cells_with_duplicates_ledger": 0,
+   "n_cells_with_duplicates_snapshot": 0,
+   "examples": []
+  }
+ },
+ "sdt_overlap": {
+  "note": "IoTDB 1.3.7 resets SDT at every FLUSH: each flushed segment keeps its first and last rows plus interior corridor breaks (spec \u00a79), so its retained set depends on F. The declared local rule runs once over the whole series and keeps both series endpoints. The two segmentations differ by construction; the overlap is descriptive.",
+  "flush_every": 15,
+  "channels": {
+   "XMEAS-21": {
+    "compdev": 0.024704210582827072,
+    "n_samples": 3001,
+    "n_iotdb": 608,
+    "n_local_rule": 310,
+    "n_both": 172,
+    "n_iotdb_only": 436,
+    "n_local_only": 138,
+    "jaccard": 0.23056300268096513,
+    "iotdb_retention": 0.20259913362212595,
+    "local_retention": 0.10329890036654449,
+    "last_tick_iotdb": true,
+    "last_tick_local": true
+   },
+   "XMEAS-4": {
+    "compdev": 0.09220108438658026,
+    "n_samples": 3001,
+    "n_iotdb": 609,
+    "n_local_rule": 290,
+    "n_both": 166,
+    "n_iotdb_only": 443,
+    "n_local_only": 124,
+    "jaccard": 0.22646657571623466,
+    "iotdb_retention": 0.20293235588137287,
+    "local_retention": 0.09663445518160613,
+    "last_tick_iotdb": true,
+    "last_tick_local": true
+   },
+   "XMEAS-7": {
+    "compdev": 0.8588146462804552,
+    "n_samples": 3001,
+    "n_iotdb": 583,
+    "n_local_rule": 305,
+    "n_both": 153,
+    "n_iotdb_only": 430,
+    "n_local_only": 152,
+    "jaccard": 0.20816326530612245,
+    "iotdb_retention": 0.19426857714095302,
+    "local_retention": 0.1016327890703099,
+    "last_tick_iotdb": true,
+    "last_tick_local": true
+   },
+   "XMEAS-9": {
+    "compdev": 0.01940559796224953,
+    "n_samples": 3001,
+    "n_iotdb": 597,
+    "n_local_rule": 292,
+    "n_both": 171,
+    "n_iotdb_only": 426,
+    "n_local_only": 121,
+    "jaccard": 0.2381615598885794,
+    "iotdb_retention": 0.19893368877040987,
+    "local_retention": 0.09730089970009996,
+    "last_tick_iotdb": true,
+    "last_tick_local": true
+   },
+   "XMV-10": {
+    "compdev": 0.15604068426939877,
+    "n_samples": 3001,
+    "n_iotdb": 585,
+    "n_local_rule": 277,
+    "n_both": 154,
+    "n_iotdb_only": 431,
+    "n_local_only": 123,
+    "jaccard": 0.2175141242937853,
+    "iotdb_retention": 0.19493502165944684,
+    "local_retention": 0.0923025658113962,
+    "last_tick_iotdb": true,
+    "last_tick_local": true
+   }
+  }
+ },
+ "audit_seconds": 5.85,
+ "status": "ok",
+ "status_valid": "valid",
+ "invalid_reasons": [],
+ "primary_result": {
+  "result": "match",
+  "n_cells_evaluated": 14935,
+  "n_cells_mismatch": 0,
+  "n_cells_rowset_mismatch": 0,
+  "n_feature_mismatch": 0,
+  "n_features": 74675
+ },
+ "visible_result": {
+  "result": "match",
+  "n_cells_evaluated": 14965,
+  "n_cells_mismatch": 0,
+  "n_cells_rowset_mismatch": 0,
+  "n_feature_mismatch": 0,
+  "n_features": 74825
+ }
+}

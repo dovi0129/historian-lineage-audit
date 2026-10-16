@@ -1,0 +1,609 @@
+{
+ "note": "batch 1, distinct retained row_times / 3001; floor = CompDev 1e12; feasible = floor <= target",
+ "achieved": {
+  "1": {
+   "k2": {
+    "1": {
+     "XMEAS-7": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.5,
+      "feasible": false
+     },
+     "XMEAS-9": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.5,
+      "feasible": false
+     },
+     "XMV-10": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.5,
+      "feasible": false
+     },
+     "XMEAS-4": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.5,
+      "feasible": false
+     },
+     "XMEAS-21": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.5,
+      "feasible": false
+     }
+    },
+    "5": {
+     "XMEAS-7": {
+      "achieved": 0.6271242919026991,
+      "rows": 1883,
+      "floor": 0.40019993335554815,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-9": {
+      "achieved": 0.623458847050983,
+      "rows": 1872,
+      "floor": 0.40019993335554815,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMV-10": {
+      "achieved": 0.6244585138287237,
+      "rows": 1875,
+      "floor": 0.40019993335554815,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-4": {
+      "achieved": 0.6204598467177608,
+      "rows": 1863,
+      "floor": 0.40019993335554815,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-21": {
+      "achieved": 0.6244585138287237,
+      "rows": 1875,
+      "floor": 0.40019993335554815,
+      "target": 0.5,
+      "feasible": true
+     }
+    },
+    "15": {
+     "XMEAS-7": {
+      "achieved": 0.49983338887037654,
+      "rows": 1501,
+      "floor": 0.13362212595801398,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-9": {
+      "achieved": 0.49983338887037654,
+      "rows": 1501,
+      "floor": 0.13362212595801398,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMV-10": {
+      "achieved": 0.5001666111296235,
+      "rows": 1502,
+      "floor": 0.13362212595801398,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-4": {
+      "achieved": 0.49983338887037654,
+      "rows": 1501,
+      "floor": 0.13362212595801398,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-21": {
+      "achieved": 0.49983338887037654,
+      "rows": 1501,
+      "floor": 0.13362212595801398,
+      "target": 0.5,
+      "feasible": true
+     }
+    },
+    "60": {
+     "XMEAS-7": {
+      "achieved": 0.44918360546484504,
+      "rows": 1349,
+      "floor": 0.03365544818393869,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-9": {
+      "achieved": 0.4525158280573142,
+      "rows": 1359,
+      "floor": 0.03365544818393869,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMV-10": {
+      "achieved": 0.45518160613128955,
+      "rows": 1367,
+      "floor": 0.03365544818393869,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-4": {
+      "achieved": 0.4501832722425858,
+      "rows": 1352,
+      "floor": 0.03365544818393869,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-21": {
+      "achieved": 0.4465178273908697,
+      "rows": 1341,
+      "floor": 0.03365544818393869,
+      "target": 0.5,
+      "feasible": true
+     }
+    }
+   },
+   "k5": {
+    "1": {
+     "XMEAS-7": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMEAS-9": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMV-10": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMEAS-4": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMEAS-21": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.2,
+      "feasible": false
+     }
+    },
+    "5": {
+     "XMEAS-7": {
+      "achieved": 0.41319560146617795,
+      "rows": 1241,
+      "floor": 0.40019993335554815,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMEAS-9": {
+      "achieved": 0.42585804731756083,
+      "rows": 1279,
+      "floor": 0.40019993335554815,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMV-10": {
+      "achieved": 0.4301899366877707,
+      "rows": 1292,
+      "floor": 0.40019993335554815,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMEAS-4": {
+      "achieved": 0.42952349216927693,
+      "rows": 1290,
+      "floor": 0.40019993335554815,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMEAS-21": {
+      "achieved": 0.4231922692435855,
+      "rows": 1271,
+      "floor": 0.40019993335554815,
+      "target": 0.2,
+      "feasible": false
+     }
+    },
+    "15": {
+     "XMEAS-7": {
+      "achieved": 0.19993335554815062,
+      "rows": 601,
+      "floor": 0.13362212595801398,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMEAS-9": {
+      "achieved": 0.20026657780739754,
+      "rows": 602,
+      "floor": 0.13362212595801398,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMV-10": {
+      "achieved": 0.19993335554815062,
+      "rows": 601,
+      "floor": 0.13362212595801398,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMEAS-4": {
+      "achieved": 0.19993335554815062,
+      "rows": 601,
+      "floor": 0.13362212595801398,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMEAS-21": {
+      "achieved": 0.19993335554815062,
+      "rows": 601,
+      "floor": 0.13362212595801398,
+      "target": 0.2,
+      "feasible": true
+     }
+    },
+    "60": {
+     "XMEAS-7": {
+      "achieved": 0.1279573475508164,
+      "rows": 385,
+      "floor": 0.03365544818393869,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMEAS-9": {
+      "achieved": 0.11196267910696435,
+      "rows": 337,
+      "floor": 0.03365544818393869,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMV-10": {
+      "achieved": 0.12695768077307565,
+      "rows": 382,
+      "floor": 0.03365544818393869,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMEAS-4": {
+      "achieved": 0.11762745751416194,
+      "rows": 354,
+      "floor": 0.03365544818393869,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMEAS-21": {
+      "achieved": 0.13062312562479172,
+      "rows": 393,
+      "floor": 0.03365544818393869,
+      "target": 0.2,
+      "feasible": true
+     }
+    }
+   }
+  },
+  "14": {
+   "k2": {
+    "1": {
+     "XMEAS-7": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.5,
+      "feasible": false
+     },
+     "XMEAS-9": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.5,
+      "feasible": false
+     },
+     "XMV-10": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.5,
+      "feasible": false
+     },
+     "XMEAS-4": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.5,
+      "feasible": false
+     },
+     "XMEAS-21": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.5,
+      "feasible": false
+     }
+    },
+    "5": {
+     "XMEAS-7": {
+      "achieved": 0.6251249583472176,
+      "rows": 1877,
+      "floor": 0.40019993335554815,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-9": {
+      "achieved": 0.6481172942352549,
+      "rows": 1946,
+      "floor": 0.40019993335554815,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMV-10": {
+      "achieved": 0.6501166277907364,
+      "rows": 1952,
+      "floor": 0.40019993335554815,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-4": {
+      "achieved": 0.6184605131622792,
+      "rows": 1857,
+      "floor": 0.40019993335554815,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-21": {
+      "achieved": 0.6451182939020327,
+      "rows": 1937,
+      "floor": 0.40019993335554815,
+      "target": 0.5,
+      "feasible": true
+     }
+    },
+    "15": {
+     "XMEAS-7": {
+      "achieved": 0.49983338887037654,
+      "rows": 1501,
+      "floor": 0.13362212595801398,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-9": {
+      "achieved": 0.49983338887037654,
+      "rows": 1501,
+      "floor": 0.13362212595801398,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMV-10": {
+      "achieved": 0.49983338887037654,
+      "rows": 1501,
+      "floor": 0.13362212595801398,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-4": {
+      "achieved": 0.49983338887037654,
+      "rows": 1501,
+      "floor": 0.13362212595801398,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-21": {
+      "achieved": 0.49983338887037654,
+      "rows": 1501,
+      "floor": 0.13362212595801398,
+      "target": 0.5,
+      "feasible": true
+     }
+    },
+    "60": {
+     "XMEAS-7": {
+      "achieved": 0.4538487170943019,
+      "rows": 1363,
+      "floor": 0.03365544818393869,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-9": {
+      "achieved": 0.44151949350216596,
+      "rows": 1326,
+      "floor": 0.03365544818393869,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMV-10": {
+      "achieved": 0.4431856047984005,
+      "rows": 1331,
+      "floor": 0.03365544818393869,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-4": {
+      "achieved": 0.44951682772409196,
+      "rows": 1350,
+      "floor": 0.03365544818393869,
+      "target": 0.5,
+      "feasible": true
+     },
+     "XMEAS-21": {
+      "achieved": 0.44551816061312893,
+      "rows": 1338,
+      "floor": 0.03365544818393869,
+      "target": 0.5,
+      "feasible": true
+     }
+    }
+   },
+   "k5": {
+    "1": {
+     "XMEAS-7": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMEAS-9": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMV-10": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMEAS-4": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMEAS-21": {
+      "achieved": 1.0,
+      "rows": 6002,
+      "floor": 1.0,
+      "target": 0.2,
+      "feasible": false
+     }
+    },
+    "5": {
+     "XMEAS-7": {
+      "achieved": 0.42585804731756083,
+      "rows": 1279,
+      "floor": 0.40019993335554815,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMEAS-9": {
+      "achieved": 0.44018660446517827,
+      "rows": 1322,
+      "floor": 0.40019993335554815,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMV-10": {
+      "achieved": 0.44551816061312893,
+      "rows": 1338,
+      "floor": 0.40019993335554815,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMEAS-4": {
+      "achieved": 0.4275241586137954,
+      "rows": 1284,
+      "floor": 0.40019993335554815,
+      "target": 0.2,
+      "feasible": false
+     },
+     "XMEAS-21": {
+      "achieved": 0.4301899366877707,
+      "rows": 1292,
+      "floor": 0.40019993335554815,
+      "target": 0.2,
+      "feasible": false
+     }
+    },
+    "15": {
+     "XMEAS-7": {
+      "achieved": 0.19993335554815062,
+      "rows": 601,
+      "floor": 0.13362212595801398,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMEAS-9": {
+      "achieved": 0.19993335554815062,
+      "rows": 601,
+      "floor": 0.13362212595801398,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMV-10": {
+      "achieved": 0.19993335554815062,
+      "rows": 601,
+      "floor": 0.13362212595801398,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMEAS-4": {
+      "achieved": 0.19993335554815062,
+      "rows": 601,
+      "floor": 0.13362212595801398,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMEAS-21": {
+      "achieved": 0.19993335554815062,
+      "rows": 601,
+      "floor": 0.13362212595801398,
+      "target": 0.2,
+      "feasible": true
+     }
+    },
+    "60": {
+     "XMEAS-7": {
+      "achieved": 0.11462845718093968,
+      "rows": 345,
+      "floor": 0.03365544818393869,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMEAS-9": {
+      "achieved": 0.07464178607130956,
+      "rows": 225,
+      "floor": 0.03365544818393869,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMV-10": {
+      "achieved": 0.07764078640453183,
+      "rows": 234,
+      "floor": 0.03365544818393869,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMEAS-4": {
+      "achieved": 0.12195934688437188,
+      "rows": 367,
+      "floor": 0.03365544818393869,
+      "target": 0.2,
+      "feasible": true
+     },
+     "XMEAS-21": {
+      "achieved": 0.09363545484838387,
+      "rows": 282,
+      "floor": 0.03365544818393869,
+      "target": 0.2,
+      "feasible": true
+     }
+    }
+   }
+  }
+ }
+}

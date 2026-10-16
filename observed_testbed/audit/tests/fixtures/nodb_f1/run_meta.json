@@ -1,0 +1,47 @@
+{
+ "run_id": "nodb_f1",
+ "fault": 0,
+ "batch": 0,
+ "n_ticks": 20,
+ "channels": [
+  "A",
+  "B"
+ ],
+ "deadband": "none",
+ "compdev": {
+  "A": null,
+  "B": null
+ },
+ "flush_every": 1,
+ "flush_ticks": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20
+ ],
+ "iotdb_version": "fixture",
+ "iotdb_settings": {
+  "auto_flush": "off"
+ },
+ "asyncua_version": "fixture",
+ "tick_wall_ms": 0,
+ "testbed_code_digest": "fixture",
+ "created_wall": "2026-10-16T00:00:00.000000+00:00"
+}

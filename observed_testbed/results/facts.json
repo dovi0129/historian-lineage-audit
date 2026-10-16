@@ -1,0 +1,904 @@
+{
+ "SDT|k2|F=1": {
+  "n_runs": 5,
+  "all_valid": true,
+  "statuses": [
+   "ok"
+  ],
+  "is_repeat": false,
+  "retention": [
+   1.0,
+   1.0
+  ],
+  "discarded_share": [
+   0.0,
+   0.0
+  ],
+  "committed_changed": [
+   0.0,
+   0.0
+  ],
+  "lag_p50": [
+   0.0,
+   0.0
+  ],
+  "lag_max": [
+   0.0,
+   0.0
+  ],
+  "vserver_eq_v3": true,
+  "dups": [
+   15005.0,
+   15005.0
+  ],
+  "jaccard": [
+   0.4294,
+   0.434
+  ],
+  "Replay_commit_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_commit_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:feat": [
+   0.0,
+   0.0
+  ],
+  "V3_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "V3_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "V_server_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "V_server_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "V1_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "V1_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "S_all_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "S_all_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "negative_checks_distinct": [
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 8, 'c_obs': 8.0, 'shifted_c_obs': 9.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.2668356768686, 'feature_after': 2799.9840616338643},b_insert_row={'future_time': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 9, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'not_applicable', 'reason': 'no row available later than its origin'}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 8, 'c_obs': 8.0, 'shifted_c_obs': 9.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.306416586984, 'feature_after': 2799.2859110486474},b_insert_row={'future_time': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 9, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'not_applicable', 'reason': 'no row available later than its origin'}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 8, 'c_obs': 8.0, 'shifted_c_obs': 9.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.6525608832317, 'feature_after': 2799.3084665352235},b_insert_row={'future_time': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 9, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'not_applicable', 'reason': 'no row available later than its origin'}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 8, 'c_obs': 8.0, 'shifted_c_obs': 9.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2800.075670636207, 'feature_after': 2799.8127214607957},b_insert_row={'future_time': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 9, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'not_applicable', 'reason': 'no row available later than its origin'}}"
+  ]
+ },
+ "SDT|k2|F=15": {
+  "n_runs": 4,
+  "all_valid": true,
+  "statuses": [
+   "ok"
+  ],
+  "is_repeat": false,
+  "retention": [
+   0.4914,
+   0.5038
+  ],
+  "discarded_share": [
+   0.4962,
+   0.5086
+  ],
+  "committed_changed": [
+   0.0,
+   0.0
+  ],
+  "lag_p50": [
+   7.0,
+   7.0
+  ],
+  "lag_max": [
+   14.0,
+   14.0
+  ],
+  "vserver_eq_v3": true,
+  "dups": [
+   5.0,
+   5.0
+  ],
+  "jaccard": [
+   0.785,
+   0.8183
+  ],
+  "Replay_commit_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_commit_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:feat": [
+   0.0,
+   0.0
+  ],
+  "V3_vs_S_commit:cell": [
+   0.933,
+   0.933
+  ],
+  "V3_vs_S_commit:feat": [
+   0.6663,
+   0.6663
+  ],
+  "V_server_vs_S_commit:cell": [
+   0.933,
+   0.933
+  ],
+  "V_server_vs_S_commit:feat": [
+   0.6663,
+   0.6663
+  ],
+  "V1_vs_S_commit:cell": [
+   0.933,
+   0.933
+  ],
+  "V1_vs_S_commit:feat": [
+   0.6663,
+   0.6663
+  ],
+  "S_all_vs_S_commit:cell": [
+   0.933,
+   0.933
+  ],
+  "S_all_vs_S_commit:feat": [
+   0.6663,
+   0.6663
+  ],
+  "negative_checks_distinct": [
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 9, 'c_obs': 14.0, 'shifted_c_obs': 15.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.7697061099398, 'feature_after': 2799.2491721535876},b_insert_row={'future_time': {'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 15, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 9, 'c_obs': 14.0, 'shifted_c_obs': 15.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2800.2768379041736, 'feature_after': 2800.391384364226},b_insert_row={'future_time': {'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 15, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'lag': 4, 'mode': 'interpolation', 'endpoint_time': 0, 'c_obs': 14.0, 'shifted_c_obs': 15.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.7825318093983, 'feature_after': None},b_insert_row={'future_time': {'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 15, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'lag': 4, 'mode': 'interpolation', 'endpoint_time': 9, 'c_obs': 14.0, 'shifted_c_obs': 15.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.7677545543033, 'feature_after': 2800.3114961246984},b_insert_row={'future_time': {'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 15, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}"
+  ]
+ },
+ "SDT|k2|F=5": {
+  "n_runs": 4,
+  "all_valid": true,
+  "statuses": [
+   "ok"
+  ],
+  "is_repeat": false,
+  "retention": [
+   0.6143,
+   0.6441
+  ],
+  "discarded_share": [
+   0.3559,
+   0.3857
+  ],
+  "committed_changed": [
+   0.0,
+   0.0
+  ],
+  "lag_p50": [
+   2.0,
+   2.0
+  ],
+  "lag_max": [
+   4.0,
+   4.0
+  ],
+  "vserver_eq_v3": true,
+  "dups": [
+   5.0,
+   5.0
+  ],
+  "jaccard": [
+   0.558,
+   0.6075
+  ],
+  "Replay_commit_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_commit_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:feat": [
+   0.0,
+   0.0
+  ],
+  "V3_vs_S_commit:cell": [
+   0.7999,
+   0.7999
+  ],
+  "V3_vs_S_commit:feat": [
+   0.24,
+   0.24
+  ],
+  "V_server_vs_S_commit:cell": [
+   0.7999,
+   0.7999
+  ],
+  "V_server_vs_S_commit:feat": [
+   0.24,
+   0.24
+  ],
+  "V1_vs_S_commit:cell": [
+   0.7999,
+   0.7999
+  ],
+  "V1_vs_S_commit:feat": [
+   0.24,
+   0.24
+  ],
+  "S_all_vs_S_commit:cell": [
+   0.7999,
+   0.7999
+  ],
+  "S_all_vs_S_commit:feat": [
+   0.24,
+   0.24
+  ],
+  "negative_checks_distinct": [
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 9, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 5, 'c_obs': 9.0, 'shifted_c_obs': 10.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.375142398162, 'feature_after': 2799.518364925042},b_insert_row={'future_time': {'status': 'detected', 'origin': 9, 'channel': 'XMEAS-7', 'inserted_time': 10, 'true_c_obs': 14.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 5, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 9, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 5, 'c_obs': 9.0, 'shifted_c_obs': 10.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.553453521691, 'feature_after': 2799.680995186624},b_insert_row={'future_time': {'status': 'detected', 'origin': 9, 'channel': 'XMEAS-7', 'inserted_time': 10, 'true_c_obs': 14.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 5, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 9, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 5, 'c_obs': 9.0, 'shifted_c_obs': 10.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.8567491011518, 'feature_after': 2799.908069153103},b_insert_row={'future_time': {'status': 'detected', 'origin': 9, 'channel': 'XMEAS-7', 'inserted_time': 10, 'true_c_obs': 14.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 5, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 9, 'channel': 'XMEAS-9', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 6, 'c_obs': 9.0, 'shifted_c_obs': 10.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 122.9010406718095, 'feature_after': 122.89402481101732},b_insert_row={'future_time': {'status': 'detected', 'origin': 9, 'channel': 'XMEAS-7', 'inserted_time': 10, 'true_c_obs': 14.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 5, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}"
+  ]
+ },
+ "SDT|k2|F=60": {
+  "n_runs": 5,
+  "all_valid": true,
+  "statuses": [
+   "ok"
+  ],
+  "is_repeat": false,
+  "retention": [
+   0.4461,
+   0.4514
+  ],
+  "discarded_share": [
+   0.5486,
+   0.5539
+  ],
+  "committed_changed": [
+   0.0,
+   0.0
+  ],
+  "lag_p50": [
+   29.0,
+   29.0
+  ],
+  "lag_max": [
+   59.0,
+   59.0
+  ],
+  "vserver_eq_v3": true,
+  "dups": [
+   5.0,
+   5.0
+  ],
+  "jaccard": [
+   0.9408,
+   0.947
+  ],
+  "Replay_commit_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_commit_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:feat": [
+   0.0,
+   0.0
+  ],
+  "V3_vs_S_commit:cell": [
+   0.983,
+   0.983
+  ],
+  "V3_vs_S_commit:feat": [
+   0.9161,
+   0.9161
+  ],
+  "V_server_vs_S_commit:cell": [
+   0.983,
+   0.983
+  ],
+  "V_server_vs_S_commit:feat": [
+   0.9161,
+   0.9161
+  ],
+  "V1_vs_S_commit:cell": [
+   0.983,
+   0.983
+  ],
+  "V1_vs_S_commit:feat": [
+   0.9161,
+   0.9161
+  ],
+  "S_all_vs_S_commit:cell": [
+   0.983,
+   0.983
+  ],
+  "S_all_vs_S_commit:feat": [
+   0.9161,
+   0.9161
+  ],
+  "negative_checks_distinct": [
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 54, 'c_obs': 59.0, 'shifted_c_obs': 60.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2800.323303179873, 'feature_after': 2800.4116275772203},b_insert_row={'future_time': {'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 60, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 55, 'c_obs': 59.0, 'shifted_c_obs': 60.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.3849305800336, 'feature_after': 2799.979476779756},b_insert_row={'future_time': {'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 60, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 55, 'c_obs': 59.0, 'shifted_c_obs': 60.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.778844817593, 'feature_after': 2800.037041596662},b_insert_row={'future_time': {'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 60, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 56, 'c_obs': 59.0, 'shifted_c_obs': 60.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.2623186248966, 'feature_after': 2799.6199651990323},b_insert_row={'future_time': {'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 60, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}"
+  ]
+ },
+ "SDT|k5|F=1": {
+  "n_runs": 4,
+  "all_valid": true,
+  "statuses": [
+   "ok"
+  ],
+  "is_repeat": false,
+  "retention": [
+   1.0,
+   1.0
+  ],
+  "discarded_share": [
+   0.0,
+   0.0
+  ],
+  "committed_changed": [
+   0.0,
+   0.0
+  ],
+  "lag_p50": [
+   0.0,
+   0.0
+  ],
+  "lag_max": [
+   0.0,
+   0.0
+  ],
+  "vserver_eq_v3": true,
+  "dups": [
+   15005.0,
+   15005.0
+  ],
+  "jaccard": [
+   0.0614,
+   0.0982
+  ],
+  "Replay_commit_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_commit_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:feat": [
+   0.0,
+   0.0
+  ],
+  "V3_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "V3_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "V_server_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "V_server_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "V1_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "V1_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "S_all_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "S_all_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "negative_checks_distinct": [
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 8, 'c_obs': 8.0, 'shifted_c_obs': 9.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.2668356768686, 'feature_after': 2799.9840616338643},b_insert_row={'future_time': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 9, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'not_applicable', 'reason': 'no row available later than its origin'}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 8, 'c_obs': 8.0, 'shifted_c_obs': 9.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.306416586984, 'feature_after': 2799.2859110486474},b_insert_row={'future_time': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 9, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'not_applicable', 'reason': 'no row available later than its origin'}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 8, 'c_obs': 8.0, 'shifted_c_obs': 9.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.6525608832317, 'feature_after': 2799.3084665352235},b_insert_row={'future_time': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 9, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'not_applicable', 'reason': 'no row available later than its origin'}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 8, 'c_obs': 8.0, 'shifted_c_obs': 9.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2800.075670636207, 'feature_after': 2799.8127214607957},b_insert_row={'future_time': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 9, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'not_applicable', 'reason': 'no row available later than its origin'}}"
+  ]
+ },
+ "SDT|k5|F=15": {
+  "n_runs": 4,
+  "all_valid": true,
+  "statuses": [
+   "ok"
+  ],
+  "is_repeat": false,
+  "retention": [
+   0.1963,
+   0.2106
+  ],
+  "discarded_share": [
+   0.7894,
+   0.8037
+  ],
+  "committed_changed": [
+   0.0,
+   0.0
+  ],
+  "lag_p50": [
+   6.0,
+   7.0
+  ],
+  "lag_max": [
+   14.0,
+   14.0
+  ],
+  "vserver_eq_v3": true,
+  "dups": [
+   5.0,
+   5.0
+  ],
+  "jaccard": [
+   0.1615,
+   0.2255
+  ],
+  "Replay_commit_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_commit_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:feat": [
+   0.0,
+   0.0
+  ],
+  "V3_vs_S_commit:cell": [
+   0.933,
+   0.933
+  ],
+  "V3_vs_S_commit:feat": [
+   0.6663,
+   0.6663
+  ],
+  "V_server_vs_S_commit:cell": [
+   0.933,
+   0.933
+  ],
+  "V_server_vs_S_commit:feat": [
+   0.6663,
+   0.6663
+  ],
+  "V1_vs_S_commit:cell": [
+   0.933,
+   0.933
+  ],
+  "V1_vs_S_commit:feat": [
+   0.6663,
+   0.6663
+  ],
+  "S_all_vs_S_commit:cell": [
+   0.933,
+   0.933
+  ],
+  "S_all_vs_S_commit:feat": [
+   0.6663,
+   0.6663
+  ],
+  "negative_checks_distinct": [
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 0, 'c_obs': 14.0, 'shifted_c_obs': 15.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.723298899757, 'feature_after': None},b_insert_row={'future_time': {'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 15, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 0, 'c_obs': 14.0, 'shifted_c_obs': 15.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.75857880218, 'feature_after': None},b_insert_row={'future_time': {'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 15, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 0, 'c_obs': 14.0, 'shifted_c_obs': 15.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2800.350783188976, 'feature_after': None},b_insert_row={'future_time': {'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 15, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 0, 'c_obs': 14.0, 'shifted_c_obs': 15.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2800.3952367068177, 'feature_after': None},b_insert_row={'future_time': {'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 15, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}"
+  ]
+ },
+ "SDT|k5|F=5": {
+  "n_runs": 5,
+  "all_valid": true,
+  "statuses": [
+   "ok"
+  ],
+  "is_repeat": false,
+  "retention": [
+   0.4213,
+   0.4405
+  ],
+  "discarded_share": [
+   0.5595,
+   0.5787
+  ],
+  "committed_changed": [
+   0.0,
+   0.0
+  ],
+  "lag_p50": [
+   1.0,
+   2.0
+  ],
+  "lag_max": [
+   4.0,
+   4.0
+  ],
+  "vserver_eq_v3": true,
+  "dups": [
+   5.0,
+   5.0
+  ],
+  "jaccard": [
+   0.0784,
+   0.1197
+  ],
+  "Replay_commit_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_commit_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:feat": [
+   0.0,
+   0.0
+  ],
+  "V3_vs_S_commit:cell": [
+   0.7999,
+   0.7999
+  ],
+  "V3_vs_S_commit:feat": [
+   0.24,
+   0.24
+  ],
+  "V_server_vs_S_commit:cell": [
+   0.7999,
+   0.7999
+  ],
+  "V_server_vs_S_commit:feat": [
+   0.24,
+   0.24
+  ],
+  "V1_vs_S_commit:cell": [
+   0.7999,
+   0.7999
+  ],
+  "V1_vs_S_commit:feat": [
+   0.24,
+   0.24
+  ],
+  "S_all_vs_S_commit:cell": [
+   0.7999,
+   0.7999
+  ],
+  "S_all_vs_S_commit:feat": [
+   0.24,
+   0.24
+  ],
+  "negative_checks_distinct": [
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 9, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 5, 'c_obs': 9.0, 'shifted_c_obs': 10.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.375142398162, 'feature_after': 2799.518364925042},b_insert_row={'future_time': {'status': 'detected', 'origin': 9, 'channel': 'XMEAS-7', 'inserted_time': 10, 'true_c_obs': 14.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 5, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 9, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 5, 'c_obs': 9.0, 'shifted_c_obs': 10.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.553453521691, 'feature_after': 2799.680995186624},b_insert_row={'future_time': {'status': 'detected', 'origin': 9, 'channel': 'XMEAS-7', 'inserted_time': 10, 'true_c_obs': 14.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 5, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 9, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 5, 'c_obs': 9.0, 'shifted_c_obs': 10.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.8567491011518, 'feature_after': 2799.908069153103},b_insert_row={'future_time': {'status': 'detected', 'origin': 9, 'channel': 'XMEAS-7', 'inserted_time': 10, 'true_c_obs': 14.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 5, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 9, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 5, 'c_obs': 9.0, 'shifted_c_obs': 10.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2800.4033289995978, 'feature_after': 2800.4128501873456},b_insert_row={'future_time': {'status': 'detected', 'origin': 9, 'channel': 'XMEAS-7', 'inserted_time': 10, 'true_c_obs': 14.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 5, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}"
+  ]
+ },
+ "SDT|k5|F=60": {
+  "n_runs": 4,
+  "all_valid": true,
+  "statuses": [
+   "ok"
+  ],
+  "is_repeat": false,
+  "retention": [
+   0.0992,
+   0.1241
+  ],
+  "discarded_share": [
+   0.8759,
+   0.9008
+  ],
+  "committed_changed": [
+   0.0,
+   0.0
+  ],
+  "lag_p50": [
+   26.0,
+   31.0
+  ],
+  "lag_max": [
+   59.0,
+   59.0
+  ],
+  "vserver_eq_v3": true,
+  "dups": [
+   5.0,
+   5.0
+  ],
+  "jaccard": [
+   0.4047,
+   0.536
+  ],
+  "Replay_commit_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_commit_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:feat": [
+   0.0,
+   0.0
+  ],
+  "V3_vs_S_commit:cell": [
+   0.983,
+   0.983
+  ],
+  "V3_vs_S_commit:feat": [
+   0.9161,
+   0.9161
+  ],
+  "V_server_vs_S_commit:cell": [
+   0.983,
+   0.983
+  ],
+  "V_server_vs_S_commit:feat": [
+   0.9161,
+   0.9161
+  ],
+  "V1_vs_S_commit:cell": [
+   0.983,
+   0.983
+  ],
+  "V1_vs_S_commit:feat": [
+   0.9161,
+   0.9161
+  ],
+  "S_all_vs_S_commit:cell": [
+   0.983,
+   0.983
+  ],
+  "S_all_vs_S_commit:feat": [
+   0.9161,
+   0.9161
+  ],
+  "negative_checks_distinct": [
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 30, 'c_obs': 59.0, 'shifted_c_obs': 60.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.7297233124114, 'feature_after': 2799.700334316981},b_insert_row={'future_time': {'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 60, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 46, 'c_obs': 59.0, 'shifted_c_obs': 60.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.112603350821, 'feature_after': 2798.9946285658184},b_insert_row={'future_time': {'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 60, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 48, 'c_obs': 59.0, 'shifted_c_obs': 60.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.5484807021676, 'feature_after': 2799.41509840611},b_insert_row={'future_time': {'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 60, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'lag': 2, 'mode': 'interpolation', 'endpoint_time': 54, 'c_obs': 59.0, 'shifted_c_obs': 60.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2800.323303179873, 'feature_after': 2800.2064027842944},b_insert_row={'future_time': {'status': 'detected', 'origin': 59, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 60, 'channel': 'XMEAS-7', 'inserted_time': 60, 'true_c_obs': 119.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}"
+  ]
+ },
+ "none|none|F=1": {
+  "n_runs": 4,
+  "all_valid": true,
+  "statuses": [
+   "ok"
+  ],
+  "is_repeat": false,
+  "retention": [
+   1.0,
+   1.0
+  ],
+  "discarded_share": [
+   0.0,
+   0.0
+  ],
+  "committed_changed": [
+   0.0,
+   0.0
+  ],
+  "lag_p50": [
+   0.0,
+   0.0
+  ],
+  "lag_max": [
+   0.0,
+   0.0
+  ],
+  "vserver_eq_v3": true,
+  "dups": [
+   0.0,
+   0.0
+  ],
+  "Replay_commit_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_commit_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:feat": [
+   0.0,
+   0.0
+  ],
+  "V3_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "V3_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "V_server_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "V_server_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "V1_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "V1_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "S_all_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "S_all_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "negative_checks_distinct": [
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 8, 'c_obs': 8.0, 'shifted_c_obs': 9.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.2668356768686, 'feature_after': 2799.9840616338643},b_insert_row={'future_time': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 9, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'not_applicable', 'reason': 'no row available later than its origin'}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 8, 'c_obs': 8.0, 'shifted_c_obs': 9.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.306416586984, 'feature_after': 2799.2859110486474},b_insert_row={'future_time': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 9, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'not_applicable', 'reason': 'no row available later than its origin'}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 8, 'c_obs': 8.0, 'shifted_c_obs': 9.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.6525608832317, 'feature_after': 2799.3084665352235},b_insert_row={'future_time': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 9, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'not_applicable', 'reason': 'no row available later than its origin'}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 8, 'c_obs': 8.0, 'shifted_c_obs': 9.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2800.075670636207, 'feature_after': 2799.8127214607957},b_insert_row={'future_time': {'status': 'detected', 'origin': 8, 'channel': 'XMEAS-7', 'inserted_time': 9, 'true_c_obs': 9.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'not_applicable', 'reason': 'no row available later than its origin'}}"
+  ]
+ },
+ "none|none|F=15": {
+  "n_runs": 5,
+  "all_valid": true,
+  "statuses": [
+   "ok"
+  ],
+  "is_repeat": false,
+  "retention": [
+   1.0,
+   1.0
+  ],
+  "discarded_share": [
+   0.0,
+   0.0
+  ],
+  "committed_changed": [
+   0.0,
+   0.0
+  ],
+  "lag_p50": [
+   7.0,
+   7.0
+  ],
+  "lag_max": [
+   14.0,
+   14.0
+  ],
+  "vserver_eq_v3": true,
+  "dups": [
+   0.0,
+   0.0
+  ],
+  "Replay_commit_vs_S_commit:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_commit_vs_S_commit:feat": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:cell": [
+   0.0,
+   0.0
+  ],
+  "Replay_visible_vs_S_all:feat": [
+   0.0,
+   0.0
+  ],
+  "V3_vs_S_commit:cell": [
+   0.933,
+   0.933
+  ],
+  "V3_vs_S_commit:feat": [
+   0.6663,
+   0.6663
+  ],
+  "V_server_vs_S_commit:cell": [
+   0.933,
+   0.933
+  ],
+  "V_server_vs_S_commit:feat": [
+   0.6663,
+   0.6663
+  ],
+  "V1_vs_S_commit:cell": [
+   0.933,
+   0.933
+  ],
+  "V1_vs_S_commit:feat": [
+   0.6663,
+   0.6663
+  ],
+  "S_all_vs_S_commit:cell": [
+   0.933,
+   0.933
+  ],
+  "S_all_vs_S_commit:feat": [
+   0.6663,
+   0.6663
+  ],
+  "negative_checks_distinct": [
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 14, 'c_obs': 14.0, 'shifted_c_obs': 15.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.0474777887657, 'feature_after': 2799.7855905561537},b_insert_row={'future_time': {'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 15, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 14, 'c_obs': 14.0, 'shifted_c_obs': 15.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2799.889042098711, 'feature_after': 2800.472848910298},b_insert_row={'future_time': {'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 15, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 14, 'c_obs': 14.0, 'shifted_c_obs': 15.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2800.579947216639, 'feature_after': 2800.0350311341567},b_insert_row={'future_time': {'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 15, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}",
+   "a_shift_commit_of_used_endpoint={'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'lag': 0, 'mode': 'exact', 'endpoint_time': 14, 'c_obs': 14.0, 'shifted_c_obs': 15.0, 'rowset_detected': True, 'feature_detected': True, 'feature_before': 2800.6318096541213, 'feature_after': 2799.924580529155},b_insert_row={'future_time': {'status': 'detected', 'origin': 14, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': False, 'unused': True}, 'future_commit': {'status': 'detected', 'origin': 15, 'channel': 'XMEAS-7', 'inserted_time': 15, 'true_c_obs': 29.0, 'rowset_detected': True, 'features_changed': True, 'unused': False}}"
+  ]
+ }
+}

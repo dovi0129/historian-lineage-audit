@@ -1,0 +1,5123 @@
+{
+ "n_runs_audited": 44,
+ "n_runs_ok": 44,
+ "n_runs_invalid": 0,
+ "runs_invalid": {},
+ "runs_primary_mismatch": [],
+ "runs_visible_mismatch": [],
+ "runs_not_audited": [],
+ "primary_mismatch_cells_total": 0,
+ "visible_mismatch_cells_total": 0,
+ "by_deadband_and_F": {
+  "deadband=SDT,F=1": {
+   "runs": [
+    "f01_b09_k2_F01",
+    "f01_b09_k2_F01_rep1",
+    "f01_b09_k5_F01",
+    "f01_b10_k2_F01",
+    "f01_b10_k5_F01",
+    "f14_b09_k2_F01",
+    "f14_b09_k5_F01",
+    "f14_b10_k2_F01",
+    "f14_b10_k5_F01"
+   ],
+   "Replay_commit_vs_S_commit": {
+    "cells": 134685,
+    "any": 0,
+    "features": 673425,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "Replay_visible_vs_S_all": {
+    "cells": 134685,
+    "any": 0,
+    "features": 673425,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "V3_vs_S_commit": {
+    "cells": 134685,
+    "any": 0,
+    "features": 673425,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "V_server_vs_S_commit": {
+    "cells": 134685,
+    "any": 0,
+    "features": 673425,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "V1_vs_S_commit": {
+    "cells": 134685,
+    "any": 0,
+    "features": 673425,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "S_all_vs_S_commit": {
+    "cells": 134685,
+    "any": 0,
+    "features": 673425,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   }
+  },
+  "deadband=SDT,F=5": {
+   "runs": [
+    "f01_b09_k2_F05",
+    "f01_b09_k5_F05",
+    "f01_b10_k2_F05",
+    "f01_b10_k5_F05",
+    "f14_b09_k2_F05",
+    "f14_b09_k5_F05",
+    "f14_b10_k2_F05",
+    "f14_b10_k5_F05",
+    "f14_b10_k5_F05_rep1"
+   ],
+   "Replay_commit_vs_S_commit": {
+    "cells": 134685,
+    "any": 0,
+    "features": 673425,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "Replay_visible_vs_S_all": {
+    "cells": 134685,
+    "any": 0,
+    "features": 673425,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "V3_vs_S_commit": {
+    "cells": 134685,
+    "any": 107730,
+    "features": 673425,
+    "feature_mm": 161595,
+    "cell_mismatch_rate": 0.7998663548279319,
+    "feature_mismatch_rate": 0.23995990644837956
+   },
+   "V_server_vs_S_commit": {
+    "cells": 134685,
+    "any": 107730,
+    "features": 673425,
+    "feature_mm": 161595,
+    "cell_mismatch_rate": 0.7998663548279319,
+    "feature_mismatch_rate": 0.23995990644837956
+   },
+   "V1_vs_S_commit": {
+    "cells": 134685,
+    "any": 107730,
+    "features": 673425,
+    "feature_mm": 161595,
+    "cell_mismatch_rate": 0.7998663548279319,
+    "feature_mismatch_rate": 0.23995990644837956
+   },
+   "S_all_vs_S_commit": {
+    "cells": 134685,
+    "any": 107730,
+    "features": 673425,
+    "feature_mm": 161595,
+    "cell_mismatch_rate": 0.7998663548279319,
+    "feature_mismatch_rate": 0.23995990644837956
+   }
+  },
+  "deadband=SDT,F=15": {
+   "runs": [
+    "f01_b09_k2_F15",
+    "f01_b09_k5_F15",
+    "f01_b10_k2_F15",
+    "f01_b10_k5_F15",
+    "f14_b09_k2_F15",
+    "f14_b09_k5_F15",
+    "f14_b10_k2_F15",
+    "f14_b10_k5_F15"
+   ],
+   "Replay_commit_vs_S_commit": {
+    "cells": 119480,
+    "any": 0,
+    "features": 597400,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "Replay_visible_vs_S_all": {
+    "cells": 119720,
+    "any": 0,
+    "features": 598600,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "V3_vs_S_commit": {
+    "cells": 119480,
+    "any": 111480,
+    "features": 597400,
+    "feature_mm": 398040,
+    "cell_mismatch_rate": 0.9330431871442919,
+    "feature_mismatch_rate": 0.666287244727151
+   },
+   "V_server_vs_S_commit": {
+    "cells": 119480,
+    "any": 111480,
+    "features": 597400,
+    "feature_mm": 398040,
+    "cell_mismatch_rate": 0.9330431871442919,
+    "feature_mismatch_rate": 0.666287244727151
+   },
+   "V1_vs_S_commit": {
+    "cells": 119480,
+    "any": 111480,
+    "features": 597400,
+    "feature_mm": 398040,
+    "cell_mismatch_rate": 0.9330431871442919,
+    "feature_mismatch_rate": 0.666287244727151
+   },
+   "S_all_vs_S_commit": {
+    "cells": 119480,
+    "any": 111480,
+    "features": 597400,
+    "feature_mm": 398040,
+    "cell_mismatch_rate": 0.9330431871442919,
+    "feature_mismatch_rate": 0.666287244727151
+   }
+  },
+  "deadband=SDT,F=60": {
+   "runs": [
+    "f01_b09_k2_F60",
+    "f01_b09_k5_F60",
+    "f01_b10_k2_F60",
+    "f01_b10_k5_F60",
+    "f14_b09_k2_F60",
+    "f14_b09_k2_F60_rep1",
+    "f14_b09_k5_F60",
+    "f14_b10_k2_F60",
+    "f14_b10_k5_F60"
+   ],
+   "Replay_commit_vs_S_commit": {
+    "cells": 132390,
+    "any": 0,
+    "features": 661950,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "Replay_visible_vs_S_all": {
+    "cells": 134685,
+    "any": 0,
+    "features": 673425,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "V3_vs_S_commit": {
+    "cells": 132390,
+    "any": 130140,
+    "features": 661950,
+    "feature_mm": 606420,
+    "cell_mismatch_rate": 0.9830047586675731,
+    "feature_mismatch_rate": 0.9161114887831407
+   },
+   "V_server_vs_S_commit": {
+    "cells": 132390,
+    "any": 130140,
+    "features": 661950,
+    "feature_mm": 606420,
+    "cell_mismatch_rate": 0.9830047586675731,
+    "feature_mismatch_rate": 0.9161114887831407
+   },
+   "V1_vs_S_commit": {
+    "cells": 132390,
+    "any": 130140,
+    "features": 661950,
+    "feature_mm": 606420,
+    "cell_mismatch_rate": 0.9830047586675731,
+    "feature_mismatch_rate": 0.9161114887831407
+   },
+   "S_all_vs_S_commit": {
+    "cells": 132390,
+    "any": 130140,
+    "features": 661950,
+    "feature_mm": 606420,
+    "cell_mismatch_rate": 0.9830047586675731,
+    "feature_mismatch_rate": 0.9161114887831407
+   }
+  },
+  "deadband=none,F=1": {
+   "runs": [
+    "f01_b09_none_F01",
+    "f01_b10_none_F01",
+    "f14_b09_none_F01",
+    "f14_b10_none_F01"
+   ],
+   "Replay_commit_vs_S_commit": {
+    "cells": 59860,
+    "any": 0,
+    "features": 299300,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "Replay_visible_vs_S_all": {
+    "cells": 59860,
+    "any": 0,
+    "features": 299300,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "V3_vs_S_commit": {
+    "cells": 59860,
+    "any": 0,
+    "features": 299300,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "V_server_vs_S_commit": {
+    "cells": 59860,
+    "any": 0,
+    "features": 299300,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "V1_vs_S_commit": {
+    "cells": 59860,
+    "any": 0,
+    "features": 299300,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "S_all_vs_S_commit": {
+    "cells": 59860,
+    "any": 0,
+    "features": 299300,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   }
+  },
+  "deadband=none,F=15": {
+   "runs": [
+    "f01_b09_none_F15",
+    "f01_b10_none_F15",
+    "f01_b10_none_F15_rep1",
+    "f14_b09_none_F15",
+    "f14_b10_none_F15"
+   ],
+   "Replay_commit_vs_S_commit": {
+    "cells": 74675,
+    "any": 0,
+    "features": 373375,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "Replay_visible_vs_S_all": {
+    "cells": 74825,
+    "any": 0,
+    "features": 374125,
+    "feature_mm": 0,
+    "cell_mismatch_rate": 0.0,
+    "feature_mismatch_rate": 0.0
+   },
+   "V3_vs_S_commit": {
+    "cells": 74675,
+    "any": 69675,
+    "features": 373375,
+    "feature_mm": 248775,
+    "cell_mismatch_rate": 0.9330431871442919,
+    "feature_mismatch_rate": 0.666287244727151
+   },
+   "V_server_vs_S_commit": {
+    "cells": 74675,
+    "any": 69675,
+    "features": 373375,
+    "feature_mm": 248775,
+    "cell_mismatch_rate": 0.9330431871442919,
+    "feature_mismatch_rate": 0.666287244727151
+   },
+   "V1_vs_S_commit": {
+    "cells": 74675,
+    "any": 69675,
+    "features": 373375,
+    "feature_mm": 248775,
+    "cell_mismatch_rate": 0.9330431871442919,
+    "feature_mismatch_rate": 0.666287244727151
+   },
+   "S_all_vs_S_commit": {
+    "cells": 74675,
+    "any": 69675,
+    "features": 373375,
+    "feature_mm": 248775,
+    "cell_mismatch_rate": 0.9330431871442919,
+    "feature_mismatch_rate": 0.666287244727151
+   }
+  }
+ },
+ "runs": [
+  {
+   "run_id": "f01_b09_k2_F01",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b09_k2_F01",
+    "fault": 1,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.29911833872903953,
+     "XMEAS-9": 0.008885615214001611,
+     "XMV-10": 0.07457159776875547,
+     "XMEAS-4": 0.042836078388570155,
+     "XMEAS-21": 0.010815044491705166
+    },
+    "flush_every": 1,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 0,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15005,
+    "n_committed_at_final_flush": 0,
+    "min": 0.0,
+    "p50": 0.0,
+    "p90": 0.0,
+    "p99": 0.0,
+    "max": 0.0,
+    "mean": 0.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / not_applicable"
+  },
+  {
+   "run_id": "f01_b09_k2_F01_rep1",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b09_k2_F01_rep1",
+    "fault": 1,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.29911833872903953,
+     "XMEAS-9": 0.008885615214001611,
+     "XMV-10": 0.07457159776875547,
+     "XMEAS-4": 0.042836078388570155,
+     "XMEAS-21": 0.010815044491705166
+    },
+    "flush_every": 1,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 0,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15005,
+    "n_committed_at_final_flush": 0,
+    "min": 0.0,
+    "p50": 0.0,
+    "p90": 0.0,
+    "p99": 0.0,
+    "max": 0.0,
+    "mean": 0.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / not_applicable"
+  },
+  {
+   "run_id": "f01_b09_k2_F05",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b09_k2_F05",
+    "fault": 1,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.29911833872903953,
+     "XMEAS-9": 0.008885615214001611,
+     "XMV-10": 0.07457159776875547,
+     "XMEAS-4": 0.042836078388570155,
+     "XMEAS-21": 0.010815044491705166
+    },
+    "flush_every": 5,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 4,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 0.614261912695768,
+   "commit_lag": {
+    "n_committed_regular": 9212,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 2.0,
+    "p90": 4.0,
+    "p99": 4.0,
+    "max": 4.0,
+    "mean": 1.9572297003907946
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f01_b09_k2_F15",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14935,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74675
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b09_k2_F15",
+    "fault": 1,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.29911833872903953,
+     "XMEAS-9": 0.008885615214001611,
+     "XMV-10": 0.07457159776875547,
+     "XMEAS-4": 0.042836078388570155,
+     "XMEAS-21": 0.010815044491705166
+    },
+    "flush_every": 15,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 14,
+    "n_before_first_flush": 6,
+    "n_cells_before_first_flush": 30,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 4975
+   },
+   "mean_achieved_retention": 0.4914361879373542,
+   "commit_lag": {
+    "n_committed_regular": 7369,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 7.0,
+    "p90": 14.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 6.868503189035147
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f01_b09_k2_F60",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14710,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 73550
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b09_k2_F60",
+    "fault": 1,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.29911833872903953,
+     "XMEAS-9": 0.008885615214001611,
+     "XMV-10": 0.07457159776875547,
+     "XMEAS-4": 0.042836078388570155,
+     "XMEAS-21": 0.010815044491705166
+    },
+    "flush_every": 60,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 59,
+    "n_before_first_flush": 51,
+    "n_cells_before_first_flush": 255,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 12250
+   },
+   "mean_achieved_retention": 0.4462512495834721,
+   "commit_lag": {
+    "n_committed_regular": 6691,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 29.0,
+    "p90": 54.0,
+    "p99": 59.0,
+    "max": 59.0,
+    "mean": 29.318338066058885
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f01_b09_k5_F01",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b09_k5_F01",
+    "fault": 1,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.8588146462804552,
+     "XMEAS-9": 0.01940559796224953,
+     "XMV-10": 0.15604068426939877,
+     "XMEAS-4": 0.09220108438658026,
+     "XMEAS-21": 0.024704210582827072
+    },
+    "flush_every": 1,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 0,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15005,
+    "n_committed_at_final_flush": 0,
+    "min": 0.0,
+    "p50": 0.0,
+    "p90": 0.0,
+    "p99": 0.0,
+    "max": 0.0,
+    "mean": 0.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / not_applicable"
+  },
+  {
+   "run_id": "f01_b09_k5_F05",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b09_k5_F05",
+    "fault": 1,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.8588146462804552,
+     "XMEAS-9": 0.01940559796224953,
+     "XMV-10": 0.15604068426939877,
+     "XMEAS-4": 0.09220108438658026,
+     "XMEAS-21": 0.024704210582827072
+    },
+    "flush_every": 5,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 4,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 0.42132622459180274,
+   "commit_lag": {
+    "n_committed_regular": 6317,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 2.0,
+    "p90": 4.0,
+    "p99": 4.0,
+    "max": 4.0,
+    "mean": 1.9833781858477124
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f01_b09_k5_F15",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14935,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74675
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b09_k5_F15",
+    "fault": 1,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.8588146462804552,
+     "XMEAS-9": 0.01940559796224953,
+     "XMV-10": 0.15604068426939877,
+     "XMEAS-4": 0.09220108438658026,
+     "XMEAS-21": 0.024704210582827072
+    },
+    "flush_every": 15,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 14,
+    "n_before_first_flush": 6,
+    "n_cells_before_first_flush": 30,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 4975
+   },
+   "mean_achieved_retention": 0.1963345551482839,
+   "commit_lag": {
+    "n_committed_regular": 2941,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 6.0,
+    "p90": 14.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 6.646378782726964
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f01_b09_k5_F60",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14710,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 73550
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b09_k5_F60",
+    "fault": 1,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.8588146462804552,
+     "XMEAS-9": 0.01940559796224953,
+     "XMV-10": 0.15604068426939877,
+     "XMEAS-4": 0.09220108438658026,
+     "XMEAS-21": 0.024704210582827072
+    },
+    "flush_every": 60,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 59,
+    "n_before_first_flush": 51,
+    "n_cells_before_first_flush": 255,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 12250
+   },
+   "mean_achieved_retention": 0.11876041319560146,
+   "commit_lag": {
+    "n_committed_regular": 1777,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 29.0,
+    "p90": 59.0,
+    "p99": 59.0,
+    "max": 59.0,
+    "mean": 28.68148564997186
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f01_b09_none_F01",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b09_none_F01",
+    "fault": 1,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "none",
+    "compdev": {
+     "XMEAS-7": null,
+     "XMEAS-9": null,
+     "XMV-10": null,
+     "XMEAS-4": null,
+     "XMEAS-21": null
+    },
+    "flush_every": 1,
+    "iotdb_version": "1.3.7",
+    "retention_level": "none"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 0,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15005,
+    "n_committed_at_final_flush": 0,
+    "min": 0.0,
+    "p50": 0.0,
+    "p90": 0.0,
+    "p99": 0.0,
+    "max": 0.0,
+    "mean": 0.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / not_applicable"
+  },
+  {
+   "run_id": "f01_b09_none_F15",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14935,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74675
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b09_none_F15",
+    "fault": 1,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "none",
+    "compdev": {
+     "XMEAS-7": null,
+     "XMEAS-9": null,
+     "XMV-10": null,
+     "XMEAS-4": null,
+     "XMEAS-21": null
+    },
+    "flush_every": 15,
+    "iotdb_version": "1.3.7",
+    "retention_level": "none"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 14,
+    "n_before_first_flush": 6,
+    "n_cells_before_first_flush": 30,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 4975
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15000,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 7.0,
+    "p90": 13.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 7.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f01_b10_k2_F01",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b10_k2_F01",
+    "fault": 1,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.29911833872903953,
+     "XMEAS-9": 0.008885615214001611,
+     "XMV-10": 0.07457159776875547,
+     "XMEAS-4": 0.042836078388570155,
+     "XMEAS-21": 0.010815044491705166
+    },
+    "flush_every": 1,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 0,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15005,
+    "n_committed_at_final_flush": 0,
+    "min": 0.0,
+    "p50": 0.0,
+    "p90": 0.0,
+    "p99": 0.0,
+    "max": 0.0,
+    "mean": 0.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / not_applicable"
+  },
+  {
+   "run_id": "f01_b10_k2_F05",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b10_k2_F05",
+    "fault": 1,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.29911833872903953,
+     "XMEAS-9": 0.008885615214001611,
+     "XMV-10": 0.07457159776875547,
+     "XMEAS-4": 0.042836078388570155,
+     "XMEAS-21": 0.010815044491705166
+    },
+    "flush_every": 5,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 4,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 0.6235921359546818,
+   "commit_lag": {
+    "n_committed_regular": 9352,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 2.0,
+    "p90": 4.0,
+    "p99": 4.0,
+    "max": 4.0,
+    "mean": 1.9622540633019674
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f01_b10_k2_F15",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14935,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74675
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b10_k2_F15",
+    "fault": 1,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.29911833872903953,
+     "XMEAS-9": 0.008885615214001611,
+     "XMV-10": 0.07457159776875547,
+     "XMEAS-4": 0.042836078388570155,
+     "XMEAS-21": 0.010815044491705166
+    },
+    "flush_every": 15,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 14,
+    "n_before_first_flush": 6,
+    "n_cells_before_first_flush": 30,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 4975
+   },
+   "mean_achieved_retention": 0.4947017660779741,
+   "commit_lag": {
+    "n_committed_regular": 7418,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 7.0,
+    "p90": 14.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 6.86842814774872
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f01_b10_k2_F60",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14710,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 73550
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b10_k2_F60",
+    "fault": 1,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.29911833872903953,
+     "XMEAS-9": 0.008885615214001611,
+     "XMV-10": 0.07457159776875547,
+     "XMEAS-4": 0.042836078388570155,
+     "XMEAS-21": 0.010815044491705166
+    },
+    "flush_every": 60,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 59,
+    "n_before_first_flush": 51,
+    "n_cells_before_first_flush": 255,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 12250
+   },
+   "mean_achieved_retention": 0.4483172275908031,
+   "commit_lag": {
+    "n_committed_regular": 6722,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 29.0,
+    "p90": 54.0,
+    "p99": 59.0,
+    "max": 59.0,
+    "mean": 29.310026777744717
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f01_b10_k5_F01",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b10_k5_F01",
+    "fault": 1,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.8588146462804552,
+     "XMEAS-9": 0.01940559796224953,
+     "XMV-10": 0.15604068426939877,
+     "XMEAS-4": 0.09220108438658026,
+     "XMEAS-21": 0.024704210582827072
+    },
+    "flush_every": 1,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 0,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15005,
+    "n_committed_at_final_flush": 0,
+    "min": 0.0,
+    "p50": 0.0,
+    "p90": 0.0,
+    "p99": 0.0,
+    "max": 0.0,
+    "mean": 0.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / not_applicable"
+  },
+  {
+   "run_id": "f01_b10_k5_F05",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b10_k5_F05",
+    "fault": 1,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.8588146462804552,
+     "XMEAS-9": 0.01940559796224953,
+     "XMV-10": 0.15604068426939877,
+     "XMEAS-4": 0.09220108438658026,
+     "XMEAS-21": 0.024704210582827072
+    },
+    "flush_every": 5,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 4,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 0.4245918027324226,
+   "commit_lag": {
+    "n_committed_regular": 6366,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 1.5,
+    "p90": 4.0,
+    "p99": 4.0,
+    "max": 4.0,
+    "mean": 1.9789506754633992
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f01_b10_k5_F15",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14935,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74675
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b10_k5_F15",
+    "fault": 1,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.8588146462804552,
+     "XMEAS-9": 0.01940559796224953,
+     "XMV-10": 0.15604068426939877,
+     "XMEAS-4": 0.09220108438658026,
+     "XMEAS-21": 0.024704210582827072
+    },
+    "flush_every": 15,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 14,
+    "n_before_first_flush": 6,
+    "n_cells_before_first_flush": 30,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 4975
+   },
+   "mean_achieved_retention": 0.1987337554148617,
+   "commit_lag": {
+    "n_committed_regular": 2977,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 6.0,
+    "p90": 14.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 6.749076251259657
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f01_b10_k5_F60",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14710,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 73550
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b10_k5_F60",
+    "fault": 1,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.8588146462804552,
+     "XMEAS-9": 0.01940559796224953,
+     "XMV-10": 0.15604068426939877,
+     "XMEAS-4": 0.09220108438658026,
+     "XMEAS-21": 0.024704210582827072
+    },
+    "flush_every": 60,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 59,
+    "n_before_first_flush": 51,
+    "n_cells_before_first_flush": 255,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 12250
+   },
+   "mean_achieved_retention": 0.12409196934355213,
+   "commit_lag": {
+    "n_committed_regular": 1857,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 26.0,
+    "p90": 59.0,
+    "p99": 59.0,
+    "max": 59.0,
+    "mean": 27.961766289714593
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f01_b10_none_F01",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b10_none_F01",
+    "fault": 1,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "none",
+    "compdev": {
+     "XMEAS-7": null,
+     "XMEAS-9": null,
+     "XMV-10": null,
+     "XMEAS-4": null,
+     "XMEAS-21": null
+    },
+    "flush_every": 1,
+    "iotdb_version": "1.3.7",
+    "retention_level": "none"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 0,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15005,
+    "n_committed_at_final_flush": 0,
+    "min": 0.0,
+    "p50": 0.0,
+    "p90": 0.0,
+    "p99": 0.0,
+    "max": 0.0,
+    "mean": 0.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / not_applicable"
+  },
+  {
+   "run_id": "f01_b10_none_F15",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14935,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74675
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b10_none_F15",
+    "fault": 1,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "none",
+    "compdev": {
+     "XMEAS-7": null,
+     "XMEAS-9": null,
+     "XMV-10": null,
+     "XMEAS-4": null,
+     "XMEAS-21": null
+    },
+    "flush_every": 15,
+    "iotdb_version": "1.3.7",
+    "retention_level": "none"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 14,
+    "n_before_first_flush": 6,
+    "n_cells_before_first_flush": 30,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 4975
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15000,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 7.0,
+    "p90": 13.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 7.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f01_b10_none_F15_rep1",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14935,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74675
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f01_b10_none_F15_rep1",
+    "fault": 1,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "none",
+    "compdev": {
+     "XMEAS-7": null,
+     "XMEAS-9": null,
+     "XMV-10": null,
+     "XMEAS-4": null,
+     "XMEAS-21": null
+    },
+    "flush_every": 15,
+    "iotdb_version": "1.3.7",
+    "retention_level": "none"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 14,
+    "n_before_first_flush": 6,
+    "n_cells_before_first_flush": 30,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 4975
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15000,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 7.0,
+    "p90": 13.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 7.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b09_k2_F01",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b09_k2_F01",
+    "fault": 14,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.5076302379344998,
+     "XMEAS-9": 0.06961546111538922,
+     "XMV-10": 0.579908600951204,
+     "XMEAS-4": 0.045325611053986595,
+     "XMEAS-21": 0.13589860500482867
+    },
+    "flush_every": 1,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 0,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15005,
+    "n_committed_at_final_flush": 0,
+    "min": 0.0,
+    "p50": 0.0,
+    "p90": 0.0,
+    "p99": 0.0,
+    "max": 0.0,
+    "mean": 0.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / not_applicable"
+  },
+  {
+   "run_id": "f14_b09_k2_F05",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b09_k2_F05",
+    "fault": 14,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.5076302379344998,
+     "XMEAS-9": 0.06961546111538922,
+     "XMV-10": 0.579908600951204,
+     "XMEAS-4": 0.045325611053986595,
+     "XMEAS-21": 0.13589860500482867
+    },
+    "flush_every": 5,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 4,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 0.63892035988004,
+   "commit_lag": {
+    "n_committed_regular": 9582,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 2.0,
+    "p90": 4.0,
+    "p99": 4.0,
+    "max": 4.0,
+    "mean": 1.9765184721352536
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b09_k2_F15",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14935,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74675
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b09_k2_F15",
+    "fault": 14,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.5076302379344998,
+     "XMEAS-9": 0.06961546111538922,
+     "XMV-10": 0.579908600951204,
+     "XMEAS-4": 0.045325611053986595,
+     "XMEAS-21": 0.13589860500482867
+    },
+    "flush_every": 15,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 14,
+    "n_before_first_flush": 6,
+    "n_cells_before_first_flush": 30,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 4975
+   },
+   "mean_achieved_retention": 0.4981006331222925,
+   "commit_lag": {
+    "n_committed_regular": 7469,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 7.0,
+    "p90": 14.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 6.945374213415451
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b09_k2_F60",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14710,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 73550
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b09_k2_F60",
+    "fault": 14,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.5076302379344998,
+     "XMEAS-9": 0.06961546111538922,
+     "XMV-10": 0.579908600951204,
+     "XMEAS-4": 0.045325611053986595,
+     "XMEAS-21": 0.13589860500482867
+    },
+    "flush_every": 60,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 59,
+    "n_before_first_flush": 51,
+    "n_cells_before_first_flush": 255,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 12250
+   },
+   "mean_achieved_retention": 0.44605131622792404,
+   "commit_lag": {
+    "n_committed_regular": 6688,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 29.0,
+    "p90": 54.0,
+    "p99": 59.0,
+    "max": 59.0,
+    "mean": 29.4375
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b09_k2_F60_rep1",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14710,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 73550
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b09_k2_F60_rep1",
+    "fault": 14,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.5076302379344998,
+     "XMEAS-9": 0.06961546111538922,
+     "XMV-10": 0.579908600951204,
+     "XMEAS-4": 0.045325611053986595,
+     "XMEAS-21": 0.13589860500482867
+    },
+    "flush_every": 60,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 59,
+    "n_before_first_flush": 51,
+    "n_cells_before_first_flush": 255,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 12250
+   },
+   "mean_achieved_retention": 0.44605131622792404,
+   "commit_lag": {
+    "n_committed_regular": 6688,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 29.0,
+    "p90": 54.0,
+    "p99": 59.0,
+    "max": 59.0,
+    "mean": 29.4375
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b09_k5_F01",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b09_k5_F01",
+    "fault": 14,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 1.5425416993398142,
+     "XMEAS-9": 0.2511515200341091,
+     "XMV-10": 1.9951320086263151,
+     "XMEAS-4": 0.09259253835851959,
+     "XMEAS-21": 0.47154221322364914
+    },
+    "flush_every": 1,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 0,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15005,
+    "n_committed_at_final_flush": 0,
+    "min": 0.0,
+    "p50": 0.0,
+    "p90": 0.0,
+    "p99": 0.0,
+    "max": 0.0,
+    "mean": 0.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / not_applicable"
+  },
+  {
+   "run_id": "f14_b09_k5_F05",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b09_k5_F05",
+    "fault": 14,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 1.5425416993398142,
+     "XMEAS-9": 0.2511515200341091,
+     "XMV-10": 1.9951320086263151,
+     "XMEAS-4": 0.09259253835851959,
+     "XMEAS-21": 0.47154221322364914
+    },
+    "flush_every": 5,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 4,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 0.4375208263912029,
+   "commit_lag": {
+    "n_committed_regular": 6560,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 1.0,
+    "p90": 4.0,
+    "p99": 4.0,
+    "max": 4.0,
+    "mean": 1.9388719512195123
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b09_k5_F15",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14935,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74675
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b09_k5_F15",
+    "fault": 14,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 1.5425416993398142,
+     "XMEAS-9": 0.2511515200341091,
+     "XMV-10": 1.9951320086263151,
+     "XMEAS-4": 0.09259253835851959,
+     "XMEAS-21": 0.47154221322364914
+    },
+    "flush_every": 15,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 14,
+    "n_before_first_flush": 6,
+    "n_cells_before_first_flush": 30,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 4975
+   },
+   "mean_achieved_retention": 0.2012662445851383,
+   "commit_lag": {
+    "n_committed_regular": 3015,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 7.0,
+    "p90": 14.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 6.940298507462686
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b09_k5_F60",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14710,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 73550
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b09_k5_F60",
+    "fault": 14,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 1.5425416993398142,
+     "XMEAS-9": 0.2511515200341091,
+     "XMV-10": 1.9951320086263151,
+     "XMEAS-4": 0.09259253835851959,
+     "XMEAS-21": 0.47154221322364914
+    },
+    "flush_every": 60,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 59,
+    "n_before_first_flush": 51,
+    "n_cells_before_first_flush": 255,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 12250
+   },
+   "mean_achieved_retention": 0.0991669443518827,
+   "commit_lag": {
+    "n_committed_regular": 1483,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 31.0,
+    "p90": 59.0,
+    "p99": 59.0,
+    "max": 59.0,
+    "mean": 30.5043830074174
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b09_none_F01",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b09_none_F01",
+    "fault": 14,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "none",
+    "compdev": {
+     "XMEAS-7": null,
+     "XMEAS-9": null,
+     "XMV-10": null,
+     "XMEAS-4": null,
+     "XMEAS-21": null
+    },
+    "flush_every": 1,
+    "iotdb_version": "1.3.7",
+    "retention_level": "none"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 0,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15005,
+    "n_committed_at_final_flush": 0,
+    "min": 0.0,
+    "p50": 0.0,
+    "p90": 0.0,
+    "p99": 0.0,
+    "max": 0.0,
+    "mean": 0.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / not_applicable"
+  },
+  {
+   "run_id": "f14_b09_none_F15",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14935,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74675
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b09_none_F15",
+    "fault": 14,
+    "batch": 9,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "none",
+    "compdev": {
+     "XMEAS-7": null,
+     "XMEAS-9": null,
+     "XMV-10": null,
+     "XMEAS-4": null,
+     "XMEAS-21": null
+    },
+    "flush_every": 15,
+    "iotdb_version": "1.3.7",
+    "retention_level": "none"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 14,
+    "n_before_first_flush": 6,
+    "n_cells_before_first_flush": 30,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 4975
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15000,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 7.0,
+    "p90": 13.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 7.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b10_k2_F01",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b10_k2_F01",
+    "fault": 14,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.5076302379344998,
+     "XMEAS-9": 0.06961546111538922,
+     "XMV-10": 0.579908600951204,
+     "XMEAS-4": 0.045325611053986595,
+     "XMEAS-21": 0.13589860500482867
+    },
+    "flush_every": 1,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 0,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15005,
+    "n_committed_at_final_flush": 0,
+    "min": 0.0,
+    "p50": 0.0,
+    "p90": 0.0,
+    "p99": 0.0,
+    "max": 0.0,
+    "mean": 0.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / not_applicable"
+  },
+  {
+   "run_id": "f14_b10_k2_F05",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b10_k2_F05",
+    "fault": 14,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.5076302379344998,
+     "XMEAS-9": 0.06961546111538922,
+     "XMV-10": 0.579908600951204,
+     "XMEAS-4": 0.045325611053986595,
+     "XMEAS-21": 0.13589860500482867
+    },
+    "flush_every": 5,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 4,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 0.6440519826724426,
+   "commit_lag": {
+    "n_committed_regular": 9659,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 2.0,
+    "p90": 4.0,
+    "p99": 4.0,
+    "max": 4.0,
+    "mean": 1.9862304586396107
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b10_k2_F15",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14935,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74675
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b10_k2_F15",
+    "fault": 14,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.5076302379344998,
+     "XMEAS-9": 0.06961546111538922,
+     "XMV-10": 0.579908600951204,
+     "XMEAS-4": 0.045325611053986595,
+     "XMEAS-21": 0.13589860500482867
+    },
+    "flush_every": 15,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 14,
+    "n_before_first_flush": 6,
+    "n_cells_before_first_flush": 30,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 4975
+   },
+   "mean_achieved_retention": 0.5037654115294902,
+   "commit_lag": {
+    "n_committed_regular": 7554,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 7.0,
+    "p90": 14.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 6.9416203335980935
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b10_k2_F60",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14710,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 73550
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b10_k2_F60",
+    "fault": 14,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 0.5076302379344998,
+     "XMEAS-9": 0.06961546111538922,
+     "XMV-10": 0.579908600951204,
+     "XMEAS-4": 0.045325611053986595,
+     "XMEAS-21": 0.13589860500482867
+    },
+    "flush_every": 60,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k2"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 59,
+    "n_before_first_flush": 51,
+    "n_cells_before_first_flush": 255,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 12250
+   },
+   "mean_achieved_retention": 0.4513828723758747,
+   "commit_lag": {
+    "n_committed_regular": 6768,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 29.0,
+    "p90": 54.0,
+    "p99": 59.0,
+    "max": 59.0,
+    "mean": 29.29092789598109
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b10_k5_F01",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b10_k5_F01",
+    "fault": 14,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 1.5425416993398142,
+     "XMEAS-9": 0.2511515200341091,
+     "XMV-10": 1.9951320086263151,
+     "XMEAS-4": 0.09259253835851959,
+     "XMEAS-21": 0.47154221322364914
+    },
+    "flush_every": 1,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 0,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15005,
+    "n_committed_at_final_flush": 0,
+    "min": 0.0,
+    "p50": 0.0,
+    "p90": 0.0,
+    "p99": 0.0,
+    "max": 0.0,
+    "mean": 0.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / not_applicable"
+  },
+  {
+   "run_id": "f14_b10_k5_F05",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b10_k5_F05",
+    "fault": 14,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 1.5425416993398142,
+     "XMEAS-9": 0.2511515200341091,
+     "XMV-10": 1.9951320086263151,
+     "XMEAS-4": 0.09259253835851959,
+     "XMEAS-21": 0.47154221322364914
+    },
+    "flush_every": 5,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 4,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 0.4404531822725758,
+   "commit_lag": {
+    "n_committed_regular": 6604,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 1.0,
+    "p90": 4.0,
+    "p99": 4.0,
+    "max": 4.0,
+    "mean": 1.9383706844336765
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b10_k5_F05_rep1",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b10_k5_F05_rep1",
+    "fault": 14,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 1.5425416993398142,
+     "XMEAS-9": 0.2511515200341091,
+     "XMV-10": 1.9951320086263151,
+     "XMEAS-4": 0.09259253835851959,
+     "XMEAS-21": 0.47154221322364914
+    },
+    "flush_every": 5,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 4,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 0.4404531822725758,
+   "commit_lag": {
+    "n_committed_regular": 6604,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 1.0,
+    "p90": 4.0,
+    "p99": 4.0,
+    "max": 4.0,
+    "mean": 1.9383706844336765
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 11970,
+     "cell_mismatch_rate": 0.7998663548279319,
+     "n_feature_mismatch": 17955
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b10_k5_F15",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14935,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74675
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b10_k5_F15",
+    "fault": 14,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 1.5425416993398142,
+     "XMEAS-9": 0.2511515200341091,
+     "XMV-10": 1.9951320086263151,
+     "XMEAS-4": 0.09259253835851959,
+     "XMEAS-21": 0.47154221322364914
+    },
+    "flush_every": 15,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 14,
+    "n_before_first_flush": 6,
+    "n_cells_before_first_flush": 30,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 4975
+   },
+   "mean_achieved_retention": 0.210596467844052,
+   "commit_lag": {
+    "n_committed_regular": 3155,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 6.0,
+    "p90": 14.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 6.839619651347068
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b10_k5_F60",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14710,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 73550
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b10_k5_F60",
+    "fault": 14,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "SDT",
+    "compdev": {
+     "XMEAS-7": 1.5425416993398142,
+     "XMEAS-9": 0.2511515200341091,
+     "XMV-10": 1.9951320086263151,
+     "XMEAS-4": 0.09259253835851959,
+     "XMEAS-21": 0.47154221322364914
+    },
+    "flush_every": 60,
+    "iotdb_version": "1.3.7",
+    "retention_level": "k5"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 59,
+    "n_before_first_flush": 51,
+    "n_cells_before_first_flush": 255,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 12250
+   },
+   "mean_achieved_retention": 0.11456181272909031,
+   "commit_lag": {
+    "n_committed_regular": 1714,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 30.0,
+    "p90": 59.0,
+    "p99": 59.0,
+    "max": 59.0,
+    "mean": 29.475495915986
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14710,
+     "n_cells_any_mismatch": 14460,
+     "cell_mismatch_rate": 0.9830047586675731,
+     "n_feature_mismatch": 67380
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  },
+  {
+   "run_id": "f14_b10_none_F01",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b10_none_F01",
+    "fault": 14,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "none",
+    "compdev": {
+     "XMEAS-7": null,
+     "XMEAS-9": null,
+     "XMV-10": null,
+     "XMEAS-4": null,
+     "XMEAS-21": null
+    },
+    "flush_every": 1,
+    "iotdb_version": "1.3.7",
+    "retention_level": "none"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 0,
+    "n_before_first_flush": 0,
+    "n_cells_before_first_flush": 0,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 0
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15005,
+    "n_committed_at_final_flush": 0,
+    "min": 0.0,
+    "p50": 0.0,
+    "p90": 0.0,
+    "p99": 0.0,
+    "max": 0.0,
+    "mean": 0.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / not_applicable"
+  },
+  {
+   "run_id": "f14_b10_none_F15",
+   "status": "ok",
+   "status_valid": "valid",
+   "invalid_reasons": [],
+   "primary_result": {
+    "result": "match",
+    "n_cells_evaluated": 14935,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74675
+   },
+   "visible_result": {
+    "result": "match",
+    "n_cells_evaluated": 14965,
+    "n_cells_mismatch": 0,
+    "n_cells_rowset_mismatch": 0,
+    "n_feature_mismatch": 0,
+    "n_features": 74825
+   },
+   "meta": {
+    "run_id": "f14_b10_none_F15",
+    "fault": 14,
+    "batch": 10,
+    "n_ticks": 3001,
+    "channels": [
+     "XMEAS-7",
+     "XMEAS-9",
+     "XMV-10",
+     "XMEAS-4",
+     "XMEAS-21"
+    ],
+    "deadband": "none",
+    "compdev": {
+     "XMEAS-7": null,
+     "XMEAS-9": null,
+     "XMV-10": null,
+     "XMEAS-4": null,
+     "XMEAS-21": null
+    },
+    "flush_every": 15,
+    "iotdb_version": "1.3.7",
+    "retention_level": "none"
+   },
+   "origins": {
+    "first": 8,
+    "last": 3000,
+    "n": 2993,
+    "first_flush_tick": 14,
+    "n_before_first_flush": 6,
+    "n_cells_before_first_flush": 30,
+    "n_cells_truth_undetermined": 0,
+    "n_commit_anchor_rows": 4975
+   },
+   "mean_achieved_retention": 1.0,
+   "commit_lag": {
+    "n_committed_regular": 15000,
+    "n_committed_at_final_flush": 5,
+    "min": 0.0,
+    "p50": 7.0,
+    "p90": 13.0,
+    "p99": 14.0,
+    "max": 14.0,
+    "mean": 7.0
+   },
+   "violations": 0,
+   "comparisons": {
+    "Replay_commit_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "Replay_visible_vs_S_all": {
+     "n_cells_evaluated": 14965,
+     "n_cells_any_mismatch": 0,
+     "cell_mismatch_rate": 0.0,
+     "n_feature_mismatch": 0
+    },
+    "V3_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V_server_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "V1_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    },
+    "S_all_vs_S_commit": {
+     "n_cells_evaluated": 14935,
+     "n_cells_any_mismatch": 13935,
+     "cell_mismatch_rate": 0.9330431871442919,
+     "n_feature_mismatch": 49755
+    }
+   },
+   "v_server_equals_v3": true,
+   "negative_checks": "detected / detected / detected"
+  }
+ ]
+}
